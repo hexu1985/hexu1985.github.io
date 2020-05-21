@@ -2,13 +2,10 @@
 
 ## Table of contents 
 
-### github主页
+### git主页
 
-<https://github.com/hexu1985>
-
-### gitee主页
-
-<https://gitee.com/hexu1985>
+- github主页 <https://github.com/hexu1985>
+- gitee主页 <https://gitee.com/hexu1985>
 
 ### 教程及示例总结
 
