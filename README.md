@@ -58,7 +58,7 @@
     - [Qt5.9 C++开发指南](https://github.com/hexu1985/Qt.Cpp.Developer.Guide)
       [`[back-up]`](https://gitee.com/hexu1985/Qt.Cpp.Developer.Guide)
 
-### 参考手册链接
+### 参考文档链接
 
 + C++
     - [cpluplus.com](http://www.cplusplus.com/reference/)
