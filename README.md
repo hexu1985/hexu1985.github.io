@@ -1,4 +1,4 @@
-# Table of contents 
+## Table of contents 
 
 ### git主页
 
@@ -14,6 +14,7 @@
     - [Gflags & Glog Tutorial](https://github.com/hexu1985/Gflags.And.Glog.Tutorial)
       [`[back-up]`](https://gitee.com/hexu1985/Gflags.And.Glog.Tutorial)
     - [GoogleTest Tutorial](https://github.com/hexu1985/GoogleTest.Tutorial)
+      [`[back-up]`](https://gitee.com/hexu1985/GoogleTest.Tutorial)
     - [Pybind11 Tutorial](https://github.com/hexu1985/Pybind11.Tutorial)(更新中)
     - [Boost.Python Tutorial](https://github.com/hexu1985/Boost.Python.Tutorial)(更新中)
 
@@ -25,6 +26,7 @@
 
 + 设计模式
     - [软件架构与模式](https://github.com/hexu1985/Architectural.And.Design.Patterns.Of.Software.Engineering)
+      [`[back-up]`](https://gitee.com/hexu1985/Architectural.And.Design.Patterns.Of.Software.Engineering)
     - [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/Modern.Cpp.Design)
 
 + 系统编程
@@ -44,11 +46,17 @@
 
 + Qt相关
     - [C++ GUI Qt4编程(第二版)](https://github.com/hexu1985/Cpp.GUI.Programming.with.Qt)
+      [`[back-up]`](https://gitee.com/hexu1985/Cpp.GUI.Programming.with.Qt)
     - [C++ Qt设计模式(第二版)](https://github.com/hexu1985/Design.Patterns.in.Cpp.with.Qt)
+      [`[back-up]`](https://gitee.com/hexu1985/Design.Patterns.in.Cpp.with.Qt)
     - [Linux窗口程序设计 Qt4精彩实例分析](https://github.com/hexu1985/Linux.Windows.Programming.With.Qt)
+      [`[back-up]`](https://gitee.com/hexu1985/Linux.Windows.Programming.With.Qt)
     - [Qt5开发及实例](https://github.com/hexu1985/Qt.Development.And.Example)
+      [`[back-up]`](https://gitee.com/hexu1985/Qt.Development.And.Example)
     - [Qt5开发实战](https://github.com/hexu1985/Qt.Programming.Guide)
+      [`[back-up]`](https://gitee.com/hexu1985/Qt.Programming.Guide)
     - [Qt5.9 C++开发指南](https://github.com/hexu1985/Qt.Cpp.Developer.Guide)
+      [`[back-up]`](https://gitee.com/hexu1985/Qt.Cpp.Developer.Guide)
 
 ### 参考手册链接
 
