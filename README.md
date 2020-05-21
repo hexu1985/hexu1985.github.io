@@ -1,5 +1,3 @@
-# hexu1985.github.io
-
 ## Table of contents 
 
 ### git主页
