@@ -1,10 +1,6 @@
-# Hexu's main page 
+# Table of contents 
 
-[first service](https://hexu1985.github.io)
-
-[second service](https://hexu1985.gitee.io)
-
-## Table of contents 
+---
 
 ### git主页
 
@@ -79,4 +75,10 @@
 
 + Others
     - [GraphViz Pocket Reference](https://graphs.grevian.org/)
+
+---
+
+[first link](https://hexu1985.github.io)
+
+[second link](https://hexu1985.gitee.io)
 
