@@ -36,6 +36,7 @@
     - [软件架构与模式](https://github.com/hexu1985/Architectural.And.Design.Patterns.Of.Software.Engineering)
       [`[back-up]`](https://gitee.com/hexu1985/Architectural.And.Design.Patterns.Of.Software.Engineering)
     - [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/Modern.Cpp.Design)
+      [`[back-up]`](https://gitee.com/hexu1985/Modern.Cpp.Design)
 
 + 系统编程
     - [UNXI网络编程 卷1 卷2](https://github.com/hexu1985/UNIX.Network.Programming)
