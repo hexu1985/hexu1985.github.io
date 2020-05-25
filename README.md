@@ -9,7 +9,9 @@
 
 + C++
     - [mini socket](https://github.com/hexu1985/Cpp.MiniSocket)
+      [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniSocket)
     - [mini utils](https://github.com/hexu1985/Cpp.MiniUtils)
+      [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniUtils)
 
 ### 教程及示例总结
 
