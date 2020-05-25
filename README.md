@@ -8,8 +8,8 @@
 ### 我的项目
 
 + C++
-    -[mini socket](https://github.com/hexu1985/MiniSocket.For.Cpp)
-    -[mini utils](https://github.com/hexu1985/MiniUtils.For.Cpp)
+    -[mini socket](https://github.com/hexu1985/Cpp.MiniSocket)
+    -[mini utils](https://github.com/hexu1985/Cpp.MiniUtils)
 
 ### 教程及示例总结
 
