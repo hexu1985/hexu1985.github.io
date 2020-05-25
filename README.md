@@ -5,6 +5,12 @@
 - github主页 <https://github.com/hexu1985>
 - gitee主页 <https://gitee.com/hexu1985>
 
+### 我的项目
+
++ C++
+    -[mini socket](https://github.com/hexu1985/MiniSocket.For.Cpp)
+    -[mini utils](https://github.com/hexu1985/MiniUtils.For.Cpp)
+
 ### 教程及示例总结
 
 + 算法
