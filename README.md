@@ -39,6 +39,7 @@
 
 + 系统编程
     - [UNXI网络编程 卷1 卷2](https://github.com/hexu1985/UNIX.Network.Programming)
+      [`[back-up]`](https://gitee.com/hexu1985/UNIX.Network.Programming)
 
 + C++语言
     - [C++程序设计原理与实践](https://github.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
