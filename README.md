@@ -12,6 +12,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniSocket)
     - [mini utils](https://github.com/hexu1985/Cpp.MiniUtils)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniUtils)
+    - [mini stl](https://github.com/hexu1985/Cpp.MiniSTL)
+      [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniSTL)
 
 ### 教程及示例总结
 
