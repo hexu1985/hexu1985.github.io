@@ -27,7 +27,9 @@
     - [GoogleTest Tutorial](https://github.com/hexu1985/GoogleTest.Tutorial)
       [`[back-up]`](https://gitee.com/hexu1985/GoogleTest.Tutorial)
     - [Pybind11 Tutorial](https://github.com/hexu1985/Pybind11.Tutorial)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/Pybind11.Tutorial)
     - [Boost.Python Tutorial](https://github.com/hexu1985/Boost.Python.Tutorial)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/Boost.Python.Tutorial)
 
 + Markdown
     - [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial)(更新中)
