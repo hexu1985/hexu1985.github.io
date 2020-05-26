@@ -8,17 +8,18 @@
 ### 我的项目
 
 + C++
-    - [mini socket](https://github.com/hexu1985/Cpp.MiniSocket)
+    - [mini socket](https://github.com/hexu1985/Cpp.MiniSocket)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniSocket)
-    - [mini utils](https://github.com/hexu1985/Cpp.MiniUtils)
+    - [mini utils](https://github.com/hexu1985/Cpp.MiniUtils)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniUtils)
-    - [mini stl](https://github.com/hexu1985/Cpp.MiniSTL)
+    - [mini stl](https://github.com/hexu1985/Cpp.MiniSTL)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniSTL)
 
 ### 教程及示例总结
 
 + 算法
     - [Graph Algorithm Tutorial](https://github.com/hexu1985/Graph.Algorithm.Tutorial)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/Graph.Algorithm.Tutorial)
 
 + C++库
     - [Gflags & Glog Tutorial](https://github.com/hexu1985/Gflags.And.Glog.Tutorial)
