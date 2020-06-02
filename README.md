@@ -78,6 +78,9 @@
     - [Qt5.9 C++开发指南](https://github.com/hexu1985/Qt.Cpp.Developer.Guide)
       [`[back-up]`](https://gitee.com/hexu1985/Qt.Cpp.Developer.Guide)
 
++ Utility
+    - [软件调试的艺术](https://github.com/hexu1985/Art.Of.Debugging)
+
 ### 参考文档链接
 
 + C++
