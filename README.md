@@ -33,6 +33,11 @@
 
 + Markdown
     - [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/Markdown.Tutorial)
+
++ Utility
+    - [CMake Cookbook](https://github.com/hexu1985/CMake.Cookbook)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/CMake.Cookbook)
 
 
 ### 随书示例代码
