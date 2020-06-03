@@ -35,11 +35,6 @@
     - [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Markdown.Tutorial)
 
-+ Utility
-    - [CMake Cookbook](https://github.com/hexu1985/CMake.Cookbook)(更新中)
-      [`[back-up]`](https://gitee.com/hexu1985/CMake.Cookbook)
-
-
 ### 随书示例代码
 
 + 设计模式
@@ -78,7 +73,9 @@
     - [Qt5.9 C++开发指南](https://github.com/hexu1985/Qt.Cpp.Developer.Guide)
       [`[back-up]`](https://gitee.com/hexu1985/Qt.Cpp.Developer.Guide)
 
-+ Debug相关
++ Utility
+    - [CMake Cookbook](https://github.com/hexu1985/CMake.Cookbook)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/CMake.Cookbook)
     - [软件调试的艺术](https://github.com/hexu1985/Art.Of.Debugging)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Art.Of.Debugging)
 
