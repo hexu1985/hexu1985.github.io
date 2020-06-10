@@ -40,8 +40,8 @@
 + 设计模式
     - [软件架构与模式](https://github.com/hexu1985/Architectural.And.Design.Patterns.Of.Software.Engineering)
       [`[back-up]`](https://gitee.com/hexu1985/Architectural.And.Design.Patterns.Of.Software.Engineering)
-    - [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/Modern.Cpp.Design)
-      [`[back-up]`](https://gitee.com/hexu1985/Modern.Cpp.Design)
+    - [Head First设计模式](https://github.com/hexu1985/Head.First.Design.Pattern)
+      [`[back-up]`](https://gitee.com/hexu1985/Head.First.Design.Pattern)
 
 + 系统编程
     - [UNXI网络编程 卷1 卷2](https://github.com/hexu1985/UNIX.Network.Programming)
@@ -49,6 +49,8 @@
 
 + C++语言
     - [C++程序设计原理与实践](https://github.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
+    - [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/Modern.Cpp.Design)
+      [`[back-up]`](https://gitee.com/hexu1985/Modern.Cpp.Design)
 
 + C++标准库
     - [标准C++输入输出流与本地化](https://github.com/hexu1985/Standard.Cpp.IOStreams.And.Locales)
