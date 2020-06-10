@@ -49,6 +49,7 @@
 
 + C++语言
     - [C++程序设计原理与实践](https://github.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
+      [`[back-up]`](https://gitee.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
     - [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/Modern.Cpp.Design)
       [`[back-up]`](https://gitee.com/hexu1985/Modern.Cpp.Design)
 
