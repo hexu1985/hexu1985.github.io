@@ -57,7 +57,9 @@
     - [标准C++输入输出流与本地化](https://github.com/hexu1985/Standard.Cpp.IOStreams.And.Locales)
       [`[back-up]`](https://gitee.com/hexu1985/Standard.Cpp.IOStreams.And.Locales)
     - [C++标准库(第2版)](https://github.com/hexu1985/The.Cpp.Standard.Library.2e)
+      [`[back-up]`](https://gitee.com/hexu1985/The.Cpp.Standard.Library.2e)
     - [C++17 STL Cookbook](https://github.com/hexu1985/Cpp17.STL.Cookbook)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/Cpp17.STL.Cookbook)
 
 + Boost相关
     - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
