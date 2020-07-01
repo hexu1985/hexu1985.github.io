@@ -52,12 +52,10 @@
       [`[back-up]`](https://gitee.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
     - [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/Modern.Cpp.Design)
       [`[back-up]`](https://gitee.com/hexu1985/Modern.Cpp.Design)
-
-+ C++标准库
     - [标准C++输入输出流与本地化](https://github.com/hexu1985/Standard.Cpp.IOStreams.And.Locales)
       [`[back-up]`](https://gitee.com/hexu1985/Standard.Cpp.IOStreams.And.Locales)
-    - [C++标准库(第2版)](https://github.com/hexu1985/The.Cpp.Standard.Library.2e)
-      [`[back-up]`](https://gitee.com/hexu1985/The.Cpp.Standard.Library.2e)
+    - [C++标准库](https://github.com/hexu1985/The.Cpp.Standard.Library)
+      [`[back-up]`](https://gitee.com/hexu1985/The.Cpp.Standard.Library)
     - [C++17 STL Cookbook](https://github.com/hexu1985/Cpp17.STL.Cookbook)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp17.STL.Cookbook)
 
@@ -80,6 +78,10 @@
       [`[back-up]`](https://gitee.com/hexu1985/Qt.Programming.Guide)
     - [Qt5.9 C++开发指南](https://github.com/hexu1985/Qt.Cpp.Developer.Guide)
       [`[back-up]`](https://gitee.com/hexu1985/Qt.Cpp.Developer.Guide)
+
++ Python语言
+    - [Python标准库](https://github.com/hexu1985/Python.Standard.Library.By.Example)
+      [`[back-up]`](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
 
 + Utility
     - [CMake Cookbook](https://github.com/hexu1985/CMake.Cookbook)(更新中)
