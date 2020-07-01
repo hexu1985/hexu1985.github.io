@@ -63,7 +63,9 @@
 
 + Boost相关
     - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
+      [`[back-up]`](https://gitee.com/hexu1985/Beyond.The.Cpp.Standard.Library)
     - [深入实践Boost Boost程序库开发的94个秘笈](https://github.com/hexu1985/Boost.Cpp.Application.Development.Cookbook)
+      [`[back-up]`](https://gitee.com/hexu1985/Boost.Cpp.Application.Development.Cookbook)
 
 + Qt相关
     - [C++ GUI Qt4编程(第二版)](https://github.com/hexu1985/Cpp.GUI.Programming.with.Qt)
