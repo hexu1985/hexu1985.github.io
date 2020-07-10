@@ -84,7 +84,7 @@
       [`[back-up]`](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
 
 + OpenCV
-    - [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution)
+    - [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
 
 + Utility
