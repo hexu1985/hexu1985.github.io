@@ -82,6 +82,8 @@
 + Python语言
     - [Python标准库](https://github.com/hexu1985/Python.Standard.Library.By.Example)
       [`[back-up]`](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
+    - [matplotlib实践](https://github.com/hexu1985/Matplotlib.Practice)
+      [`[back-up]`](https://gitee.com/hexu1985/Matplotlib.Practice)
 
 + OpenCV
     - [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution)(更新中)
