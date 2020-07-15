@@ -47,7 +47,7 @@
     - [UNXI网络编程 卷1 卷2](https://github.com/hexu1985/UNIX.Network.Programming)
       [`[back-up]`](https://gitee.com/hexu1985/UNIX.Network.Programming)
 
-+ C++语言
++ C++
     - [C++程序设计原理与实践](https://github.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
       [`[back-up]`](https://gitee.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
     - [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/Modern.Cpp.Design)
@@ -59,13 +59,13 @@
     - [C++17 STL Cookbook](https://github.com/hexu1985/Cpp17.STL.Cookbook)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp17.STL.Cookbook)
 
-+ Boost相关
++ Boost
     - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
       [`[back-up]`](https://gitee.com/hexu1985/Beyond.The.Cpp.Standard.Library)
     - [深入实践Boost Boost程序库开发的94个秘笈](https://github.com/hexu1985/Boost.Cpp.Application.Development.Cookbook)
       [`[back-up]`](https://gitee.com/hexu1985/Boost.Cpp.Application.Development.Cookbook)
 
-+ Qt相关
++ Qt
     - [C++ GUI Qt4编程(第二版)](https://github.com/hexu1985/Cpp.GUI.Programming.with.Qt)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.GUI.Programming.with.Qt)
     - [C++ Qt设计模式(第二版)](https://github.com/hexu1985/Design.Patterns.in.Cpp.with.Qt)
@@ -79,7 +79,7 @@
     - [Qt5.9 C++开发指南](https://github.com/hexu1985/Qt.Cpp.Developer.Guide)
       [`[back-up]`](https://gitee.com/hexu1985/Qt.Cpp.Developer.Guide)
 
-+ Python语言
++ Python
     - [Python标准库](https://github.com/hexu1985/Python.Standard.Library.By.Example)
       [`[back-up]`](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
     - [matplotlib实践](https://github.com/hexu1985/Matplotlib.Practice)
