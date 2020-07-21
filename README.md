@@ -99,7 +99,7 @@
     - [汇编语言程序设计](https://github.com/hexu1985/Professional.Assembly.Language)
       [`[back-up]`](https://gitee.com/hexu1985/Professional.Assembly.Language)
     - [汇编程序设计与计算机体系结构--软件工程师教程](https://github.com/hexu1985/Assembly.Programming.And.Computer.Architecture)
-      [`[back-up]`](https://github.com/hexu1985/Assembly.Programming.And.Computer.Architecture)
+      [`[back-up]`](https://gitee.com/hexu1985/Assembly.Programming.And.Computer.Architecture)
 
 
 ### 参考文档链接
