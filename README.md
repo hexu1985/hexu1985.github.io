@@ -87,6 +87,10 @@
     - [Python数据可视化编程实战](https://github.com/hexu1985/Python.Data.Visualization.Cookbook)
       [`[back-up]`](https://gitee.com/hexu1985/Python.Data.Visualization.Cookbook)
 
++ Matlab
+    - [面向计算科学与工程的MATLAB编程](https://github.com/hexu1985/Matlab.Introduction)
+      [`[back-up]`](https://gitee.com/hexu1985/Matlab.Introduction)
+
 + OpenCV
     - [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
