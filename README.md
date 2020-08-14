@@ -82,8 +82,10 @@
 + Python
     - [Python标准库](https://github.com/hexu1985/Python.Standard.Library.By.Example)
       [`[back-up]`](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
-    - [matplotlib实践](https://github.com/hexu1985/Matplotlib.Practice)
+    - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/Matplotlib.Practice)
       [`[back-up]`](https://gitee.com/hexu1985/Matplotlib.Practice)
+    - [Python数据可视化编程实战](https://github.com/hexu1985/Python.Data.Visualization.Cookbook)
+      [`[back-up]`](https://gitee.com/hexu1985/Python.Data.Visualization.Cookbook)
 
 + OpenCV
     - [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution)(更新中)
