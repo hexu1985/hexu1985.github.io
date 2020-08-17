@@ -92,6 +92,9 @@
       [`[back-up]`](https://gitee.com/hexu1985/Linux.Shell.Scripting.Cookbook)
     - [Shell脚本编程诀窍 适用于Linux、Bash等](https://github.com/hexu1985/Shell.Scripting)
       [`[back-up]`](https://gitee.com/hexu1985/Shell.Scripting)
+    - [UNIX shell范例精解](https://github.com/hexu1985/UNIX.Shells.By.Example)
+      [`[back-up]`](https://gitee.com/hexu1985/UNIX.Shells.By.Example)
+
 
 + Matlab
     - [面向计算科学与工程的MATLAB编程](https://github.com/hexu1985/Matlab.Introduction)
