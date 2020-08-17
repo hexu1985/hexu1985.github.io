@@ -126,6 +126,8 @@
 + 编译器相关
     - [编译原理及实践](https://github.com/hexu1985/Compiler.Construction.Principles.And.Practice)
       [`[back-up]`](https://gitee.com/hexu1985/Compiler.Construction.Principles.And.Practice)
+    - [高级C/C++编译技术](https://github.com/hexu1985/Advanced.C.And.Cpp.Compiling)
+      [`[back-up]`](https://gitee.com/hexu1985/Advanced.C.And.Cpp.Compiling)
 
 
 ### 参考文档链接
