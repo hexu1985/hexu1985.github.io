@@ -114,6 +114,8 @@
 + Utility
     - [软件调试的艺术](https://github.com/hexu1985/Art.Of.Debugging.With.GDB)
       [`[back-up]`](https://gitee.com/hexu1985/Art.Of.Debugging.With.GDB)
+    - [GNU Make项目管理](https://github.com/hexu1985/Managing.Projects.With.GUN.Make)
+      [`[back-up]`](https://gitee.com/hexu1985/Managing.Projects.With.GUN.Make)
 
 + 汇编语言
     - [汇编语言程序设计](https://github.com/hexu1985/Professional.Assembly.Language)
