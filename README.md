@@ -123,6 +123,10 @@
     - [汇编程序设计与计算机体系结构--软件工程师教程](https://github.com/hexu1985/Assembly.Programming.And.Computer.Architecture)
       [`[back-up]`](https://gitee.com/hexu1985/Assembly.Programming.And.Computer.Architecture)
 
++ 编译器相关
+    - [编译原理及实践](https://github.com/hexu1985/Compiler.Construction.Principles.And.Practice)
+      [`[back-up]`](https://gitee.com/hexu1985/Compiler.Construction.Principles.And.Practice)
+
 
 ### 参考文档链接
 
