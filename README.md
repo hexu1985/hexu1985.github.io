@@ -35,6 +35,12 @@
     - [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Markdown.Tutorial)
 
++ Utility
+    - [CMake Cookbook](https://github.com/hexu1985/CMake.Cookbook)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/CMake.Cookbook)
+    - [Debug Tutorial](https://github.com/hexu1985/Debug.Tutorial)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/Debug.Tutorial)
+
 ### 随书示例代码
 
 + 设计模式
@@ -105,9 +111,7 @@
       [`[back-up]`](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
 
 + Utility
-    - [CMake Cookbook](https://github.com/hexu1985/CMake.Cookbook)(更新中)
-      [`[back-up]`](https://gitee.com/hexu1985/CMake.Cookbook)
-    - [软件调试的艺术](https://github.com/hexu1985/Art.Of.Debugging)(更新中)
+    - [软件调试的艺术](https://github.com/hexu1985/Art.Of.Debugging)
       [`[back-up]`](https://gitee.com/hexu1985/Art.Of.Debugging)
 
 + 汇编语言
