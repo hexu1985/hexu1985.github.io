@@ -62,7 +62,7 @@
       [`[back-up]`](https://gitee.com/hexu1985/Standard.Cpp.IOStreams.And.Locales)
     - [C++标准库](https://github.com/hexu1985/The.Cpp.Standard.Library)
       [`[back-up]`](https://gitee.com/hexu1985/The.Cpp.Standard.Library)
-    - [C++17 STL Cookbook](https://github.com/hexu1985/Cpp17.STL.Cookbook)(更新中)
+    - [C++17 STL Cookbook](https://github.com/hexu1985/Cpp17.STL.Cookbook)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp17.STL.Cookbook)
 
 + Boost
