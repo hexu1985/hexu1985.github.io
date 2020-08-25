@@ -92,6 +92,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Matplotlib.Practice)
     - [Python数据可视化编程实战](https://github.com/hexu1985/Python.Data.Visualization.Cookbook)
       [`[back-up]`](https://gitee.com/hexu1985/Python.Data.Visualization.Cookbook)
+    - [Python网络编程](https://github.com/hexu1985/Foundations.Of.Python.Network.Programming)
+      [`[back-up]`](https://gitee.com/hexu1985/Foundations.Of.Python.Network.Programming)
 
 + Shell
     - [Linux Shell脚本攻略](https://github.com/hexu1985/Linux.Shell.Scripting.Cookbook)
