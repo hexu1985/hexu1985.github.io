@@ -30,6 +30,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Pybind11.Tutorial)
     - [Boost.Python Tutorial](https://github.com/hexu1985/Boost.Python.Tutorial)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Boost.Python.Tutorial)
+    - [C++17 STL Cookbook](https://github.com/hexu1985/Cpp17.STL.Cookbook)
+      [`[back-up]`](https://gitee.com/hexu1985/Cpp17.STL.Cookbook)
 
 + Markdown
     - [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial)(更新中)
@@ -62,8 +64,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Standard.Cpp.IOStreams.And.Locales)
     - [C++标准库](https://github.com/hexu1985/The.Cpp.Standard.Library)
       [`[back-up]`](https://gitee.com/hexu1985/The.Cpp.Standard.Library)
-    - [C++17 STL Cookbook](https://github.com/hexu1985/Cpp17.STL.Cookbook)
-      [`[back-up]`](https://gitee.com/hexu1985/Cpp17.STL.Cookbook)
+    - [C++并发编程实战](https://github.com/hexu1985/Cpp.Concurrency.In.Action)
+      [`[back-up]`](https://gitee.com/hexu1985/Cpp.Concurrency.In.Action)
 
 + Boost
     - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
@@ -134,7 +136,6 @@
 + Web相关
     - [Head First HTML与CSS](https://github.com/hexu1985/Head.First.HTML.And.CSS)
       [`[back-up]`](https://gitee.com/hexu1985/Head.First.HTML.And.CSS)
-
 
 
 ### 参考文档链接
