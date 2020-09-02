@@ -59,6 +59,10 @@
     - [UNXI网络编程 卷1 卷2](https://github.com/hexu1985/UNIX.Network.Programming)
       [`[back-up]`](https://gitee.com/hexu1985/UNIX.Network.Programming)
 
++ C
+    - [C和指针](https://github.com/hexu1985/Pointers.On.C)
+      [`[back-up]`](https://gitee.com/hexu1985/Pointers.On.C)
+
 + C++
     - [C++程序设计原理与实践](https://github.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
       [`[back-up]`](https://gitee.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
