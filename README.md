@@ -14,12 +14,10 @@
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniUtils)
     - [mini stl](https://github.com/hexu1985/Cpp.MiniSTL)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniSTL)
-
-### 教程及示例总结
-
-+ 算法
     - [Graph Algorithm Tutorial](https://github.com/hexu1985/Graph.Algorithm.Tutorial)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Graph.Algorithm.Tutorial)
+
+### 教程及示例总结
 
 + C++库
     - [Gflags & Glog Tutorial](https://github.com/hexu1985/Gflags.And.Glog.Tutorial)
