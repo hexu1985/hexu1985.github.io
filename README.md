@@ -58,6 +58,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/UNIX.Network.Programming)
 
 + C
+    - [C程序设计语言](https://github.com/hexu1985/The.C.Programming.Language)
+      [`[back-up]`](https://gitee.com/hexu1985/The.C.Programming.Language)
     - [C和指针](https://github.com/hexu1985/Pointers.On.C)
       [`[back-up]`](https://gitee.com/hexu1985/Pointers.On.C)
     - [C语言核心技术](https://github.com/hexu1985/C.In.A.Nutshell)
