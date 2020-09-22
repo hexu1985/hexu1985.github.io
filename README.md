@@ -58,7 +58,7 @@
       [`[back-up]`](https://gitee.com/hexu1985/Understanding.UNIX.Linux.Programming)
     - [UNIX系统编程](https://github.com/hexu1985/UNIX.Systems.Programming)
       [`[back-up]`](https://gitee.com/hexu1985/UNIX.Systems.Programming)
-    - [UNXI网络编程 卷1 卷2](https://github.com/hexu1985/UNIX.Network.Programming)
+    - [UNIX网络编程 卷1 卷2](https://github.com/hexu1985/UNIX.Network.Programming)
       [`[back-up]`](https://gitee.com/hexu1985/UNIX.Network.Programming)
 
 + C
