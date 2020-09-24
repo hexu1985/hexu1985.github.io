@@ -52,6 +52,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Architectural.And.Design.Patterns.Of.Software.Engineering)
     - [Head First设计模式](https://github.com/hexu1985/Head.First.Design.Pattern)
       [`[back-up]`](https://gitee.com/hexu1985/Head.First.Design.Pattern)
+    - [精通Python设计模式](https://github.com/hexu1985/Mastering.Python.Design.Patterns)
+      [`[back-up]`](https://gitee.com/hexu1985/Mastering.Python.Design.Patterns)
 
 + 系统编程
     - [Unix/Linux编程实践教程](https://github.com/hexu1985/Understanding.UNIX.Linux.Programming)
