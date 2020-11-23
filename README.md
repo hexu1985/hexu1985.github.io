@@ -168,6 +168,7 @@
 
 + Python
     - [Python 3.x Docs](https://docs.python.org/3/)
+    - [Python Standard Library Docs](https://docs.python.org/3/library/)
     - [matplotlib Docs](https://matplotlib.org/contents.html)
     - [numpy Docs](https://numpy.org/doc/)
 
