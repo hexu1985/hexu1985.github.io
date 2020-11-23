@@ -118,10 +118,10 @@
       [`[back-up]`](https://gitee.com/hexu1985/Python.GUI.Tkinter)
 
 + Shell
+    - [Shell脚本学习指南](https://github.com/hexu1985/Classic.Shell.Scripting)
+      [`[back-up]`](https://gitee.com/hexu1985/Classic.Shell.Scripting)
     - [Linux Shell脚本攻略](https://github.com/hexu1985/Linux.Shell.Scripting.Cookbook)
       [`[back-up]`](https://gitee.com/hexu1985/Linux.Shell.Scripting.Cookbook)
-    - [Shell脚本编程诀窍 适用于Linux、Bash等](https://github.com/hexu1985/Shell.Scripting)
-      [`[back-up]`](https://gitee.com/hexu1985/Shell.Scripting)
     - [UNIX shell范例精解](https://github.com/hexu1985/UNIX.Shells.By.Example)
       [`[back-up]`](https://gitee.com/hexu1985/UNIX.Shells.By.Example)
     - [Shell脚本专家指南](https://github.com/hexu1985/Expert.Shell.Scripting)
