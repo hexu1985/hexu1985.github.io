@@ -66,6 +66,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/UNIX.Systems.Programming)
     - [UNIX网络编程 卷1 卷2](https://github.com/hexu1985/UNIX.Network.Programming)
       [`[back-up]`](https://gitee.com/hexu1985/UNIX.Network.Programming)
+    - [用TCP/IP进行网际互联 第三卷](https://github.com/hexu1985/Internetworking.With.TCP.IP)
+      [`[back-up]`](https://gitee.com/hexu1985/Internetworking.With.TCP.IP)
 
 + C
     - [C程序设计语言](https://github.com/hexu1985/The.C.Programming.Language)
