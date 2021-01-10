@@ -90,6 +90,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/The.Cpp.Standard.Library)
     - [C++并发编程实战](https://github.com/hexu1985/Cpp.Concurrency.In.Action)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.Concurrency.In.Action)
+    - [C++探秘 68讲贯通C++](https://github.com/hexu1985/Cpp.Exploring)
+      [`[back-up]`](https://gitee.com/hexu1985/Cpp.Exploring)
 
 + Boost
     - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
