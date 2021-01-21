@@ -8,11 +8,11 @@
 ### 我的项目
 
 + C++
-    - [mini socket](https://github.com/hexu1985/Cpp.MiniSocket)(更新中)
+    - [MiniSocket](https://github.com/hexu1985/Cpp.MiniSocket)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniSocket)
-    - [mini utils](https://github.com/hexu1985/Cpp.MiniUtils)(更新中)
+    - [MiniUtils](https://github.com/hexu1985/Cpp.MiniUtils)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniUtils)
-    - [mini stl](https://github.com/hexu1985/Cpp.MiniSTL)(更新中)
+    - [MiniSTL](https://github.com/hexu1985/Cpp.MiniSTL)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniSTL)
     - [Graph Algorithm Tutorial](https://github.com/hexu1985/Graph.Algorithm.Tutorial)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Graph.Algorithm.Tutorial)
@@ -35,10 +35,6 @@
     - [Boost Asio C++ Network Programming](https://github.com/hexu1985/Asio.Cpp.Network.Programming)
       [`[back-up]`](https://gitee.com/hexu1985/Asio.Cpp.Network.Programming)
 
-+ Socket
-    - [Socket Sample Code](https://github.com/hexu1985/Socket.Sample.Code)(更新中)
-      [`[back-up]`](https://gitee.com/hexu1985/Socket.Sample.Code)
-
 + Markdown
     - [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Markdown.Tutorial)
@@ -46,8 +42,6 @@
 + Utility
     - [CMake Cookbook](https://github.com/hexu1985/CMake.Cookbook)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/CMake.Cookbook)
-    - [Debug Tutorial](https://github.com/hexu1985/Debug.Tutorial)(更新中)
-      [`[back-up]`](https://gitee.com/hexu1985/Debug.Tutorial)
 
 ### 随书示例代码
 
@@ -90,8 +84,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/The.Cpp.Standard.Library)
     - [C++并发编程实战](https://github.com/hexu1985/Cpp.Concurrency.In.Action)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.Concurrency.In.Action)
-    - [C++探秘 68讲贯通C++](https://github.com/hexu1985/Cpp.Exploring)
-      [`[back-up]`](https://gitee.com/hexu1985/Cpp.Exploring)
+    - [C++探秘 68讲贯通C++](https://github.com/hexu1985/Exploring.Cpp)
+      [`[back-up]`](https://gitee.com/hexu1985/Exploring.Cpp)
 
 + Boost
     - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
