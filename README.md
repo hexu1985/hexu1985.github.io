@@ -167,6 +167,7 @@
     - [cppreference.com en](https://en.cppreference.com/w/)
     - [cppreference.com zh](https://zh.cppreference.com/w/)
     - [boost](https://www.boost.org/)
+    - [qt5 source online](https://code.woboq.org/qt5/)
 
 + Python
     - [Python 3.x Docs](https://docs.python.org/3/)
