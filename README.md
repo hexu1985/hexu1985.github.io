@@ -19,7 +19,7 @@
 
 ### 教程及示例总结
 
-+ C++库
++ C++
     - [Gflags & Glog Tutorial](https://github.com/hexu1985/Gflags.And.Glog.Tutorial)
       [`[back-up]`](https://gitee.com/hexu1985/Gflags.And.Glog.Tutorial)
     - [GoogleTest Tutorial](https://github.com/hexu1985/GoogleTest.Tutorial)
@@ -28,20 +28,10 @@
       [`[back-up]`](https://gitee.com/hexu1985/Pybind11.Tutorial)
     - [Boost.Python Tutorial](https://github.com/hexu1985/Boost.Python.Tutorial)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Boost.Python.Tutorial)
-    - [C++17 STL Cookbook](https://github.com/hexu1985/Cpp17.STL.Cookbook)
-      [`[back-up]`](https://gitee.com/hexu1985/Cpp17.STL.Cookbook)
-    - [Boost Asio C++ Network Programming Cookbook](https://github.com/hexu1985/Asio.Cpp.Network.Programming.Cookbook)
-      [`[back-up]`](https://gitee.com/hexu1985/Asio.Cpp.Network.Programming.Cookbook)
-    - [Boost Asio C++ Network Programming](https://github.com/hexu1985/Asio.Cpp.Network.Programming)
-      [`[back-up]`](https://gitee.com/hexu1985/Asio.Cpp.Network.Programming)
 
 + Markdown
     - [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Markdown.Tutorial)
-
-+ Utility
-    - [CMake Cookbook](https://github.com/hexu1985/CMake.Cookbook)(更新中)
-      [`[back-up]`](https://gitee.com/hexu1985/CMake.Cookbook)
 
 ### 随书示例代码
 
@@ -84,14 +74,18 @@
       [`[back-up]`](https://gitee.com/hexu1985/The.Cpp.Standard.Library)
     - [C++并发编程实战](https://github.com/hexu1985/Cpp.Concurrency.In.Action)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.Concurrency.In.Action)
-    - [C++探秘 68讲贯通C++](https://github.com/hexu1985/Exploring.Cpp)
-      [`[back-up]`](https://gitee.com/hexu1985/Exploring.Cpp)
+    - [C++17 STL Cookbook](https://github.com/hexu1985/Cpp17.STL.Cookbook)
+      [`[back-up]`](https://gitee.com/hexu1985/Cpp17.STL.Cookbook)
 
 + Boost
     - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
       [`[back-up]`](https://gitee.com/hexu1985/Beyond.The.Cpp.Standard.Library)
     - [深入实践Boost Boost程序库开发的94个秘笈](https://github.com/hexu1985/Boost.Cpp.Application.Development.Cookbook)
       [`[back-up]`](https://gitee.com/hexu1985/Boost.Cpp.Application.Development.Cookbook)
+    - [Boost Asio C++ Network Programming Cookbook](https://github.com/hexu1985/Asio.Cpp.Network.Programming.Cookbook)
+      [`[back-up]`](https://gitee.com/hexu1985/Asio.Cpp.Network.Programming.Cookbook)
+    - [Boost Asio C++ Network Programming](https://github.com/hexu1985/Asio.Cpp.Network.Programming)
+      [`[back-up]`](https://gitee.com/hexu1985/Asio.Cpp.Network.Programming)
 
 + Qt
     - [C++ GUI Qt4编程(第二版)](https://github.com/hexu1985/Cpp.GUI.Programming.with.Qt)
@@ -142,6 +136,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Art.Of.Debugging.With.GDB)
     - [GNU Make项目管理](https://github.com/hexu1985/Managing.Projects.With.GUN.Make)
       [`[back-up]`](https://gitee.com/hexu1985/Managing.Projects.With.GUN.Make)
+    - [CMake Cookbook](https://github.com/hexu1985/CMake.Cookbook)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/CMake.Cookbook)
 
 + 汇编语言
     - [汇编语言程序设计](https://github.com/hexu1985/Professional.Assembly.Language)
