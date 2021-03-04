@@ -24,10 +24,6 @@
       [`[back-up]`](https://gitee.com/hexu1985/Gflags.And.Glog.Tutorial)
     - [GoogleTest Tutorial](https://github.com/hexu1985/GoogleTest.Tutorial)
       [`[back-up]`](https://gitee.com/hexu1985/GoogleTest.Tutorial)
-    - [Pybind11 Tutorial](https://github.com/hexu1985/Pybind11.Tutorial)(更新中)
-      [`[back-up]`](https://gitee.com/hexu1985/Pybind11.Tutorial)
-    - [Boost.Python Tutorial](https://github.com/hexu1985/Boost.Python.Tutorial)(更新中)
-      [`[back-up]`](https://gitee.com/hexu1985/Boost.Python.Tutorial)
 
 + Markdown
     - [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial)(更新中)
@@ -136,7 +132,7 @@
       [`[back-up]`](https://gitee.com/hexu1985/Art.Of.Debugging.With.GDB)
     - [GNU Make项目管理](https://github.com/hexu1985/Managing.Projects.With.GUN.Make)
       [`[back-up]`](https://gitee.com/hexu1985/Managing.Projects.With.GUN.Make)
-    - [CMake Cookbook](https://github.com/hexu1985/CMake.Cookbook)(更新中)
+    - [CMake Cookbook](https://github.com/hexu1985/CMake.Cookbook)
       [`[back-up]`](https://gitee.com/hexu1985/CMake.Cookbook)
 
 + 汇编语言
