@@ -97,6 +97,10 @@
     - [Qt5.9 C++开发指南](https://github.com/hexu1985/Qt.Cpp.Developer.Guide)
       [`[back-up]`](https://gitee.com/hexu1985/Qt.Cpp.Developer.Guide)
 
++ OpenGL
+    - [OpenGL编程基础](https://github.com/hexu1985/OpenGL.Primer)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/OpenGL.Primer)
+
 + Python
     - [Python标准库](https://github.com/hexu1985/Python.Standard.Library.By.Example)
       [`[back-up]`](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
