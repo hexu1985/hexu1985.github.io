@@ -122,7 +122,7 @@
       [`[back-up]`](https://gitee.com/hexu1985/UNIX.Shells.By.Example)
     - [Shell脚本专家指南](https://github.com/hexu1985/Expert.Shell.Scripting)
       [`[back-up]`](https://gitee.com/hexu1985/Expert.Shell.Scripting)
-    - [Shell脚本编程诀窍 适用于Linux、Bash等 示例代码](https://github.com/hexu1985/Shell.Scripting)
+    - [Shell脚本编程诀窍 适用于Linux、Bash等](https://github.com/hexu1985/Shell.Scripting)
       [`[back-up]`](https://gitee.com/hexu1985/Shell.Scripting)
 
 + Matlab
