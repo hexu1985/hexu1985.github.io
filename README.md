@@ -50,6 +50,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Internetworking.With.TCP.IP)
     - [Linux程序设计](https://github.com/hexu1985/Beginning.Linux.Programming)
       [`[back-up]`](https://gitee.com/hexu1985/Beginning.Linux.Programming)
+    - [UNIX环境高级编程](https://github.com/hexu1985/Advanced.Programming.In.UNIX.Environment)
+      [`[back-up]`](https://gitee.com/hexu1985/Advanced.Programming.In.UNIX.Environment)
 
 + C
     - [C程序设计语言](https://github.com/hexu1985/The.C.Programming.Language)
