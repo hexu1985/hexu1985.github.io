@@ -52,6 +52,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Beginning.Linux.Programming)
     - [UNIX环境高级编程](https://github.com/hexu1985/Advanced.Programming.In.UNIX.Environment)
       [`[back-up]`](https://gitee.com/hexu1985/Advanced.Programming.In.UNIX.Environment)
+    - [Linux/UNIX系统编程手册](https://github.com/hexu1985/Linux.Programming.Interface)
+      [`[back-up]`](https://gitee.com/hexu1985/Linux.Programming.Interface)
 
 + C
     - [C程序设计语言](https://github.com/hexu1985/The.C.Programming.Language)
