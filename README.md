@@ -48,6 +48,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/UNIX.Network.Programming)
     - [用TCP/IP进行网际互联 第三卷](https://github.com/hexu1985/Internetworking.With.TCP.IP)
       [`[back-up]`](https://gitee.com/hexu1985/Internetworking.With.TCP.IP)
+    - [Linux程序设计](https://github.com/hexu1985/Beginning.Linux.Programming)
+      [`[back-up]`](https://gitee.com/hexu1985/Beginning.Linux.Programming)
 
 + C
     - [C程序设计语言](https://github.com/hexu1985/The.C.Programming.Language)
