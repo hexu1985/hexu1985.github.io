@@ -162,7 +162,8 @@
 + Web相关
     - [Head First HTML与CSS](https://github.com/hexu1985/Head.First.HTML.And.CSS)
       [`[back-up]`](https://gitee.com/hexu1985/Head.First.HTML.And.CSS)
-
+    - [libuv中文教程](https://github.com/hexu1985/uvbook)
+      [`[back-up]`](https://gitee.com/hexu1985/uvbook)
 
 ### 参考文档链接
 
