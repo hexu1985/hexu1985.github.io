@@ -125,10 +125,6 @@
     - [Shell脚本专家指南](https://github.com/hexu1985/Expert.Shell.Scripting)
       [`[back-up]`](https://gitee.com/hexu1985/Expert.Shell.Scripting)
 
-+ Matlab
-    - [面向计算科学与工程的MATLAB编程](https://github.com/hexu1985/Matlab.Introduction)
-      [`[back-up]`](https://gitee.com/hexu1985/Matlab.Introduction)
-
 + Utility
     - [软件调试的艺术](https://github.com/hexu1985/Art.Of.Debugging.With.GDB)
       [`[back-up]`](https://gitee.com/hexu1985/Art.Of.Debugging.With.GDB)
@@ -156,10 +152,14 @@
       [`[back-up]`](https://gitee.com/hexu1985/Introduction.To.Libuv)
 
 + 科学计算与图像处理
+    - [面向计算科学与工程的MATLAB编程](https://github.com/hexu1985/Matlab.Introduction)
+      [`[back-up]`](https://gitee.com/hexu1985/Matlab.Introduction)
     - [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
     - [OpenGL编程基础](https://github.com/hexu1985/OpenGL.Primer)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/OpenGL.Primer)
+    - [数值方法(C++描述)](https://github.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)
 
 ### 参考文档链接
 
