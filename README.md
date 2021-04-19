@@ -103,10 +103,6 @@
     - [Qt5.9 C++开发指南](https://github.com/hexu1985/Qt.Cpp.Developer.Guide)
       [`[back-up]`](https://gitee.com/hexu1985/Qt.Cpp.Developer.Guide)
 
-+ OpenGL
-    - [OpenGL编程基础](https://github.com/hexu1985/OpenGL.Primer)(更新中)
-      [`[back-up]`](https://gitee.com/hexu1985/OpenGL.Primer)
-
 + Python
     - [Python标准库](https://github.com/hexu1985/Python.Standard.Library.By.Example)
       [`[back-up]`](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
@@ -133,10 +129,6 @@
     - [面向计算科学与工程的MATLAB编程](https://github.com/hexu1985/Matlab.Introduction)
       [`[back-up]`](https://gitee.com/hexu1985/Matlab.Introduction)
 
-+ OpenCV
-    - [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution)(更新中)
-      [`[back-up]`](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
-
 + Utility
     - [软件调试的艺术](https://github.com/hexu1985/Art.Of.Debugging.With.GDB)
       [`[back-up]`](https://gitee.com/hexu1985/Art.Of.Debugging.With.GDB)
@@ -162,6 +154,12 @@
       [`[back-up]`](https://gitee.com/hexu1985/Head.First.HTML.And.CSS)
     - [libuv中文教程](https://github.com/hexu1985/Introduction.To.Libuv)
       [`[back-up]`](https://gitee.com/hexu1985/Introduction.To.Libuv)
+
++ 科学计算与图像处理
+    - [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
+    - [OpenGL编程基础](https://github.com/hexu1985/OpenGL.Primer)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/OpenGL.Primer)
 
 ### 参考文档链接
 
