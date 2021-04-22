@@ -187,7 +187,7 @@
 + draw.io
     - [home](https://www.diagrams.net/integrations#integrations_offline)
     - [github](https://github.com/jgraph/drawio)
-    - [download](https://github.com/jgraph/drawio-desktop/releases/tag/v14.5.1)
+    - [download](https://github.com/jgraph/drawio-desktop/releases)
 
 ---
 
