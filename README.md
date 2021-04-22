@@ -182,6 +182,13 @@
     - [GraphViz Pocket Reference](https://graphs.grevian.org/)
     - [OpenCV Docs](https://docs.opencv.org/)
 
+### free app link
+
++ draw.io
+    - [home](https://www.diagrams.net/integrations#integrations_offline)
+    - [github](https://github.com/jgraph/drawio)
+    - [download](https://github.com/jgraph/drawio-desktop/releases/tag/v14.5.1)
+
 ---
 
 [`[main link]`](https://hexu1985.github.io) 
