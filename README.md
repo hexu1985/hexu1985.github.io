@@ -66,6 +66,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Pointers.On.C)
     - [C语言核心技术](https://github.com/hexu1985/C.In.A.Nutshell)
       [`[back-up]`](https://gitee.com/hexu1985/C.In.A.Nutshell)
+    - [C语言程序设计:现代方法](https://github.com/hexu1985/C.Programming.Modern.Approach)
+      [`[back-up]`](https://gitee.com/hexu1985/C.Programming.Modern.Approach)
 
 + C++
     - [C++程序设计原理与实践](https://github.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
