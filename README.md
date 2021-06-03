@@ -56,6 +56,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Advanced.Programming.In.UNIX.Environment)
     - [Linux/UNIX系统编程手册](https://github.com/hexu1985/Linux.Programming.Interface)
       [`[back-up]`](https://gitee.com/hexu1985/Linux.Programming.Interface)
+    - [TCP/IP网络编程](https://github.com/hexu1985/Passionate.TCP.IP.Socket.Programming)
+      [`[back-up]`](https://gitee.com/hexu1985/Passionate.TCP.IP.Socket.Programming)
 
 + C
     - [C程序设计语言](https://github.com/hexu1985/The.C.Programming.Language)
