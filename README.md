@@ -193,6 +193,12 @@
     - [github](https://github.com/jgraph/drawio)
     - [download](https://github.com/jgraph/drawio-desktop/releases)
 
++ Typora
+    - [home](https://typora.io/)
+
++ StarUML
+    - [home](https://staruml.io/)
+
 ---
 
 [`[main link]`](https://hexu1985.github.io) 
