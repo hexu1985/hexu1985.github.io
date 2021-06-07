@@ -70,6 +70,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/C.In.A.Nutshell)
     - [C语言程序设计:现代方法](https://github.com/hexu1985/C.Programming.Modern.Approach)
       [`[back-up]`](https://gitee.com/hexu1985/C.Programming.Modern.Approach)
+    - [算法: C语言实现](https://github.com/hexu1985/Algorithms.In.C)
+      [`[back-up]`](https://gitee.com/hexu1985/Algorithms.In.C)
 
 + C++
     - [C++程序设计原理与实践](https://github.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
@@ -90,6 +92,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.Primer)
     - [C++ Cookbook](https://github.com/hexu1985/Cpp.Cookbook)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.Cookbook)
+    - [算法: C++实现](https://github.com/hexu1985/Algorithms.In.Cpp)
+      [`[back-up]`](https://gitee.com/hexu1985/Algorithms.In.Cpp)
 
 + Boost
     - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
