@@ -84,6 +84,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.Concurrency.In.Action)
     - [C++17 STL Cookbook](https://github.com/hexu1985/Cpp17.STL.Cookbook)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp17.STL.Cookbook)
+    - [C++标准模板库编程实战](https://github.com/hexu1985/Using.Cpp.Standard.Template.Libraries)
+      [`[back-up]`](https://gitee.com/hexu1985/Using.Cpp.Standard.Template.Libraries)
 
 + Boost
     - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
