@@ -88,6 +88,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Using.Cpp.Standard.Template.Libraries)
     - [C++ Primer](https://github.com/hexu1985/Cpp.Primer)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.Primer)
+    - [C++ Cookbook](https://github.com/hexu1985/Cpp.Cookbook)
+      [`[back-up]`](https://gitee.com/hexu1985/Cpp.Cookbook)
 
 + Boost
     - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
