@@ -94,6 +94,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.Cookbook)
     - [算法: C++实现](https://github.com/hexu1985/Algorithms.In.Cpp)
       [`[back-up]`](https://gitee.com/hexu1985/Algorithms.In.Cpp)
+    - [Effective C++](https://github.com/hexu1985/Effective.Cpp)
+      [`[back-up]`](https://gitee.com/hexu1985/Effective.Cpp)
 
 + Boost
     - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
