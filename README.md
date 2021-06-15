@@ -40,12 +40,12 @@
       [`[back-up]`](https://gitee.com/hexu1985/Head.First.Design.Pattern)
     - [精通Python设计模式](https://github.com/hexu1985/Mastering.Python.Design.Patterns)
       [`[back-up]`](https://gitee.com/hexu1985/Mastering.Python.Design.Patterns)
+    - [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/Modern.Cpp.Design)
+      [`[back-up]`](https://gitee.com/hexu1985/Modern.Cpp.Design)
 
 + 系统编程
     - [UNIX环境高级编程](https://github.com/hexu1985/Advanced.Programming.In.UNIX.Environment)
       [`[back-up]`](https://gitee.com/hexu1985/Advanced.Programming.In.UNIX.Environment)
-    - [UNIX网络编程 卷1 卷2](https://github.com/hexu1985/UNIX.Network.Programming)
-      [`[back-up]`](https://gitee.com/hexu1985/UNIX.Network.Programming)
     - [UNIX系统编程](https://github.com/hexu1985/UNIX.Systems.Programming)
       [`[back-up]`](https://gitee.com/hexu1985/UNIX.Systems.Programming)
     - [Unix/Linux编程实践教程](https://github.com/hexu1985/Understanding.UNIX.Linux.Programming)
@@ -54,10 +54,22 @@
       [`[back-up]`](https://gitee.com/hexu1985/Beginning.Linux.Programming)
     - [Linux/UNIX系统编程手册](https://github.com/hexu1985/Linux.Programming.Interface)
       [`[back-up]`](https://gitee.com/hexu1985/Linux.Programming.Interface)
+
++ 网络编程
+    - [UNIX网络编程 卷1 卷2](https://github.com/hexu1985/UNIX.Network.Programming)
+      [`[back-up]`](https://gitee.com/hexu1985/UNIX.Network.Programming)
     - [TCP/IP网络互联技术 第三卷](https://github.com/hexu1985/Internetworking.With.TCP.IP)
       [`[back-up]`](https://gitee.com/hexu1985/Internetworking.With.TCP.IP)
     - [TCP/IP网络编程](https://github.com/hexu1985/Passionate.TCP.IP.Socket.Programming)
       [`[back-up]`](https://gitee.com/hexu1985/Passionate.TCP.IP.Socket.Programming)
+
++ 数据结构与算法
+    - [算法: C语言实现](https://github.com/hexu1985/Algorithms.In.C)
+      [`[back-up]`](https://gitee.com/hexu1985/Algorithms.In.C)
+    - [算法: C++实现](https://github.com/hexu1985/Algorithms.In.Cpp)
+      [`[back-up]`](https://gitee.com/hexu1985/Algorithms.In.Cpp)
+    - [数据结构C++语言描述: 应用标准模板库(STL)](https://github.com/hexu1985/Data.Structures.With.Cpp.Using.STL)
+      [`[back-up]`](https://gitee.com/hexu1985/Data.Structures.With.Cpp.Using.STL)
 
 + C
     - [C程序设计语言](https://github.com/hexu1985/The.C.Programming.Language)
@@ -70,14 +82,10 @@
       [`[back-up]`](https://gitee.com/hexu1985/C.In.A.Nutshell)
     - [C语言程序设计:现代方法](https://github.com/hexu1985/C.Programming.Modern.Approach)
       [`[back-up]`](https://gitee.com/hexu1985/C.Programming.Modern.Approach)
-    - [算法: C语言实现](https://github.com/hexu1985/Algorithms.In.C)
-      [`[back-up]`](https://gitee.com/hexu1985/Algorithms.In.C)
 
 + C++
     - [C++程序设计原理与实践](https://github.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
       [`[back-up]`](https://gitee.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
-    - [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/Modern.Cpp.Design)
-      [`[back-up]`](https://gitee.com/hexu1985/Modern.Cpp.Design)
     - [标准C++输入输出流与本地化](https://github.com/hexu1985/Standard.Cpp.IOStreams.And.Locales)
       [`[back-up]`](https://gitee.com/hexu1985/Standard.Cpp.IOStreams.And.Locales)
     - [C++标准库](https://github.com/hexu1985/The.Cpp.Standard.Library)
@@ -92,8 +100,6 @@
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.Primer)
     - [C++ Cookbook](https://github.com/hexu1985/Cpp.Cookbook)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.Cookbook)
-    - [算法: C++实现](https://github.com/hexu1985/Algorithms.In.Cpp)
-      [`[back-up]`](https://gitee.com/hexu1985/Algorithms.In.Cpp)
     - [Effective C++](https://github.com/hexu1985/Effective.Cpp)
       [`[back-up]`](https://gitee.com/hexu1985/Effective.Cpp)
     - [Effective Modern C++](https://github.com/hexu1985/Effective.Modern.Cpp)
