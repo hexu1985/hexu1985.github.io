@@ -160,6 +160,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Managing.Projects.With.GUN.Make)
     - [CMake Cookbook](https://github.com/hexu1985/CMake.Cookbook)
       [`[back-up]`](https://gitee.com/hexu1985/CMake.Cookbook)
+    - [C/C++代码调试的艺术](https://github.com/hexu1985/Art.Of.Debugging.In.C.Cpp)
+      [`[back-up]`](https://gitee.com/hexu1985/Art.Of.Debugging.In.C.Cpp)
 
 + 汇编语言
     - [汇编语言程序设计](https://github.com/hexu1985/Professional.Assembly.Language)
