@@ -54,6 +54,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Beginning.Linux.Programming)
     - [Linux/UNIX系统编程手册](https://github.com/hexu1985/Linux.Programming.Interface)
       [`[back-up]`](https://gitee.com/hexu1985/Linux.Programming.Interface)
+    - [POSIX多线程程序设计](https://github.com/hexu1985/Programming.With.POSIX.Threads)
+      [`[back-up]`](https://gitee.com/hexu1985/Programming.With.POSIX.Threads)
 
 + 网络编程
     - [UNIX网络编程 卷1 卷2](https://github.com/hexu1985/UNIX.Network.Programming)
