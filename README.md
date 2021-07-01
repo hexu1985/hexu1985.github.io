@@ -134,6 +134,8 @@
 + Python
     - [Python基础教程](https://github.com/hexu1985/Beginning.Python)
       [`[back-up]`](https://gitee.com/hexu1985/Beginning.Python)
+    - [Python核心编程](https://github.com/hexu1985/Core.Python.Programming)
+      [`[back-up]`](https://gitee.com/hexu1985/Core.Python.Programming)
     - [Python标准库](https://github.com/hexu1985/Python.Standard.Library.By.Example)
       [`[back-up]`](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
     - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/Matplotlib.Practice)
