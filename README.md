@@ -132,6 +132,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Qt.Cpp.Developer.Guide)
 
 + Python
+    - [Python基础教程](https://github.com/hexu1985/Beginning.Python.3ed)
+      [`[back-up]`](https://gitee.com/hexu1985/Beginning.Python.3ed)
     - [Python标准库](https://github.com/hexu1985/Python.Standard.Library.By.Example)
       [`[back-up]`](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
     - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/Matplotlib.Practice)
