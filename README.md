@@ -136,6 +136,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Beginning.Python)
     - [Python核心编程](https://github.com/hexu1985/Core.Python.Programming)
       [`[back-up]`](https://gitee.com/hexu1985/Core.Python.Programming)
+    - [Python3程序开发指南](https://github.com/hexu1985/Programming.In.Python.3)
+      [`[back-up]`](https://gitee.com/hexu1985/Programming.In.Python.3)
     - [Python标准库](https://github.com/hexu1985/Python.Standard.Library.By.Example)
       [`[back-up]`](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
     - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/Matplotlib.Practice)
