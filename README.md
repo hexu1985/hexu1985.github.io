@@ -150,6 +150,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Foundations.Of.Python.Network.Programming.Cookbook)
     - [Python GUI设计: tkinter菜鸟编程](https://github.com/hexu1985/Python.GUI.Tkinter)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Python.GUI.Tkinter)
+    - [Python GUI设计: tkinter从入门到实践](https://github.com/hexu1985/Python.GUI.Tkinter.From.Novice.To.Practice)
+      [`[back-up]`](https://gitee.com/hexu1985/Python.GUI.Tkinter.From.Novice.To.Practice)
 
 + Shell
     - [Shell脚本学习指南](https://github.com/hexu1985/Classic.Shell.Scripting)
