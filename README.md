@@ -144,6 +144,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Python.Data.Visualization.Cookbook)
     - [Python网络编程](https://github.com/hexu1985/Foundations.Of.Python.Network.Programming)
       [`[back-up]`](https://gitee.com/hexu1985/Foundations.Of.Python.Network.Programming)
+    - [Python网络编程攻略](https://github.com/hexu1985/Foundations.Of.Python.Network.Programming.Cookbook)
+      [`[back-up]`](https://gitee.com/hexu1985/Foundations.Of.Python.Network.Programming.Cookbook)
     - [Python GUI设计: tkinter菜鸟编程](https://github.com/hexu1985/Python.GUI.Tkinter)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Python.GUI.Tkinter)
 
