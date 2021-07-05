@@ -138,6 +138,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Core.Python.Programming)
     - [Python3程序开发指南](https://github.com/hexu1985/Programming.In.Python.3)
       [`[back-up]`](https://gitee.com/hexu1985/Programming.In.Python.3)
+    - [Python编程](https://github.com/hexu1985/Programming.Python)
+      [`[back-up]`](https://gitee.com/hexu1985/Programming.Python)
     - [Python标准库](https://github.com/hexu1985/Python.Standard.Library.By.Example)
       [`[back-up]`](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
     - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/Matplotlib.Practice)
@@ -148,6 +150,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Foundations.Of.Python.Network.Programming)
     - [Python网络编程攻略](https://github.com/hexu1985/Foundations.Of.Python.Network.Programming.Cookbook)
       [`[back-up]`](https://gitee.com/hexu1985/Foundations.Of.Python.Network.Programming.Cookbook)
+
++ Tkinter
     - [Python GUI设计: tkinter菜鸟编程](https://github.com/hexu1985/Python.GUI.Tkinter)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Python.GUI.Tkinter)
     - [Python GUI设计: tkinter从入门到实践](https://github.com/hexu1985/Python.GUI.Tkinter.From.Novice.To.Practice)
