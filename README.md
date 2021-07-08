@@ -195,15 +195,17 @@
     - [libuv中文教程](https://github.com/hexu1985/Introduction.To.Libuv)
       [`[back-up]`](https://gitee.com/hexu1985/Introduction.To.Libuv)
 
-+ 科学计算与图像处理
++ 科学计算、图形学与计算机视觉
+    - [数值方法(C++描述)](https://github.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)
     - [面向计算科学与工程的MATLAB编程](https://github.com/hexu1985/Matlab.Introduction)
       [`[back-up]`](https://gitee.com/hexu1985/Matlab.Introduction)
     - [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
     - [OpenGL编程基础](https://github.com/hexu1985/OpenGL.Primer)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/OpenGL.Primer)
-    - [数值方法(C++描述)](https://github.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)(更新中)
-      [`[back-up]`](https://gitee.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)
+    - [Processing编程学习指南](https://github.com/hexu1985/Learning.Processing)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/Learning.Processing)
 
 ### 参考文档链接
 
