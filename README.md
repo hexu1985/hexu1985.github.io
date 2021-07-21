@@ -64,6 +64,10 @@
       [`[back-up]`](https://gitee.com/hexu1985/Internetworking.With.TCP.IP)
     - [TCP/IP网络编程](https://github.com/hexu1985/Passionate.TCP.IP.Socket.Programming)
       [`[back-up]`](https://gitee.com/hexu1985/Passionate.TCP.IP.Socket.Programming)
+    - [Python网络编程](https://github.com/hexu1985/Foundations.Of.Python.Network.Programming)
+      [`[back-up]`](https://gitee.com/hexu1985/Foundations.Of.Python.Network.Programming)
+    - [Python网络编程攻略](https://github.com/hexu1985/Foundations.Of.Python.Network.Programming.Cookbook)
+      [`[back-up]`](https://gitee.com/hexu1985/Foundations.Of.Python.Network.Programming.Cookbook)
 
 + 数据结构与算法
     - [算法: C语言实现](https://github.com/hexu1985/Algorithms.In.C)
@@ -142,14 +146,6 @@
       [`[back-up]`](https://gitee.com/hexu1985/Programming.Python)
     - [Python标准库](https://github.com/hexu1985/Python.Standard.Library.By.Example)
       [`[back-up]`](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
-    - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/Matplotlib.Practice)
-      [`[back-up]`](https://gitee.com/hexu1985/Matplotlib.Practice)
-    - [Python数据可视化编程实战](https://github.com/hexu1985/Python.Data.Visualization.Cookbook)
-      [`[back-up]`](https://gitee.com/hexu1985/Python.Data.Visualization.Cookbook)
-    - [Python网络编程](https://github.com/hexu1985/Foundations.Of.Python.Network.Programming)
-      [`[back-up]`](https://gitee.com/hexu1985/Foundations.Of.Python.Network.Programming)
-    - [Python网络编程攻略](https://github.com/hexu1985/Foundations.Of.Python.Network.Programming.Cookbook)
-      [`[back-up]`](https://gitee.com/hexu1985/Foundations.Of.Python.Network.Programming.Cookbook)
 
 + Tkinter
     - [Python GUI设计: tkinter菜鸟编程](https://github.com/hexu1985/Python.GUI.Tkinter)(更新中)
@@ -195,17 +191,25 @@
     - [libuv中文教程](https://github.com/hexu1985/Introduction.To.Libuv)
       [`[back-up]`](https://gitee.com/hexu1985/Introduction.To.Libuv)
 
-+ 科学计算、图形学与计算机视觉
++ 科学计算
     - [数值方法(C++描述)](https://github.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)
     - [面向计算科学与工程的MATLAB编程](https://github.com/hexu1985/Matlab.Introduction)
       [`[back-up]`](https://gitee.com/hexu1985/Matlab.Introduction)
-    - [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution)(更新中)
-      [`[back-up]`](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
+    - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/Matplotlib.Practice)
+      [`[back-up]`](https://gitee.com/hexu1985/Matplotlib.Practice)
+    - [Python数据可视化编程实战](https://github.com/hexu1985/Python.Data.Visualization.Cookbook)
+      [`[back-up]`](https://gitee.com/hexu1985/Python.Data.Visualization.Cookbook)
+
++ 计算机图形学
     - [OpenGL编程基础](https://github.com/hexu1985/OpenGL.Primer)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/OpenGL.Primer)
     - [Processing编程学习指南](https://github.com/hexu1985/Learning.Processing)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Learning.Processing)
+
++ 计算机视觉
+    - [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
 
 ### 参考文档链接
 
