@@ -148,7 +148,7 @@
       [`[back-up]`](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
 
 + Tkinter
-    - [Python GUI设计: tkinter菜鸟编程](https://github.com/hexu1985/Python.GUI.Tkinter)(更新中)
+    - [Python GUI设计: tkinter菜鸟编程](https://github.com/hexu1985/Python.GUI.Tkinter)
       [`[back-up]`](https://gitee.com/hexu1985/Python.GUI.Tkinter)
     - [Python GUI设计: tkinter从入门到实践](https://github.com/hexu1985/Python.GUI.Tkinter.From.Novice.To.Practice)
       [`[back-up]`](https://gitee.com/hexu1985/Python.GUI.Tkinter.From.Novice.To.Practice)
