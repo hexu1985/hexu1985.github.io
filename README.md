@@ -76,6 +76,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Algorithms.In.Cpp)
     - [数据结构C++语言描述: 应用标准模板库(STL)](https://github.com/hexu1985/Data.Structures.With.Cpp.Using.STL)
       [`[back-up]`](https://gitee.com/hexu1985/Data.Structures.With.Cpp.Using.STL)
+    - [数据结构(Python语言描述)](https://github.com/hexu1985/Fundamentals.Of.Python.Data.Structures)
+      [`[back-up]`](https://gitee.com/hexu1985/Fundamentals.Of.Python.Data.Structures)
 
 + C
     - [C程序设计语言](https://github.com/hexu1985/The.C.Programming.Language)
@@ -100,8 +102,6 @@
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.Concurrency.In.Action)
     - [C++17 STL Cookbook](https://github.com/hexu1985/Cpp17.STL.Cookbook)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp17.STL.Cookbook)
-    - [C++标准模板库编程实战](https://github.com/hexu1985/Using.Cpp.Standard.Template.Libraries)
-      [`[back-up]`](https://gitee.com/hexu1985/Using.Cpp.Standard.Template.Libraries)
     - [C++ Primer](https://github.com/hexu1985/Cpp.Primer)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.Primer)
     - [C++ Cookbook](https://github.com/hexu1985/Cpp.Cookbook)
