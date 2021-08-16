@@ -10,8 +10,8 @@
 + C++
     - [MiniSocket](https://github.com/hexu1985/Cpp.MiniSocket)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniSocket)
-    - [MiniUtils](https://github.com/hexu1985/Cpp.MiniUtils)(更新中)
-      [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniUtils)
+    - [MiniUtil](https://github.com/hexu1985/Cpp.MiniUtil)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniUtil)
     - [MiniSTL](https://github.com/hexu1985/Cpp.MiniSTL)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniSTL)
     - [Fundamental Algorithm Tutorial](https://github.com/hexu1985/Fundamental.Algorithm.Tutorial.git)(更新中)
