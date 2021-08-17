@@ -213,6 +213,12 @@
 
 ### 参考文档链接
 
++ 编码规范
+    - [Google 开源项目风格指南 (中文版)](https://zh-google-styleguide.readthedocs.io/en/latest/contents/)
+    - [C++ 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
+    - [Python 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents/)
+    - [Shell 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-shell-styleguide/contents/)
+
 + C++
     - [cpluplus.com](http://www.cplusplus.com/reference/)
     - [cppreference.com en](https://en.cppreference.com/w/)
