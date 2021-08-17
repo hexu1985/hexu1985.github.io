@@ -12,6 +12,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniSocket)
     - [MiniUtil](https://github.com/hexu1985/Cpp.MiniUtil)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniUtil)
+    - [MiniAlgo](https://github.com/hexu1985/Cpp.MiniAlgo)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniAlgo)
     - [MiniSTL](https://github.com/hexu1985/Cpp.MiniSTL)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniSTL)
     - [Fundamental Algorithm Tutorial](https://github.com/hexu1985/Fundamental.Algorithm.Tutorial.git)(更新中)
