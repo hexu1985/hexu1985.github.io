@@ -114,6 +114,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Effective.Modern.Cpp)
     - [C++性能优化指南](https://github.com/hexu1985/Optimized.Cpp)
       [`[back-up]`](https://gitee.com/hexu1985/Optimized.Cpp)
+    - [深入应用C++11代码优化与工程级应用](https://github.com/hexu1985/In.Depth.Cpp.11)
+      [`[back-up]`](https://gitee.com/hexu1985/In.Depth.Cpp.11)
 
 + Boost
     - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
