@@ -2,8 +2,8 @@
 
 ### git主页
 
-- github主页 <https://github.com/hexu1985>
-- gitee主页 <https://gitee.com/hexu1985>
+- github主页 <https://github.com/hexu1985> 项目主页 <https://github.com/hexu1985/hexu1985.github.io>
+- gitee主页 <https://gitee.com/hexu1985> 项目主页 <https://gitee.com/hexu1985/hexu1985>
 
 ### 我的项目
 
