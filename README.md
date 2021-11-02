@@ -251,6 +251,10 @@
 + StarUML
     - [home](https://staruml.io/)
 
++ PlantUML
+    - [home](https://plantuml.com/zh/)
+    - [github](https://github.com/plantuml-stdlib/Archimate-PlantUML)
+
 + Git
     - [gitk](https://git-scm.com/docs/gitk)
     - [Sourcetree](https://www.sourcetreeapp.com/)
