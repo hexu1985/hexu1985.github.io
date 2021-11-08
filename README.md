@@ -193,6 +193,10 @@
     - [libuv中文教程](https://github.com/hexu1985/Introduction.To.Libuv)
       [`[back-up]`](https://gitee.com/hexu1985/Introduction.To.Libuv)
 
++ 服务器端技术
+    - [Python Docker实战](https://github.com/hexu1985/Practical.Docker.With.Python)
+      [`[back-up]`](https://gitee.com/hexu1985/Practical.Docker.With.Python)
+
 + 科学计算
     - [数值方法(C++描述)](https://github.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)
