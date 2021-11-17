@@ -62,7 +62,7 @@
       [`[back-up]`](https://gitee.com/hexu1985/Internetworking.With.TCP.IP)
     - [TCP/IP网络编程](https://github.com/hexu1985/Passionate.TCP.IP.Socket.Programming)
       [`[back-up]`](https://gitee.com/hexu1985/Passionate.TCP.IP.Socket.Programming)
-    - [TCP/IPg高效编程](https://github.com/hexu1985/Effective.TCP.IP.Programming)
+    - [TCP/IP高效编程](https://github.com/hexu1985/Effective.TCP.IP.Programming)
       [`[back-up]`](https://gitee.com/hexu1985/Effective.TCP.IP.Programming)
     - [Python网络编程](https://github.com/hexu1985/Foundations.Of.Python.Network.Programming)
       [`[back-up]`](https://gitee.com/hexu1985/Foundations.Of.Python.Network.Programming)
