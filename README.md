@@ -208,6 +208,8 @@
       [`[back-up]`](https://gitee.com/hexu1985/Matplotlib.Practice)
     - [Python数据可视化编程实战](https://github.com/hexu1985/Python.Data.Visualization.Cookbook)
       [`[back-up]`](https://gitee.com/hexu1985/Python.Data.Visualization.Cookbook)
+    - [Python数学编程](https://github.com/hexu1985/Doing.Math.With.Python)
+      [`[back-up]`](https://gitee.com/hexu1985/Doing.Math.With.Python)
 
 + 计算机图形学
     - [OpenGL编程基础](https://github.com/hexu1985/OpenGL.Primer)(更新中)
