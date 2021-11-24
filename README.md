@@ -220,6 +220,8 @@
 + 计算机视觉
     - [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
+    - [Python OpenCV从入门到实践](https://github.com/hexu1985/Python.OpenCV.From.Novice.To.Practice)
+      [`[back-up]`](https://gitee.com/hexu1985/Python.OpenCV.From.Novice.To.Practice)
 
 ### 参考文档链接
 
