@@ -5,6 +5,12 @@
 - [github主页链接](https://github.com/hexu1985) [当前页项目链接](https://github.com/hexu1985/hexu1985.github.io)
 - [gitee主页链接](https://gitee.com/hexu1985) [当前页项目链接](https://gitee.com/hexu1985/hexu1985)
 
+### 我的博客
+
++ C++
+    - [手打shared_mutex](https://github.com/hexu1985/blog/blob/master/%E6%89%8B%E6%89%93shared_mutex/README.md)
+      [`[back-up]`](https://gitee.com/hexu1985/blog/blob/master/%E6%89%8B%E6%89%93shared_mutex/README.md)
+
 ### 我的项目
 
 + C++
