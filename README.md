@@ -8,8 +8,8 @@
 ### 我的博客
 
 + C++
-    - [手打shared_mutex](https://github.com/hexu1985/blog/blob/master/%E6%89%8B%E6%89%93shared_mutex/README.md)
-      [`[back-up]`](https://gitee.com/hexu1985/blog/blob/master/%E6%89%8B%E6%89%93shared_mutex/README.md)
+    - [C++17 shared_mutex实现与分析](https://github.com/hexu1985/blog/blob/master/shared_mutex/README.md)
+      [`[back-up]`](https://gitee.com/hexu1985/blog/blob/master/shared_mutex/README.md)
 
 ### 我的项目
 
