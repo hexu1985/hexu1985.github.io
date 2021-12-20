@@ -256,6 +256,10 @@
 
 ### free app link
 
++ tabby
+    - [home](https://tabby.sh/)
+    - [download](https://github.com/Eugeny/tabby/releases)
+
 + draw.io
     - [home](https://www.diagrams.net/integrations#integrations_offline)
     - [github](https://github.com/jgraph/drawio)
