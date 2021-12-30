@@ -1,9 +1,16 @@
-## Table of contents 
+[TOC]
 
-### git主页
+## 我的资料
 
-- [github主页链接](https://github.com/hexu1985) [当前页项目链接](https://github.com/hexu1985/hexu1985.github.io)
-- [gitee主页链接](https://gitee.com/hexu1985) [当前页项目链接](https://gitee.com/hexu1985/hexu1985)
+### git仓库
+
++ github
+    - [主页链接](https://github.com/hexu1985) 
+    - [当前页项目链接](https://github.com/hexu1985/hexu1985.github.io)
+
++ gitee
+    - [主页链接](https://gitee.com/hexu1985) 
+    - [当前页项目链接](https://gitee.com/hexu1985/hexu1985)
 
 ### 我的博客
 
