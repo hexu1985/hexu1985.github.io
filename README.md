@@ -8,8 +8,10 @@
 ### 我的博客
 
 + C++
-    - [C++17 shared_mutex实现与分析](https://github.com/hexu1985/blog/blob/master/shared_mutex/README.md)
-      [`[back-up]`](https://gitee.com/hexu1985/blog/blob/master/shared_mutex/README.md)
+    - [C++17 shared_mutex实现与分析](https://blog.csdn.net/u013454589/article/details/121584159)
+
++ 数学
+    - [数学笔记：欧几里得算法的数学证明](https://blog.csdn.net/u013454589/article/details/122204074)
 
 ### 我的项目
 
@@ -22,6 +24,11 @@
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniAlgo)
     - [MiniSTL](https://github.com/hexu1985/Cpp.MiniSTL)(更新中)
       [`[back-up]`](https://gitee.com/hexu1985/Cpp.MiniSTL)
+
++ Python
+    - [MiniMatlab](https://github.com/hexu1985/Py.MiniMatlab.git)(更新中)
+      [`[back-up]`](https://gitee.com/hexu1985/Py.MiniMatlab)
+
 
 ### 教程及示例总结
 
