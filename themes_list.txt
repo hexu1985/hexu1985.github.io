@@ -1,0 +1,15 @@
+https://pages.github.com/themes/
+
+Architect:    https://github.com/pages-themes/architect
+Cayman:       https://github.com/pages-themes/cayman
+Dinky:        https://github.com/pages-themes/dinky
+Hacker:       https://github.com/pages-themes/hacker
+Leap day:     https://github.com/pages-themes/leap-day
+Merlot:       https://github.com/pages-themes/merlot
+Midnight:     https://github.com/pages-themes/midnight
+Minima:       https://github.com/jekyll/minima
+Minimal:      https://github.com/pages-themes/minimal
+Modernist:    https://github.com/pages-themes/modernist
+Slate:        https://github.com/pages-themes/slate
+Tactile:      https://github.com/pages-themes/tactile
+Time machine: https://github.com/pages-themes/time-machine
