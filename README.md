@@ -300,5 +300,5 @@
 ---
 
 [`[main link]`](https://hexu1985.github.io) 
-[`[back-up link]`](https://hexu1985.gitee.io)
+[`[backups link]`](https://hexu1985.gitee.io)
 
