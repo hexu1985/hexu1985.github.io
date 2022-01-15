@@ -42,9 +42,11 @@
       [`[backups]`](https://gitee.com/hexu1985/Gflags.And.Glog.Tutorial)
     - [GoogleTest Tutorial](https://github.com/hexu1985/GoogleTest.Tutorial)
       [`[backups]`](https://gitee.com/hexu1985/GoogleTest.Tutorial)
+    - [Qt Programming Tutorial](https://github.com/hexu1985/Qt.Programming.Tutorial)(更新中)
+      [`[backups]`](https://gitee.com/hexu1985/Qt.Programming.Tutorial)
 
 + 编译器相关
-    - [C & C++ Compiling Tutorial](https://github.com/hexu1985/C.And.Cpp.Compiling.Tutorial)
+    - [C & C++ Compiling Tutorial](https://github.com/hexu1985/C.And.Cpp.Compiling.Tutorial)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/C.And.Cpp.Compiling.Tutorial)
 
 + Markdown
@@ -160,6 +162,8 @@
       [`[backups]`](https://gitee.com/hexu1985/Qt.Programming.Guide)
     - [Qt5.9 C++开发指南](https://github.com/hexu1985/Qt.Cpp.Developer.Guide)
       [`[backups]`](https://gitee.com/hexu1985/Qt.Cpp.Developer.Guide)
+    - [Qt高级编程](https://github.com/hexu1985/Advanced.Qt.Programming)
+      [`[backups]`](https://gitee.com/hexu1985/Advanced.Qt.Programming)
 
 + Python
     - [Python基础教程](https://github.com/hexu1985/Beginning.Python)
