@@ -214,6 +214,8 @@
 + 编译器相关
     - [编译原理及实践](https://github.com/hexu1985/Compiler.Construction.Principles.And.Practice)
       [`[backups]`](https://gitee.com/hexu1985/Compiler.Construction.Principles.And.Practice)
+    - [lex与yacc](https://github.com/hexu1985/Lex.And.Yacc)
+      [`[backups]`](https://gitee.com/hexu1985/Lex.And.Yacc)
     - [高级C/C++编译技术](https://github.com/hexu1985/Advanced.C.And.Cpp.Compiling)
       [`[backups]`](https://gitee.com/hexu1985/Advanced.C.And.Cpp.Compiling)
 
