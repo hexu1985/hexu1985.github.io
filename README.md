@@ -216,6 +216,8 @@
       [`[backups]`](https://gitee.com/hexu1985/Compiler.Construction.Principles.And.Practice)
     - [lex与yacc](https://github.com/hexu1985/Lex.And.Yacc)
       [`[backups]`](https://gitee.com/hexu1985/Lex.And.Yacc)
+    - [flex与bison](https://github.com/hexu1985/Flex.And.Bison)
+      [`[backups]`](https://gitee.com/hexu1985/Flex.And.Bison)
     - [高级C/C++编译技术](https://github.com/hexu1985/Advanced.C.And.Cpp.Compiling)
       [`[backups]`](https://gitee.com/hexu1985/Advanced.C.And.Cpp.Compiling)
 
