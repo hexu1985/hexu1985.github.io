@@ -235,6 +235,11 @@
     - [Python Docker实战](https://github.com/hexu1985/Practical.Docker.With.Python)
       [`[backups]`](https://gitee.com/hexu1985/Practical.Docker.With.Python)
 
++ 数据库
+    - [SQLite权威指南](https://github.com/hexu1985/The.Definitive.Guide.To.SQLite)
+      [`[backups]`](https://gitee.com/hexu1985/The.Definitive.Guide.To.SQLite)
+
+
 + 科学计算
     - [数值方法(C++描述)](https://github.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)
