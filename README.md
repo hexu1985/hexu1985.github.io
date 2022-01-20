@@ -60,6 +60,8 @@
       [`[backups]`](https://gitee.com/hexu1985/Architectural.And.Design.Patterns.Of.Software.Engineering)
     - [Head First设计模式](https://github.com/hexu1985/Head.First.Design.Pattern)
       [`[backups]`](https://gitee.com/hexu1985/Head.First.Design.Pattern)
+    - [敏捷软件开发：原则、模式与实践](https://github.com/hexu1985/Agile.Software.Development)
+      [`[backups]`](https://gitee.com/hexu1985/Agile.Software.Development)
     - [精通Python设计模式](https://github.com/hexu1985/Mastering.Python.Design.Patterns)
       [`[backups]`](https://gitee.com/hexu1985/Mastering.Python.Design.Patterns)
     - [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/Modern.Cpp.Design)
