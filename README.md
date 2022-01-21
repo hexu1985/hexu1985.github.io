@@ -45,6 +45,10 @@
     - [Qt Programming Tutorial](https://github.com/hexu1985/Qt.Programming.Tutorial)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/Qt.Programming.Tutorial)
 
++ 数据结构与算法
+    - [Data Structures & Algorithms Tutorial](https://github.com/hexu1985/Data.Structures.And.Algorithms.Tutorial)(更新中)
+      [`[backups]`](https://gitee.com/hexu1985/Data.Structures.And.Algorithms.Tutorial)
+
 + 编译器相关
     - [C & C++ Compiling Tutorial](https://github.com/hexu1985/C.And.Cpp.Compiling.Tutorial)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/C.And.Cpp.Compiling.Tutorial)
