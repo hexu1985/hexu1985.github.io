@@ -218,6 +218,8 @@
       [`[backups]`](https://gitee.com/hexu1985/Professional.Assembly.Language)
     - [汇编程序设计与计算机体系结构--软件工程师教程](https://github.com/hexu1985/Assembly.Programming.And.Computer.Architecture)
       [`[backups]`](https://gitee.com/hexu1985/Assembly.Programming.And.Computer.Architecture)
+    - [深入理解程序设计--使用Linux汇编语言](https://github.com/hexu1985/Programming.From.The.Ground.Up)
+      [`[backups]`](https://gitee.com/hexu1985/Programming.From.The.Ground.Up)
 
 + 编译器相关
     - [编译原理及实践](https://github.com/hexu1985/Compiler.Construction.Principles.And.Practice)
