@@ -240,6 +240,8 @@
 + 服务器端技术
     - [Python Docker实战](https://github.com/hexu1985/Practical.Docker.With.Python)
       [`[backups]`](https://gitee.com/hexu1985/Practical.Docker.With.Python)
+    - [Redis实战](https://github.com/hexu1985/Redis.In.Action)
+      [`[backups]`](https://gitee.com/hexu1985/Redis.In.Action)
 
 + 数据库
     - [SQLite权威指南](https://github.com/hexu1985/The.Definitive.Guide.To.SQLite)
