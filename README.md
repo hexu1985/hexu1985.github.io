@@ -53,6 +53,10 @@
     - [C & C++ Compiling Tutorial](https://github.com/hexu1985/C.And.Cpp.Compiling.Tutorial)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/C.And.Cpp.Compiling.Tutorial)
 
++ 数据库相关
+    - [SQLite Tutorial](https://github.com/hexu1985/SQLite.Tutorial)(更新中)
+      [`[backups]`](https://gitee.com/hexu1985/SQLite.TTutorial)
+
 + Markdown
     - [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/Markdown.Tutorial)
