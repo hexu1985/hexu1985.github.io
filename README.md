@@ -10,14 +10,6 @@
     - [主页链接](https://gitee.com/hexu1985) 
     - [当前页项目链接](https://gitee.com/hexu1985/hexu1985)
 
-### 我的博客
-
-+ C++
-    - [C++17 shared_mutex实现与分析](https://blog.csdn.net/u013454589/article/details/121584159)
-
-+ 数学
-    - [数学笔记：欧几里得算法的数学证明](https://blog.csdn.net/u013454589/article/details/122204074)
-
 ### 我的项目
 
 + C++
