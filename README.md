@@ -329,6 +329,6 @@
 
 ---
 
-[`[main link]`](https://hexu1985.github.io) 
-[`[backups link]`](https://hexu1985.gitee.io)
+[<kbd>main link</kbd>](https://hexu1985.github.io) 
+[<kbd>backups link</kbd>](https://hexu1985.gitee.io)
 
