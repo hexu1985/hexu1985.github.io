@@ -1,18 +1,22 @@
 ## 我的资料
 
+---
+
 ### git仓库
 
-+ github
+#### github
     - [主页链接](https://github.com/hexu1985) 
     - [当前页项目链接](https://github.com/hexu1985/hexu1985.github.io)
 
-+ gitee
+#### gitee
     - [主页链接](https://gitee.com/hexu1985) 
     - [当前页项目链接](https://gitee.com/hexu1985/hexu1985)
 
+---
+
 ### 我的项目
 
-+ C++
+#### C++
     - [MiniSocket](https://github.com/hexu1985/Cpp.MiniSocket)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/Cpp.MiniSocket)
     - [MiniUtil](https://github.com/hexu1985/Cpp.MiniUtil)(更新中)
@@ -22,14 +26,15 @@
     - [MiniSTL](https://github.com/hexu1985/Cpp.MiniSTL)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/Cpp.MiniSTL)
 
-+ Python
+#### Python
     - [MiniMatlab](https://github.com/hexu1985/Py.MiniMatlab.git)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/Py.MiniMatlab)
 
+---
 
 ### 教程及示例总结
 
-+ C++
+#### C++
     - [Gflags & Glog Tutorial](https://github.com/hexu1985/Gflags.And.Glog.Tutorial)
       [`[backups]`](https://gitee.com/hexu1985/Gflags.And.Glog.Tutorial)
     - [GoogleTest Tutorial](https://github.com/hexu1985/GoogleTest.Tutorial)
@@ -37,25 +42,27 @@
     - [Qt Programming Tutorial](https://github.com/hexu1985/Qt.Programming.Tutorial)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/Qt.Programming.Tutorial)
 
-+ 数据结构与算法
+#### 数据结构与算法
     - [Data Structures & Algorithms Tutorial](https://github.com/hexu1985/Data.Structures.And.Algorithms.Tutorial)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/Data.Structures.And.Algorithms.Tutorial)
 
-+ 编译器相关
+#### 编译器相关
     - [C & C++ Compiling Tutorial](https://github.com/hexu1985/C.And.Cpp.Compiling.Tutorial)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/C.And.Cpp.Compiling.Tutorial)
 
-+ 数据库相关
+#### 数据库相关
     - [SQLite Tutorial](https://github.com/hexu1985/SQLite.Tutorial)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/SQLite.TTutorial)
 
-+ Markdown
+#### Markdown
     - [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/Markdown.Tutorial)
 
+---
+
 ### 随书示例代码
 
-+ 设计模式
+#### 设计模式
     - [软件架构与模式](https://github.com/hexu1985/Architectural.And.Design.Patterns.Of.Software.Engineering)
       [`[backups]`](https://gitee.com/hexu1985/Architectural.And.Design.Patterns.Of.Software.Engineering)
     - [Head First设计模式](https://github.com/hexu1985/Head.First.Design.Pattern)
@@ -67,7 +74,7 @@
     - [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/Modern.Cpp.Design)
       [`[backups]`](https://gitee.com/hexu1985/Modern.Cpp.Design)
 
-+ 系统编程
+#### 系统编程
     - [UNIX环境高级编程](https://github.com/hexu1985/Advanced.Programming.In.UNIX.Environment)
       [`[backups]`](https://gitee.com/hexu1985/Advanced.Programming.In.UNIX.Environment)
     - [UNIX系统编程](https://github.com/hexu1985/UNIX.Systems.Programming)
@@ -83,7 +90,7 @@
     - [深入理解计算机系统](https://github.com/hexu1985/Computer.Systems)
       [`[backups]`](https://gitee.com/hexu1985/Computer.Systems)
 
-+ 网络编程
+#### 网络编程
     - [UNIX网络编程 卷1 卷2](https://github.com/hexu1985/UNIX.Network.Programming)
       [`[backups]`](https://gitee.com/hexu1985/UNIX.Network.Programming)
     - [TCP/IP网络互联技术 第三卷](https://github.com/hexu1985/Internetworking.With.TCP.IP)
@@ -97,7 +104,7 @@
     - [Python网络编程攻略](https://github.com/hexu1985/Foundations.Of.Python.Network.Programming.Cookbook)
       [`[backups]`](https://gitee.com/hexu1985/Foundations.Of.Python.Network.Programming.Cookbook)
 
-+ 数据结构与算法
+#### 数据结构与算法
     - [算法: C语言实现](https://github.com/hexu1985/Algorithms.In.C)
       [`[backups]`](https://gitee.com/hexu1985/Algorithms.In.C)
     - [算法: C++实现](https://github.com/hexu1985/Algorithms.In.Cpp)
@@ -107,7 +114,7 @@
     - [数据结构(Python语言描述)](https://github.com/hexu1985/Fundamentals.Of.Python.Data.Structures)
       [`[backups]`](https://gitee.com/hexu1985/Fundamentals.Of.Python.Data.Structures)
 
-+ C
+#### C
     - [C程序设计语言](https://github.com/hexu1985/The.C.Programming.Language)
       [`[backups]`](https://gitee.com/hexu1985/The.C.Programming.Language)
     - [C标准库](https://github.com/hexu1985/The.Standard.C.Library)
@@ -119,7 +126,7 @@
     - [C语言程序设计:现代方法](https://github.com/hexu1985/C.Programming.Modern.Approach)
       [`[backups]`](https://gitee.com/hexu1985/C.Programming.Modern.Approach)
 
-+ C++
+#### C++
     - [C++程序设计原理与实践](https://github.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
       [`[backups]`](https://gitee.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
     - [标准C++输入输出流与本地化](https://github.com/hexu1985/Standard.Cpp.IOStreams.And.Locales)
@@ -143,7 +150,7 @@
     - [深入应用C++11代码优化与工程级应用](https://github.com/hexu1985/In.Depth.Cpp.11)
       [`[backups]`](https://gitee.com/hexu1985/In.Depth.Cpp.11)
 
-+ Boost
+#### Boost
     - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
       [`[backups]`](https://gitee.com/hexu1985/Beyond.The.Cpp.Standard.Library)
     - [深入实践Boost Boost程序库开发的94个秘笈](https://github.com/hexu1985/Boost.Cpp.Application.Development.Cookbook)
@@ -153,7 +160,7 @@
     - [Boost Asio C++ Network Programming](https://github.com/hexu1985/Asio.Cpp.Network.Programming)
       [`[backups]`](https://gitee.com/hexu1985/Asio.Cpp.Network.Programming)
 
-+ Qt
+#### Qt
     - [C++ GUI Qt4编程(第二版)](https://github.com/hexu1985/Cpp.GUI.Programming.with.Qt)
       [`[backups]`](https://gitee.com/hexu1985/Cpp.GUI.Programming.with.Qt)
     - [C++ Qt设计模式(第二版)](https://github.com/hexu1985/Design.Patterns.in.Cpp.with.Qt)
@@ -169,7 +176,7 @@
     - [Qt高级编程](https://github.com/hexu1985/Advanced.Qt.Programming)
       [`[backups]`](https://gitee.com/hexu1985/Advanced.Qt.Programming)
 
-+ Python
+#### Python
     - [Python基础教程](https://github.com/hexu1985/Beginning.Python)
       [`[backups]`](https://gitee.com/hexu1985/Beginning.Python)
     - [Python核心编程](https://github.com/hexu1985/Core.Python.Programming)
@@ -181,13 +188,13 @@
     - [Python标准库](https://github.com/hexu1985/Python.Standard.Library.By.Example)
       [`[backups]`](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
 
-+ Tkinter
+#### Tkinter
     - [Python GUI设计: tkinter菜鸟编程](https://github.com/hexu1985/Python.GUI.Tkinter)
       [`[backups]`](https://gitee.com/hexu1985/Python.GUI.Tkinter)
     - [Python GUI设计: tkinter从入门到实践](https://github.com/hexu1985/Python.GUI.Tkinter.From.Novice.To.Practice)
       [`[backups]`](https://gitee.com/hexu1985/Python.GUI.Tkinter.From.Novice.To.Practice)
 
-+ Shell
+#### Shell
     - [Shell脚本学习指南](https://github.com/hexu1985/Classic.Shell.Scripting)
       [`[backups]`](https://gitee.com/hexu1985/Classic.Shell.Scripting)
     - [Linux Shell脚本攻略](https://github.com/hexu1985/Linux.Shell.Scripting.Cookbook)
@@ -199,7 +206,7 @@
     - [Shell脚本编程诀窍 适用于Linux、Bash等](https://github.com/hexu1985/Shell.Scripting)
       [`[backups]`](https://gitee.com/hexu1985/Expert.Shell.Scripting)
 
-+ Utility
+#### Utility
     - [软件调试的艺术](https://github.com/hexu1985/Art.Of.Debugging.With.GDB)
       [`[backups]`](https://gitee.com/hexu1985/Art.Of.Debugging.With.GDB)
     - [GNU Make项目管理](https://github.com/hexu1985/Managing.Projects.With.GUN.Make)
@@ -209,7 +216,7 @@
     - [C/C++代码调试的艺术](https://github.com/hexu1985/Art.Of.Debugging.In.C.Cpp)
       [`[backups]`](https://gitee.com/hexu1985/Art.Of.Debugging.In.C.Cpp)
 
-+ 汇编语言
+#### 汇编语言
     - [汇编语言程序设计](https://github.com/hexu1985/Professional.Assembly.Language)
       [`[backups]`](https://gitee.com/hexu1985/Professional.Assembly.Language)
     - [汇编程序设计与计算机体系结构--软件工程师教程](https://github.com/hexu1985/Assembly.Programming.And.Computer.Architecture)
@@ -217,7 +224,7 @@
     - [深入理解程序设计--使用Linux汇编语言](https://github.com/hexu1985/Programming.From.The.Ground.Up)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/Programming.From.The.Ground.Up)
 
-+ 编译器相关
+#### 编译器相关
     - [编译原理及实践](https://github.com/hexu1985/Compiler.Construction.Principles.And.Practice)
       [`[backups]`](https://gitee.com/hexu1985/Compiler.Construction.Principles.And.Practice)
     - [lex与yacc](https://github.com/hexu1985/Lex.And.Yacc)
@@ -227,24 +234,24 @@
     - [高级C/C++编译技术](https://github.com/hexu1985/Advanced.C.And.Cpp.Compiling)
       [`[backups]`](https://gitee.com/hexu1985/Advanced.C.And.Cpp.Compiling)
 
-+ Web相关
+#### Web相关
     - [Head First HTML与CSS](https://github.com/hexu1985/Head.First.HTML.And.CSS)
       [`[backups]`](https://gitee.com/hexu1985/Head.First.HTML.And.CSS)
     - [libuv中文教程](https://github.com/hexu1985/Introduction.To.Libuv)
       [`[backups]`](https://gitee.com/hexu1985/Introduction.To.Libuv)
 
-+ 服务器端技术
+#### 服务器端技术
     - [Python Docker实战](https://github.com/hexu1985/Practical.Docker.With.Python)
       [`[backups]`](https://gitee.com/hexu1985/Practical.Docker.With.Python)
     - [Redis实战](https://github.com/hexu1985/Redis.In.Action)
       [`[backups]`](https://gitee.com/hexu1985/Redis.In.Action)
 
-+ 数据库
+#### 数据库
     - [SQLite权威指南](https://github.com/hexu1985/The.Definitive.Guide.To.SQLite)
       [`[backups]`](https://gitee.com/hexu1985/The.Definitive.Guide.To.SQLite)
 
 
-+ 科学计算
+#### 科学计算
     - [数值方法(C++描述)](https://github.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)
     - [面向计算科学与工程的MATLAB编程](https://github.com/hexu1985/Matlab.Introduction)
@@ -256,65 +263,69 @@
     - [Python数学编程](https://github.com/hexu1985/Doing.Math.With.Python)
       [`[backups]`](https://gitee.com/hexu1985/Doing.Math.With.Python)
 
-+ 计算机图形学
+#### 计算机图形学
     - [OpenGL编程基础](https://github.com/hexu1985/OpenGL.Primer)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/OpenGL.Primer)
     - [Processing编程学习指南](https://github.com/hexu1985/Learning.Processing)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/Learning.Processing)
 
-+ 计算机视觉
+#### 计算机视觉
     - [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution)(更新中)
       [`[backups]`](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
     - [Python OpenCV从入门到实践](https://github.com/hexu1985/Python.OpenCV.From.Novice.To.Practice)
       [`[backups]`](https://gitee.com/hexu1985/Python.OpenCV.From.Novice.To.Practice)
 
+---
+
 ### 参考文档链接
 
-+ 编码规范
+#### 编码规范
     - [Google 开源项目风格指南 (中文版)](https://zh-google-styleguide.readthedocs.io/en/latest/contents/)
     - [C++ 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
     - [Python 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents/)
     - [Shell 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-shell-styleguide/contents/)
 
-+ C++
+#### C++
     - [cpluplus.com](http://www.cplusplus.com/reference/)
     - [cppreference.com en](https://en.cppreference.com/w/)
     - [cppreference.com zh](https://zh.cppreference.com/w/)
     - [boost](https://www.boost.org/)
     - [qt5 source online](https://code.woboq.org/qt5/)
 
-+ Python
+#### Python
     - [Python 3.x Docs](https://docs.python.org/3/)
     - [Python Standard Library Docs](https://docs.python.org/3/library/)
     - [matplotlib Docs](https://matplotlib.org/contents.html)
     - [numpy Docs](https://numpy.org/doc/)
 
-+ Others
+#### Others
     - [GraphViz Pocket Reference](https://graphs.grevian.org/)
     - [OpenCV Docs](https://docs.opencv.org/)
 
+---
+
 ### free app link
 
-+ tabby
+#### tabby
     - [home](https://tabby.sh/)
     - [download](https://github.com/Eugeny/tabby/releases)
 
-+ draw.io
+#### draw.io
     - [home](https://www.diagrams.net/integrations#integrations_offline)
     - [github](https://github.com/jgraph/drawio)
     - [download](https://github.com/jgraph/drawio-desktop/releases)
 
-+ Typora
+#### Typora
     - [home](https://typora.io/)
 
-+ StarUML
+#### StarUML
     - [home](https://staruml.io/)
 
-+ PlantUML
+#### PlantUML
     - [home](https://plantuml.com/zh/)
     - [github](https://github.com/plantuml-stdlib/Archimate-PlantUML)
 
-+ Git
+#### Git
     - [gitk](https://git-scm.com/docs/gitk)
     - [Sourcetree](https://www.sourcetreeapp.com/)
 
