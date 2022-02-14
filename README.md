@@ -262,8 +262,10 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Data.Visualization.Cookbook)
 - [ ]  [Python数学编程](https://github.com/hexu1985/Doing.Math.With.Python)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Doing.Math.With.Python)
-- [ ]  [用Python学数学](https://github.com/hexu1985/Math.Adventures.With.Python)
+- [x]  [用Python学数学](https://github.com/hexu1985/Math.Adventures.With.Python)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Math.Adventures.With.Python)
+- [x]  [Python图形编程](https://github.com/hexu1985/Python.Graphics)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Graphics)
 
 
 #### 计算机图形学
