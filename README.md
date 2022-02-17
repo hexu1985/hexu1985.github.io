@@ -207,6 +207,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Expert.Shell.Scripting)
 
 #### Utility
+- [ ]  [Vim实用技巧](https://github.com/hexu1985/Practical.Vim)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Vim)
 - [ ]  [软件调试的艺术](https://github.com/hexu1985/Art.Of.Debugging.With.GDB)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Art.Of.Debugging.With.GDB)
 - [ ]  [GNU Make项目管理](https://github.com/hexu1985/Managing.Projects.With.GUN.Make)
