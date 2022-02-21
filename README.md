@@ -17,17 +17,17 @@
 ### 我的项目
 
 #### C++
-- [x]  [MiniSocket](https://github.com/hexu1985/Cpp.MiniSocket)
+- [ ]  [MiniSocket](https://github.com/hexu1985/Cpp.MiniSocket) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.MiniSocket)
-- [x]  [MiniUtil](https://github.com/hexu1985/Cpp.MiniUtil)
+- [ ]  [MiniUtil](https://github.com/hexu1985/Cpp.MiniUtil) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.MiniUtil)
-- [x]  [MiniAlgo](https://github.com/hexu1985/Cpp.MiniAlgo)
+- [ ]  [MiniAlgo](https://github.com/hexu1985/Cpp.MiniAlgo) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.MiniAlgo)
-- [x]  [MiniSTL](https://github.com/hexu1985/Cpp.MiniSTL)
+- [ ]  [MiniSTL](https://github.com/hexu1985/Cpp.MiniSTL) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.MiniSTL)
 
 #### Python
-- [x]  [MiniMatlab](https://github.com/hexu1985/Py.MiniMatlab.git)
+- [ ]  [MiniMatlab](https://github.com/hexu1985/Py.MiniMatlab.git) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Py.MiniMatlab)
 
 ---
@@ -39,23 +39,23 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Gflags.And.Glog.Tutorial)
 - [ ]  [GoogleTest Tutorial](https://github.com/hexu1985/GoogleTest.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/GoogleTest.Tutorial)
-- [x]  [Qt Programming Tutorial](https://github.com/hexu1985/Qt.Programming.Tutorial)
+- [ ]  [Qt Programming Tutorial](https://github.com/hexu1985/Qt.Programming.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Qt.Programming.Tutorial)
 
 #### 数据结构与算法
-- [x]  [Data Structures & Algorithms Tutorial](https://github.com/hexu1985/Data.Structures.And.Algorithms.Tutorial)
+- [ ]  [Data Structures & Algorithms Tutorial](https://github.com/hexu1985/Data.Structures.And.Algorithms.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Data.Structures.And.Algorithms.Tutorial)
 
 #### 编译器相关
-- [x]  [C & C++ Compiling Tutorial](https://github.com/hexu1985/C.And.Cpp.Compiling.Tutorial)
+- [ ]  [C & C++ Compiling Tutorial](https://github.com/hexu1985/C.And.Cpp.Compiling.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/C.And.Cpp.Compiling.Tutorial)
 
 #### 数据库相关
-- [x]  [SQLite Tutorial](https://github.com/hexu1985/SQLite.Tutorial)
+- [ ]  [SQLite Tutorial](https://github.com/hexu1985/SQLite.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/SQLite.TTutorial)
 
 #### Markdown
-- [x]  [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial)
+- [ ]  [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Markdown.Tutorial)
 
 ---
@@ -223,7 +223,7 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Professional.Assembly.Language)
 - [ ]  [汇编程序设计与计算机体系结构--软件工程师教程](https://github.com/hexu1985/Assembly.Programming.And.Computer.Architecture)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Assembly.Programming.And.Computer.Architecture)
-- [x]  [深入理解程序设计--使用Linux汇编语言](https://github.com/hexu1985/Programming.From.The.Ground.Up)
+- [ ]  [深入理解程序设计--使用Linux汇编语言](https://github.com/hexu1985/Programming.From.The.Ground.Up) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Programming.From.The.Ground.Up)
 
 #### 编译器相关
@@ -254,7 +254,7 @@
 
 
 #### 科学计算
-- [x]  [数值方法(C++描述)](https://github.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)
+- [ ]  [数值方法(C++描述)](https://github.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)
 - [ ]  [面向计算科学与工程的MATLAB编程](https://github.com/hexu1985/Matlab.Introduction)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Matlab.Introduction)
@@ -264,18 +264,18 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Data.Visualization.Cookbook)
 - [ ]  [Python数学编程](https://github.com/hexu1985/Doing.Math.With.Python)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Doing.Math.With.Python)
-- [x]  [用Python学数学](https://github.com/hexu1985/Math.Adventures.With.Python)
+- [ ]  [用Python学数学](https://github.com/hexu1985/Math.Adventures.With.Python) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Math.Adventures.With.Python)
-- [x]  [Python图形编程](https://github.com/hexu1985/Python.Graphics)
+- [ ]  [Python图形编程](https://github.com/hexu1985/Python.Graphics) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Graphics)
 
 
 #### 计算机图形学
-- [x]  [Processing编程学习指南](https://github.com/hexu1985/Learning.Processing)
+- [ ]  [Processing编程学习指南](https://github.com/hexu1985/Learning.Processing) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Learning.Processing)
 
 #### 计算机视觉
-- [x]  [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution)
+- [ ]  [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
 - [ ]  [Python OpenCV从入门到实践](https://github.com/hexu1985/Python.OpenCV.From.Novice.To.Practice)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.OpenCV.From.Novice.To.Practice)
