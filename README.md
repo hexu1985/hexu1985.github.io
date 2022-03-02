@@ -151,6 +151,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/In.Depth.Cpp.11)
 - [Accelerated C++](https://github.com/hexu1985/Accelerated.Cpp)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Accelerated.Cpp)
+- [C++编程你也行](https://github.com/hexu1985/You.Can.Program.In.Cpp)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/You.Can.Program.In.Cpp)
 
 #### Boost
 - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
