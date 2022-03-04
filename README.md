@@ -14,33 +14,17 @@
 
 ---
 
-### 我的项目
-
-#### C++
-- [MiniSocket](https://github.com/hexu1985/Cpp.MiniSocket) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.MiniSocket)
-- [MiniUtil](https://github.com/hexu1985/Cpp.MiniUtil) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.MiniUtil)
-- [MiniAlgo](https://github.com/hexu1985/Cpp.MiniAlgo) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.MiniAlgo)
-- [MiniSTL](https://github.com/hexu1985/Cpp.MiniSTL) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.MiniSTL)
-
-#### Python
-- [MiniMatlab](https://github.com/hexu1985/Py.MiniMatlab.git) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Py.MiniMatlab)
-
----
-
 ### 教程及示例总结
 
 #### C++
+- [Collection of C++ Utility class](https://github.com/hexu1985/Collection.Of.Cpp.Utility.Class) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Cpp.Utility.Class)
+- [Qt Programming Tutorial](https://github.com/hexu1985/Qt.Programming.Tutorial) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Qt.Programming.Tutorial)
 - [Gflags & Glog Tutorial](https://github.com/hexu1985/Gflags.And.Glog.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Gflags.And.Glog.Tutorial)
 - [GoogleTest Tutorial](https://github.com/hexu1985/GoogleTest.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/GoogleTest.Tutorial)
-- [Qt Programming Tutorial](https://github.com/hexu1985/Qt.Programming.Tutorial) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Qt.Programming.Tutorial)
 
 #### 数据结构与算法
 - [Data Structures & Algorithms Tutorial](https://github.com/hexu1985/Data.Structures.And.Algorithms.Tutorial) <kbd>new!</kbd>
@@ -283,6 +267,22 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
 - [Python OpenCV从入门到实践](https://github.com/hexu1985/Python.OpenCV.From.Novice.To.Practice)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.OpenCV.From.Novice.To.Practice)
+
+---
+
+### 我的项目
+
+#### C++
+- [MiniSocket](https://github.com/hexu1985/Cpp.MiniSocket) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.MiniSocket)
+- [MiniAlgo](https://github.com/hexu1985/Cpp.MiniAlgo) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.MiniAlgo)
+- [MiniSTL](https://github.com/hexu1985/Cpp.MiniSTL) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.MiniSTL)
+
+#### Python
+- [MiniMatlab](https://github.com/hexu1985/Py.MiniMatlab.git) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Py.MiniMatlab)
 
 ---
 
