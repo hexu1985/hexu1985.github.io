@@ -311,6 +311,7 @@
 #### Others
 - [GraphViz Pocket Reference](https://graphs.grevian.org/)
 - [OpenCV Docs](https://docs.opencv.org/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 ---
 
