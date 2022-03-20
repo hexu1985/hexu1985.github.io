@@ -193,8 +193,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/UNIX.Shells.By.Example)
 - [Shell脚本专家指南](https://github.com/hexu1985/Expert.Shell.Scripting)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Expert.Shell.Scripting)
-- [Shell脚本编程诀窍 适用于Linux、Bash等](https://github.com/hexu1985/Shell.Scripting)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Shell.Scripting)
+- [Shell脚本编程诀窍 适用于Linux、Bash等](https://github.com/hexu1985/Shell.Scripting.Expert.Recipes)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Shell.Scripting.Expert.Recipes)
 
 #### Utility
 - [Vim实用技巧](https://github.com/hexu1985/Practical.Vim)
