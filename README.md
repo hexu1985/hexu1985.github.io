@@ -243,6 +243,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.Definitive.Guide.To.SQLite)
 - [Head First SQL](https://github.com/hexu1985/Head.First.SQL)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Head.First.SQL)
+- [SQL基础教程](https://github.com/hexu1985/SQL.Basic.Course)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/SQL.Basic.Course)
 
 
 #### 科学计算
