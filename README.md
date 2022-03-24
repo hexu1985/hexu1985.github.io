@@ -241,6 +241,8 @@
 #### 数据库
 - [SQLite权威指南](https://github.com/hexu1985/The.Definitive.Guide.To.SQLite)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.Definitive.Guide.To.SQLite)
+- [Head First SQL](https://github.com/hexu1985/Head.First.SQL)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Head.First.SQL)
 
 
 #### 科学计算
