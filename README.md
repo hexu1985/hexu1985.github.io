@@ -150,7 +150,7 @@
 - [Boost Asio C++ Network Programming](https://github.com/hexu1985/Asio.Cpp.Network.Programming)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Asio.Cpp.Network.Programming)
 
-#### Qt
+#### [Qt](https://github.com/hexu1985/qt_code) 
 - [C++ GUI Qt4编程(第二版)](https://github.com/hexu1985/Cpp.GUI.Programming.with.Qt)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.GUI.Programming.with.Qt)
 - [C++ Qt设计模式(第二版)](https://github.com/hexu1985/Design.Patterns.in.Cpp.with.Qt)
