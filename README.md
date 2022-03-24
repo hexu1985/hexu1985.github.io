@@ -239,12 +239,14 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Redis.In.Action)
 
 #### 数据库
-- [SQLite权威指南](https://github.com/hexu1985/The.Definitive.Guide.To.SQLite)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.Definitive.Guide.To.SQLite)
 - [Head First SQL](https://github.com/hexu1985/Head.First.SQL)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Head.First.SQL)
 - [SQL基础教程](https://github.com/hexu1985/SQL.Basic.Course)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/SQL.Basic.Course)
+- [SQLite权威指南](https://github.com/hexu1985/The.Definitive.Guide.To.SQLite)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.Definitive.Guide.To.SQLite)
+- [MySQL必知必会](https://github.com/hexu1985/MySQL.Crash.Course)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/MySQL.Crash.Course)
 
 
 #### 科学计算
