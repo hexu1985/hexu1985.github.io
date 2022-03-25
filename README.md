@@ -345,6 +345,7 @@
 - [github](https://github.com/plantuml-stdlib/Archimate-PlantUML)
 
 #### Git
+- [giggle](https://wiki.gnome.org/giggle)<kbd>recommend</kbd>
 - [gitk](https://git-scm.com/docs/gitk)
 - [Sourcetree](https://www.sourcetreeapp.com/)
 
