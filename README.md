@@ -351,6 +351,7 @@
 
 #### SQL
 - [mysql workbench](https://dev.mysql.com/downloads/workbench/)
+- [sqlitebrowser](https://snapcraft.io/sqlitebrowser)
 
 ---
 
