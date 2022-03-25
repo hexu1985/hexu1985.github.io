@@ -349,6 +349,9 @@
 - [gitk](https://git-scm.com/docs/gitk)
 - [Sourcetree](https://www.sourcetreeapp.com/)
 
+#### SQL
+- [mysql workbench](https://dev.mysql.com/downloads/workbench/)
+
 ---
 
 [<kbd>main link</kbd>](https://hexu1985.github.io) 
