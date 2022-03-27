@@ -267,6 +267,8 @@
 
 
 #### 计算机图形学
+- [OpenGL编程基础](https://github.com/hexu1985/OpenGL.Primer) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenGL.Primer)
 - [Processing编程学习指南](https://github.com/hexu1985/Learning.Processing) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Learning.Processing)
 
