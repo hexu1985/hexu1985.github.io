@@ -16,6 +16,10 @@
 
 ### 教程及示例总结
 
+#### 汇总仓库
+- [Tutorial.And.Demo.Summarize.Gitee](https://gitee.com/hexu1985/Tutorial.And.Demo.Summarize.Gitee)
+
+
 #### C++
 - [C++ Standard Library Reimplement](https://github.com/hexu1985/Cpp.Standard.Library.Reimplement) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.Standard.Library.Reimplement)
@@ -42,7 +46,7 @@
 
 #### 数据库相关
 - [SQLite Tutorial](https://github.com/hexu1985/SQLite.Tutorial) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/SQLite.TTutorial)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/SQLite.Tutorial)
 
 #### Markdown
 - [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial) <kbd>new!</kbd>
