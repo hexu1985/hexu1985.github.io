@@ -16,6 +16,11 @@
 
 ### 教程及示例总结
 
+#### 汇总仓库
+- [Tutorial.And.Demo.Summarize.Github](https://github.com/hexu1985/Tutorial.And.Demo.Summarize.Github)
+- [Tutorial.And.Demo.Summarize.Gitee](https://gitee.com/hexu1985/Tutorial.And.Demo.Summarize.Gitee)
+
+
 #### C++
 - [C++ Standard Library Reimplement](https://github.com/hexu1985/Cpp.Standard.Library.Reimplement) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.Standard.Library.Reimplement)
@@ -42,7 +47,7 @@
 
 #### 数据库相关
 - [SQLite Tutorial](https://github.com/hexu1985/SQLite.Tutorial) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/SQLite.TTutorial)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/SQLite.Tutorial)
 
 #### Markdown
 - [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial) <kbd>new!</kbd>
@@ -95,8 +100,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Effective.TCP.IP.Programming)
 - [Python网络编程](https://github.com/hexu1985/Foundations.Of.Python.Network.Programming)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Foundations.Of.Python.Network.Programming)
-- [Python网络编程攻略](https://github.com/hexu1985/Foundations.Of.Python.Network.Programming.Cookbook)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Foundations.Of.Python.Network.Programming.Cookbook)
+- [Python网络编程攻略](https://github.com/hexu1985/Python.Network.Programming.Cookbook)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Network.Programming.Cookbook)
 
 #### 数据结构与算法
 - [算法: C语言实现](https://github.com/hexu1985/Algorithms.In.C)
