@@ -222,6 +222,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/CMake.Cookbook)
 - [C/C++代码调试的艺术](https://github.com/hexu1985/Art.Of.Debugging.In.C.Cpp)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Art.Of.Debugging.In.C.Cpp)
+- [Wireshark数据包分析实战](https://github.com/hexu1985/Practical.Packet.Analysis)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Packet.Analysis)
 
 #### 汇编语言
 - [汇编语言程序设计](https://github.com/hexu1985/Professional.Assembly.Language)
