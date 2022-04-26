@@ -200,6 +200,10 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.GUI.Tkinter.From.Novice.To.Practice)
 
 #### Shell
+
+- [Shell.Code.Summarize.Github](https://github.com/hexu1985/Shell.Code.Summarize.Github)
+- [Shell.Code.Summarize.Gitee](https://gitee.com/hexu1985/Shell.Code.Summarize.Gitee)
+
 - [Shell脚本学习指南](https://github.com/hexu1985/Classic.Shell.Scripting)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Classic.Shell.Scripting)
 - [Linux Shell脚本攻略](https://github.com/hexu1985/Linux.Shell.Scripting.Cookbook)
