@@ -1,25 +1,25 @@
-## 我的资料
+# 我的资料
 
 ---
 
-### git仓库
+## git仓库
 
-#### github
+### github
 - [主页链接](https://github.com/hexu1985) 
 - [当前页项目链接](https://github.com/hexu1985/hexu1985.github.io)
 
-#### gitee
+### gitee
 - [主页链接](https://gitee.com/hexu1985) 
 - [当前页项目链接](https://gitee.com/hexu1985/hexu1985)
 
 ---
 
-### 教程及示例总结
+## 教程及示例总结
 [<kbd>github</kbd>](https://github.com/hexu1985/Tutorial.And.Demo.Summarize.Github)
 [<kbd>gitee</kbd>](https://gitee.com/hexu1985/Tutorial.And.Demo.Summarize.Gitee)
 
 
-#### C++
+### C++
 - [C++ Standard Library Reimplement](https://github.com/hexu1985/Cpp.Standard.Library.Reimplement) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.Standard.Library.Reimplement)
 - [Collection of C++ Utility class](https://github.com/hexu1985/Collection.Of.Cpp.Utility.Class) <kbd>new!</kbd>
@@ -31,35 +31,35 @@
 - [GoogleTest Tutorial](https://github.com/hexu1985/GoogleTest.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/GoogleTest.Tutorial)
 
-#### Linux System Programming
+### Linux System Programming
 - [Linux Socket Programming Tutorial](https://github.com/hexu1985/Linux.Socket.Programming.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Linux.Socket.Programming.Tutorial)
 
-#### 数据结构与算法
+### 数据结构与算法
 - [Data Structures & Algorithms Tutorial](https://github.com/hexu1985/Data.Structures.And.Algorithms.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Data.Structures.And.Algorithms.Tutorial)
 
-#### 编译器相关
+### 编译器相关
 - [C & C++ Compiling Tutorial](https://github.com/hexu1985/C.And.Cpp.Compiling.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/C.And.Cpp.Compiling.Tutorial)
 
-#### 数据库相关
+### 数据库相关
 - [SQLite Tutorial](https://github.com/hexu1985/SQLite.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/SQLite.Tutorial)
 
-#### Markdown
+### Markdown
 - [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Markdown.Tutorial)
 
-#### Linux Command Line
+### Linux Command Line
 - [Collection of Linux tools](https://github.com/hexu1985/Collection.Of.Linux.Tools) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Linux.Tools)
 
 ---
 
-### 随书示例代码
+## 随书示例代码
 
-#### 设计模式
+### 设计模式
 - [软件架构与模式](https://github.com/hexu1985/Architectural.And.Design.Patterns.Of.Software.Engineering)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Architectural.And.Design.Patterns.Of.Software.Engineering)
 - [Head First设计模式](https://github.com/hexu1985/Head.First.Design.Pattern)
@@ -71,7 +71,7 @@
 - [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/Modern.Cpp.Design)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Modern.Cpp.Design)
 
-#### 系统编程
+### 系统编程
 - [UNIX环境高级编程](https://github.com/hexu1985/Advanced.Programming.In.UNIX.Environment)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Advanced.Programming.In.UNIX.Environment)
 - [UNIX系统编程](https://github.com/hexu1985/UNIX.Systems.Programming)
@@ -87,7 +87,7 @@
 - [深入理解计算机系统](https://github.com/hexu1985/Computer.Systems)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Computer.Systems)
 
-#### 网络编程
+### 网络编程
 - [UNIX网络编程 卷1 卷2](https://github.com/hexu1985/UNIX.Network.Programming)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/UNIX.Network.Programming)
 - [TCP/IP网络互联技术 第三卷](https://github.com/hexu1985/Internetworking.With.TCP.IP)
@@ -101,7 +101,7 @@
 - [Python网络编程攻略](https://github.com/hexu1985/Python.Network.Programming.Cookbook)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Network.Programming.Cookbook)
 
-#### 数据结构与算法
+### 数据结构与算法
 - [算法: C语言实现](https://github.com/hexu1985/Algorithms.In.C)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Algorithms.In.C)
 - [算法: C++实现](https://github.com/hexu1985/Algorithms.In.Cpp)
@@ -111,7 +111,7 @@
 - [数据结构(Python语言描述)](https://github.com/hexu1985/Fundamentals.Of.Python.Data.Structures)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Fundamentals.Of.Python.Data.Structures)
 
-#### C
+### C
 - [C程序设计语言](https://github.com/hexu1985/The.C.Programming.Language)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.C.Programming.Language)
 - [C标准库](https://github.com/hexu1985/The.Standard.C.Library)
@@ -123,7 +123,7 @@
 - [C语言程序设计:现代方法](https://github.com/hexu1985/C.Programming.Modern.Approach)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/C.Programming.Modern.Approach)
 
-#### C++
+### C++
 - [C++程序设计原理与实践](https://github.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
 - [标准C++输入输出流与本地化](https://github.com/hexu1985/Standard.Cpp.IOStreams.And.Locales)
@@ -153,7 +153,7 @@
 - [C++ Templates](https://github.com/hexu1985/Cpp.Templates)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.Templates)
 
-#### Boost
+### Boost
 - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Beyond.The.Cpp.Standard.Library)
 - [深入实践Boost Boost程序库开发的94个秘笈](https://github.com/hexu1985/Boost.Cpp.Application.Development.Cookbook)
@@ -163,7 +163,7 @@
 - [Boost Asio C++ Network Programming](https://github.com/hexu1985/Asio.Cpp.Network.Programming)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Asio.Cpp.Network.Programming)
 
-#### [Qt](https://github.com/hexu1985/qt_code) 
+### [Qt](https://github.com/hexu1985/qt_code) 
 - [C++ GUI Qt4编程(第二版)](https://github.com/hexu1985/Cpp.GUI.Programming.with.Qt)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.GUI.Programming.with.Qt)
 - [C++ Qt设计模式(第二版)](https://github.com/hexu1985/Design.Patterns.in.Cpp.with.Qt)
@@ -179,7 +179,7 @@
 - [Qt高级编程](https://github.com/hexu1985/Advanced.Qt.Programming)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Advanced.Qt.Programming)
 
-#### Python
+### Python
 - [Python基础教程](https://github.com/hexu1985/Beginning.Python)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Beginning.Python)
 - [Python核心编程](https://github.com/hexu1985/Core.Python.Programming)
@@ -191,14 +191,14 @@
 - [Python标准库](https://github.com/hexu1985/Python.Standard.Library.By.Example)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
 
-#### Tkinter
+### Tkinter
 - [Python GUI设计: tkinter菜鸟编程](https://github.com/hexu1985/Python.GUI.Tkinter)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.GUI.Tkinter)
 - [Python GUI设计: tkinter从入门到实践](https://github.com/hexu1985/Python.GUI.Tkinter.From.Novice.To.Practice)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.GUI.Tkinter.From.Novice.To.Practice)
 
-#### Shell
-[<kbd>github</kbd>](https://github.com/hexu1985/Shell.Code.Summarize.Github)
+### Shell 
+[<kbd>github</kbd>](https://github.com/hexu1985/Shell.Code.Summarize.Github) 
 [<kbd>gitee</kbd>](https://gitee.com/hexu1985/Shell.Code.Summarize.Gitee)
 
 - [Shell脚本学习指南](https://github.com/hexu1985/Classic.Shell.Scripting)
@@ -212,7 +212,7 @@
 - [Shell脚本编程诀窍 适用于Linux、Bash等](https://github.com/hexu1985/Shell.Scripting.Expert.Recipes)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Shell.Scripting.Expert.Recipes)
 
-#### Utility
+### Utility
 - [Vim实用技巧](https://github.com/hexu1985/Practical.Vim)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Vim)
 - [软件调试的艺术](https://github.com/hexu1985/Art.Of.Debugging.With.GDB)
@@ -226,7 +226,7 @@
 - [Wireshark数据包分析实战](https://github.com/hexu1985/Practical.Packet.Analysis)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Packet.Analysis)
 
-#### 汇编语言
+### 汇编语言
 - [汇编语言程序设计](https://github.com/hexu1985/Professional.Assembly.Language)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Professional.Assembly.Language)
 - [汇编程序设计与计算机体系结构--软件工程师教程](https://github.com/hexu1985/Assembly.Programming.And.Computer.Architecture)
@@ -234,7 +234,7 @@
 - [深入理解程序设计--使用Linux汇编语言](https://github.com/hexu1985/Programming.From.The.Ground.Up)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Programming.From.The.Ground.Up)
 
-#### 编译器相关
+### 编译器相关
 - [编译原理及实践](https://github.com/hexu1985/Compiler.Construction.Principles.And.Practice)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Compiler.Construction.Principles.And.Practice)
 - [lex与yacc](https://github.com/hexu1985/Lex.And.Yacc)
@@ -244,19 +244,19 @@
 - [高级C/C++编译技术](https://github.com/hexu1985/Advanced.C.And.Cpp.Compiling)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Advanced.C.And.Cpp.Compiling)
 
-#### Web相关
+### Web相关
 - [Head First HTML与CSS](https://github.com/hexu1985/Head.First.HTML.And.CSS)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Head.First.HTML.And.CSS)
 - [libuv中文教程](https://github.com/hexu1985/Introduction.To.Libuv)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Introduction.To.Libuv)
 
-#### 服务器端技术
+### 服务器端技术
 - [Python Docker实战](https://github.com/hexu1985/Practical.Docker.With.Python)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Docker.With.Python)
 - [Redis实战](https://github.com/hexu1985/Redis.In.Action)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Redis.In.Action)
 
-#### 数据库
+### 数据库
 - [Head First SQL](https://github.com/hexu1985/Head.First.SQL)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Head.First.SQL)
 - [SQL基础教程](https://github.com/hexu1985/SQL.Basic.Course)
@@ -267,7 +267,7 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/MySQL.Crash.Course)
 
 
-#### 科学计算
+### 科学计算
 - [数值方法(C++描述)](https://github.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)
 - [面向计算科学与工程的MATLAB编程](https://github.com/hexu1985/Matlab.Introduction)
@@ -286,13 +286,13 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Math.Textbook)
 
 
-#### 计算机图形学
+### 计算机图形学
 - [OpenGL编程基础](https://github.com/hexu1985/OpenGL.Primer) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenGL.Primer)
 - [Processing编程学习指南](https://github.com/hexu1985/Learning.Processing) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Learning.Processing)
 
-#### 计算机视觉
+### 计算机视觉
 - [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
 - [Python OpenCV从入门到实践](https://github.com/hexu1985/Python.OpenCV.From.Novice.To.Practice)
@@ -300,29 +300,29 @@
 
 ---
 
-### 我的项目
+## 我的项目
 
-#### C++
+### C++
 - [MiniSocket](https://github.com/hexu1985/Cpp.MiniSocket) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.MiniSocket)
 - [MiniAlgo](https://github.com/hexu1985/Cpp.MiniAlgo) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.MiniAlgo)
 
-#### Python
+### Python
 - [MiniMatlab](https://github.com/hexu1985/Py.MiniMatlab.git) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Py.MiniMatlab)
 
 ---
 
-### 参考文档链接
+## 参考文档链接
 
-#### 编码规范
+### 编码规范
 - [Google 开源项目风格指南 (中文版)](https://zh-google-styleguide.readthedocs.io/en/latest/contents/)
 - [C++ 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
 - [Python 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents/)
 - [Shell 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-shell-styleguide/contents/)
 
-#### C++
+### C++
 - [cpluplus.com](http://www.cplusplus.com/reference/)
 - [cppreference.com en](https://en.cppreference.com/w/)
 - [cppreference.com zh](https://zh.cppreference.com/w/)
@@ -330,46 +330,46 @@
 - [qt5 source online](https://code.woboq.org/qt5/)
 - [Data Structures and Algorithms Problems in C++ using STL](https://medium.com/techie-delight/data-structures-and-algorithms-problems-in-c-using-stl-7900a6ddb1d4)
 
-#### Python
+### Python
 - [Python 3.x Docs](https://docs.python.org/3/)
 - [Python Standard Library Docs](https://docs.python.org/3/library/)
 - [matplotlib Docs](https://matplotlib.org/contents.html)
 - [numpy Docs](https://numpy.org/doc/)
 
-#### Others
+### Others
 - [GraphViz Pocket Reference](https://graphs.grevian.org/)
 - [OpenCV Docs](https://docs.opencv.org/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 ---
 
-### free app link
+## free app link
 
-#### tabby
+### tabby
 - [home](https://tabby.sh/)
 - [download](https://github.com/Eugeny/tabby/releases)
 
-#### draw.io
+### draw.io
 - [home](https://www.diagrams.net/integrations#integrations_offline)
 - [github](https://github.com/jgraph/drawio)
 - [download](https://github.com/jgraph/drawio-desktop/releases)
 
-#### Typora
+### Typora
 - [home](https://typora.io/)
 
-#### StarUML
+### StarUML
 - [home](https://staruml.io/)
 
-#### PlantUML
+### PlantUML
 - [home](https://plantuml.com/zh/)
 - [github](https://github.com/plantuml-stdlib/Archimate-PlantUML)
 
-#### Git
+### Git
 - [giggle](https://wiki.gnome.org/giggle)<kbd>recommend</kbd>
 - [gitk](https://git-scm.com/docs/gitk)
 - [Sourcetree](https://www.sourcetreeapp.com/)
 
-#### SQL
+### SQL
 - [mysql workbench](https://dev.mysql.com/downloads/workbench/)
 - [sqlitebrowser](https://snapcraft.io/sqlitebrowser)
 
