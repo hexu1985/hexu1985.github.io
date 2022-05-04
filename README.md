@@ -297,6 +297,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
 - [Python OpenCV从入门到实践](https://github.com/hexu1985/Python.OpenCV.From.Novice.To.Practice)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.OpenCV.From.Novice.To.Practice)
+- [Python计算机视觉编程](https://github.com/hexu1985/Programming.Computer.Vision.With.Python)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Programming.Computer.Vision.With.Python)
 
 ---
 
