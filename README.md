@@ -284,6 +284,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Graphics)
 - [用Python编程和实践!数学教科书](https://github.com/hexu1985/Python.Math.Textbook)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Math.Textbook)
+- [Python图形编程: 2D和3D图像的创建](https://github.com/hexu1985/Python.Graphics)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Graphics)
 
 
 ### 计算机图形学
