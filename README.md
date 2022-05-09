@@ -2,18 +2,6 @@
 
 ---
 
-## git仓库
-
-### github
-- [主页链接](https://github.com/hexu1985) 
-- [当前页项目链接](https://github.com/hexu1985/hexu1985.github.io)
-
-### gitee
-- [主页链接](https://gitee.com/hexu1985) 
-- [当前页项目链接](https://gitee.com/hexu1985/hexu1985)
-
----
-
 ## 教程及示例总结
 [<kbd>github</kbd>](https://github.com/hexu1985/Tutorial.And.Demo.Summarize.Github)
 [<kbd>gitee</kbd>](https://gitee.com/hexu1985/Tutorial.And.Demo.Summarize.Gitee)
@@ -376,6 +364,18 @@
 ### SQL
 - [mysql workbench](https://dev.mysql.com/downloads/workbench/)
 - [sqlitebrowser](https://snapcraft.io/sqlitebrowser)
+
+---
+
+## git仓库链接
+
+### github
+- [主页链接](https://github.com/hexu1985) 
+- [当前页项目链接](https://github.com/hexu1985/hexu1985.github.io)
+
+### gitee
+- [主页链接](https://gitee.com/hexu1985) 
+- [当前页项目链接](https://gitee.com/hexu1985/hexu1985)
 
 ---
 
