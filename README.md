@@ -231,6 +231,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Flex.And.Bison)
 - [高级C/C++编译技术](https://github.com/hexu1985/Advanced.C.And.Cpp.Compiling)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Advanced.C.And.Cpp.Compiling)
+- [二进制分析 实战](https://github.com/hexu1985/Practical.Binary.Analysis)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Binary.Analysis)
 
 ### Web相关
 - [Head First HTML与CSS](https://github.com/hexu1985/Head.First.HTML.And.CSS)
