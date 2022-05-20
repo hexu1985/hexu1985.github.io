@@ -213,6 +213,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Art.Of.Debugging.In.C.Cpp)
 - [Wireshark数据包分析实战](https://github.com/hexu1985/Practical.Packet.Analysis)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Packet.Analysis)
+- [软件调试实战](https://github.com/hexu1985/Developer.Guide.To.Debugging)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Developer.Guide.To.Debugging)
 
 ### 汇编语言
 - [汇编语言程序设计](https://github.com/hexu1985/Professional.Assembly.Language)
@@ -283,6 +285,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenGL.Primer)
 - [Processing编程学习指南](https://github.com/hexu1985/Learning.Processing) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Learning.Processing)
+- [OpenGL 4.0 Shading Language Cookbook](https://github.com/hexu1985/OpenGL.Shading.Language.Cookbook)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenGL.Shading.Language.Cookbook)
 
 ### 计算机视觉
 - [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution) <kbd>new!</kbd>
