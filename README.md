@@ -334,6 +334,9 @@
 - [matplotlib Docs](https://matplotlib.org/contents.html)
 - [numpy Docs](https://numpy.org/doc/)
 
+### Linux
+- [The Linux Kernel Archives](https://kernel.org/)
+
 ### Others
 - [GraphViz Pocket Reference](https://graphs.grevian.org/)
 - [OpenCV Docs](https://docs.opencv.org/)
