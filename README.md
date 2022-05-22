@@ -280,13 +280,15 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Graphics)
 
 
-### 计算机图形学
+### 计算机图形学及多媒体
 - [OpenGL编程基础](https://github.com/hexu1985/OpenGL.Primer) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenGL.Primer)
 - [Processing编程学习指南](https://github.com/hexu1985/Learning.Processing) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Learning.Processing)
 - [OpenGL 4.0 Shading Language Cookbook](https://github.com/hexu1985/OpenGL.Shading.Language.Cookbook)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenGL.Shading.Language.Cookbook)
+- [FFmpeg音视频开发基础与实战](https://github.com/hexu1985/Fundamental.And.Practical.FFmpeg)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Fundamental.And.Practical.FFmpeg)
 
 ### 计算机视觉
 - [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution) <kbd>new!</kbd>
