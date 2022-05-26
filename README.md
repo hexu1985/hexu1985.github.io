@@ -27,9 +27,11 @@
 - [Data Structures & Algorithms Tutorial](https://github.com/hexu1985/Data.Structures.And.Algorithms.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Data.Structures.And.Algorithms.Tutorial)
 
-### 编译器相关
+### 编译与调试
 - [C & C++ Compiling Tutorial](https://github.com/hexu1985/C.And.Cpp.Compiling.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/C.And.Cpp.Compiling.Tutorial)
+- [C & C++ Debugging Tutorial](https://github.com/hexu1985/C.And.Cpp.Debugging.Tutorial) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/C.And.Cpp.Debugging.Tutorial)
 
 ### 数据库相关
 - [SQLite Tutorial](https://github.com/hexu1985/SQLite.Tutorial) <kbd>new!</kbd>
