@@ -241,6 +241,8 @@
 ### Web相关
 - [Head First HTML与CSS](https://github.com/hexu1985/Head.First.HTML.And.CSS)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Head.First.HTML.And.CSS)
+- [斯坦福程序设计入门课 JavaScript实现](https://github.com/hexu1985/Introduction.To.Javascript.Programming)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Introduction.To.Javascript.Programming)
 - [libuv中文教程](https://github.com/hexu1985/Introduction.To.Libuv)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Introduction.To.Libuv)
 
