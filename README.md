@@ -380,6 +380,10 @@
 - [mysql workbench](https://dev.mysql.com/downloads/workbench/)
 - [sqlitebrowser](https://snapcraft.io/sqlitebrowser)
 
+### usb boot tools
+- [rufus](http://rufus.ie/zh/)
+- [unetbootin](http://unetbootin.github.io/)
+
 ---
 
 ## git仓库链接
