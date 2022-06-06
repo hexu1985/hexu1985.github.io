@@ -295,8 +295,10 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Fundamental.And.Practical.FFmpeg)
 
 ### 计算机视觉
-- [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution) <kbd>new!</kbd>
+- [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
+- [学习OpenCV](https://github.com/hexu1985/Learning.OpenCV)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Learning.OpenCV)
 - [Python OpenCV从入门到实践](https://github.com/hexu1985/Python.OpenCV.From.Novice.To.Practice)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.OpenCV.From.Novice.To.Practice)
 - [Python计算机视觉编程](https://github.com/hexu1985/Programming.Computer.Vision.With.Python)
