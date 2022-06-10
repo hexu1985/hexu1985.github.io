@@ -10,7 +10,7 @@
 ### C++
 - [C++ Standard Library Reimplement](https://github.com/hexu1985/Cpp.Standard.Library.Reimplement) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.Standard.Library.Reimplement)
-- [Collection of C++ Utility class](https://github.com/hexu1985/Collection.Of.Cpp.Utility.Class) <kbd>new!</kbd>
+- [Collection of C++ Utility Class](https://github.com/hexu1985/Collection.Of.Cpp.Utility.Class) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Cpp.Utility.Class)
 - [Qt Programming Tutorial](https://github.com/hexu1985/Qt.Programming.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Qt.Programming.Tutorial)
@@ -18,6 +18,10 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Gflags.And.Glog.Tutorial)
 - [GoogleTest Tutorial](https://github.com/hexu1985/GoogleTest.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/GoogleTest.Tutorial)
+
+### Python
+- [Collection of Python Utility Tools](https://github.com/hexu1985/Collection.Of.Python.Utility.Tools) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Python.Utility.Tools)
 
 ### Linux System Programming
 - [Linux Socket Programming Tutorial](https://github.com/hexu1985/Linux.Socket.Programming.Tutorial) <kbd>new!</kbd>
