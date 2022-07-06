@@ -82,6 +82,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Programming.With.POSIX.Threads)
 - [深入理解计算机系统](https://github.com/hexu1985/Computer.Systems)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Computer.Systems)
+- [Linux是怎样工作的](https://github.com/hexu1985/Linux.In.Practice)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Linux.In.Practice)
 
 ### 网络编程
 - [UNIX网络编程 卷1 卷2](https://github.com/hexu1985/UNIX.Network.Programming)
