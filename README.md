@@ -150,6 +150,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/You.Can.Program.In.Cpp)
 - [C++ Templates](https://github.com/hexu1985/Cpp.Templates)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.Templates)
+- [C++标准库扩展权威指南](https://github.com/hexu1985/The.Cpp.Standard.Library.Extentions)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.Cpp.Standard.Library.Extentions)
 
 ### Boost
 - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
