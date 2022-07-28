@@ -245,6 +245,8 @@
 ### Web相关
 - [Head First HTML与CSS](https://github.com/hexu1985/Head.First.HTML.And.CSS)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Head.First.HTML.And.CSS)
+- [JSON必知必会](https://github.com/hexu1985/introduction-to-javascript-object-notation)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/introduction-to-javascript-object-notation)
 - [斯坦福程序设计入门课 JavaScript实现](https://github.com/hexu1985/Introduction.To.Javascript.Programming)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Introduction.To.Javascript.Programming)
 - [libuv中文教程](https://github.com/hexu1985/Introduction.To.Libuv)
@@ -347,6 +349,7 @@
 - [Python Standard Library Docs](https://docs.python.org/3/library/)
 - [matplotlib Docs](https://matplotlib.org/contents.html)
 - [numpy Docs](https://numpy.org/doc/)
+- [flask Docs](https://flask.net.cn/)
 
 ### Linux
 - [The Linux Kernel Archives](https://kernel.org/)
