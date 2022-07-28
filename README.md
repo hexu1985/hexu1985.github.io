@@ -64,8 +64,6 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Agile.Software.Development)
 - [精通Python设计模式](https://github.com/hexu1985/Mastering.Python.Design.Patterns)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Mastering.Python.Design.Patterns)
-- [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/Modern.Cpp.Design)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Modern.Cpp.Design)
 
 ### 系统编程
 - [UNIX环境高级编程](https://github.com/hexu1985/Advanced.Programming.In.UNIX.Environment)
@@ -146,6 +144,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.Templates)
 - [C++标准库扩展权威指南](https://github.com/hexu1985/The.Cpp.Standard.Library.Extentions)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.Cpp.Standard.Library.Extentions)
+- [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/Modern.Cpp.Design)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Modern.Cpp.Design)
 
 ### Boost
 - [超越C++标准 Boost库导论](https://github.com/hexu1985/Beyond.The.Cpp.Standard.Library)
