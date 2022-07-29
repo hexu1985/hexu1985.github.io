@@ -177,6 +177,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Programming.Python)
 - [Python标准库](https://github.com/hexu1985/Python.Standard.Library.By.Example)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
+- [Effective Python](https://github.com/hexu1985/Effective.Python)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Effective.Python)
 
 ### Tkinter
 - [Python GUI设计: tkinter菜鸟编程](https://github.com/hexu1985/Python.GUI.Tkinter)
