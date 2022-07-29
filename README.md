@@ -157,7 +157,7 @@
 - [Boost Asio C++ Network Programming](https://github.com/hexu1985/Asio.Cpp.Network.Programming)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Asio.Cpp.Network.Programming)
 
-### [C++ Qt库](https://github.com/hexu1985/qt-gui-programming-examples) 
+### [C++ Qt](https://github.com/hexu1985/qt-gui-programming-examples) 
 - [C++ GUI Qt4编程(第二版)](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Cpp.GUI.Programming.with.Qt)
 - [C++ Qt设计模式(第二版)](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Design.Patterns.in.Cpp.with.Qt)
 - [Linux窗口程序设计 Qt4精彩实例分析](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Linux.Windows.Programming.With.Qt)
@@ -186,20 +186,12 @@
 - [Python GUI设计: tkinter从入门到实践](https://github.com/hexu1985/Python.GUI.Tkinter.From.Novice.To.Practice)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.GUI.Tkinter.From.Novice.To.Practice)
 
-### Shell 
-[<kbd>github</kbd>](https://github.com/hexu1985/Shell.Code.Summarize.Github) 
-[<kbd>gitee</kbd>](https://gitee.com/hexu1985/Shell.Code.Summarize.Gitee)
-
-- [Shell脚本学习指南](https://github.com/hexu1985/Classic.Shell.Scripting)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Classic.Shell.Scripting)
-- [Linux Shell脚本攻略](https://github.com/hexu1985/Linux.Shell.Scripting.Cookbook)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Linux.Shell.Scripting.Cookbook)
-- [UNIX shell范例精解](https://github.com/hexu1985/UNIX.Shells.By.Example)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/UNIX.Shells.By.Example)
-- [Shell脚本专家指南](https://github.com/hexu1985/Expert.Shell.Scripting)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Expert.Shell.Scripting)
-- [Shell脚本编程诀窍 适用于Linux、Bash等](https://github.com/hexu1985/Shell.Scripting.Expert.Recipes)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Shell.Scripting.Expert.Recipes)
+### [Shell](https://github.com/hexu1985/shell-scripting-examples)  
+- [Shell脚本学习指南](https://github.com/hexu1985/shell-scripting-examples/tree/master/Classic.Shell.Scripting)
+- [Linux Shell脚本攻略](https://github.com/hexu1985/shell-scripting-examples/tree/master/Linux.Shell.Scripting.Cookbook)
+- [UNIX shell范例精解](https://github.com/hexu1985/shell-scripting-examples/tree/master/UNIX.Shells.By.Example)
+- [Shell脚本专家指南](https://github.com/hexu1985/shell-scripting-examples/tree/master/Expert.Shell.Scripting)
+- [Shell脚本编程诀窍 适用于Linux、Bash等](https://github.com/hexu1985/shell-scripting-examples/tree/master/Shell.Scripting.Expert.Recipes)
 
 ### Utility
 - [Vim实用技巧](https://github.com/hexu1985/Practical.Vim)
