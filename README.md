@@ -55,15 +55,11 @@
 
 ## 随书示例代码
 
-### 设计模式
-- [软件架构与模式](https://github.com/hexu1985/Architectural.And.Design.Patterns.Of.Software.Engineering)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Architectural.And.Design.Patterns.Of.Software.Engineering)
-- [Head First设计模式](https://github.com/hexu1985/Head.First.Design.Pattern)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Head.First.Design.Pattern)
-- [敏捷软件开发：原则、模式与实践](https://github.com/hexu1985/Agile.Software.Development)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Agile.Software.Development)
-- [精通Python设计模式](https://github.com/hexu1985/Mastering.Python.Design.Patterns)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Mastering.Python.Design.Patterns)
+### [设计模式](https://github.com/hexu1985/design-patterns-examples) 
+- [软件架构与模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Architectural.And.Design.Patterns.Of.Software.Engineering)
+- [Head First设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Head.First.Design.Pattern)
+- [敏捷软件开发：原则、模式与实践](https://github.com/design-patterns-examples/tree/master/hexu1985/Agile.Software.Development)
+- [精通Python设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Mastering.Python.Design.Patterns)
 
 ### 系统编程
 - [UNIX环境高级编程](https://github.com/hexu1985/Advanced.Programming.In.UNIX.Environment)
