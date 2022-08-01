@@ -83,13 +83,13 @@
 - [Linux是怎样工作的](https://github.com/hexu1985/Linux.In.Practice)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Linux.In.Practice)
 
-### [网络编程](https://github.com/hexu1985/network-programming-samples) 
-- [UNIX网络编程 卷1 卷2](https://github.com/hexu1985/network-programming-samples/tree/master/UNIX.Network.Programming)
-- [TCP/IP网络互联技术 第三卷](https://github.com/hexu1985/network-programming-samples/tree/master/Internetworking.With.TCP.IP)
-- [TCP/IP网络编程](https://github.com/hexu1985/network-programming-samples/tree/master/Passionate.TCP.IP.Socket.Programming)
-- [TCP/IP高效编程](https://github.com/hexu1985/network-programming-samples/tree/master/Effective.TCP.IP.Programming)
-- [Python网络编程](https://github.com/hexu1985/network-programming-samples/tree/master/Foundations.Of.Python.Network.Programming)
-- [Python网络编程攻略](https://github.com/hexu1985/network-programming-samples/tree/master/Python.Network.Programming.Cookbook)
+### [网络编程](https://github.com/hexu1985/network-programming-examples) 
+- [UNIX网络编程 卷1 卷2](https://github.com/hexu1985/network-programming-examples/tree/master/UNIX.Network.Programming)
+- [TCP/IP网络互联技术 第三卷](https://github.com/hexu1985/network-programming-examples/tree/master/Internetworking.With.TCP.IP)
+- [TCP/IP网络编程](https://github.com/hexu1985/network-programming-examples/tree/master/Passionate.TCP.IP.Socket.Programming)
+- [TCP/IP高效编程](https://github.com/hexu1985/network-programming-examples/tree/master/Effective.TCP.IP.Programming)
+- [Python网络编程](https://github.com/hexu1985/network-programming-examples/tree/master/Foundations.Of.Python.Network.Programming)
+- [Python网络编程攻略](https://github.com/hexu1985/network-programming-examples/tree/master/Python.Network.Programming.Cookbook)
 
 ### 数据结构与算法
 - [算法: C语言实现](https://github.com/hexu1985/Algorithms.In.C)
