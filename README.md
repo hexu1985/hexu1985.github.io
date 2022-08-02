@@ -86,6 +86,8 @@
 - [TCP/IP高效编程](https://github.com/hexu1985/network-programming-examples/tree/master/Effective.TCP.IP.Programming)
 - [Python网络编程](https://github.com/hexu1985/network-programming-examples/tree/master/Foundations.Of.Python.Network.Programming)
 - [Python网络编程攻略](https://github.com/hexu1985/network-programming-examples/tree/master/Python.Network.Programming.Cookbook)
+- [Boost Asio C++ Network Programming Cookbook](https://github.com/hexu1985/network-programming-examples/tree/master/Asio.Cpp.Network.Programming.Cookbook)
+- [Boost Asio C++ Network Programming](https://github.com/hexu1985/network-programming-examples/tree/master/Asio.Cpp.Network.Programming)
 
 ### 数据结构与算法
 - [算法: C语言实现](https://github.com/hexu1985/Algorithms.In.C)
@@ -148,10 +150,6 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Beyond.The.Cpp.Standard.Library)
 - [深入实践Boost Boost程序库开发的94个秘笈](https://github.com/hexu1985/Boost.Cpp.Application.Development.Cookbook)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Boost.Cpp.Application.Development.Cookbook)
-- [Boost Asio C++ Network Programming Cookbook](https://github.com/hexu1985/Asio.Cpp.Network.Programming.Cookbook)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Asio.Cpp.Network.Programming.Cookbook)
-- [Boost Asio C++ Network Programming](https://github.com/hexu1985/Asio.Cpp.Network.Programming)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Asio.Cpp.Network.Programming)
 
 ### [C++ Qt](https://github.com/hexu1985/qt-gui-programming-examples) 
 - [C++ GUI Qt4编程(第二版)](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Cpp.GUI.Programming.with.Qt)
