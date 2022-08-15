@@ -48,6 +48,10 @@
 - [Collection of Linux tools](https://github.com/hexu1985/Collection.Of.Linux.Tools) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Linux.Tools)
 
+### Git
+- [Git Tutorial](https://github.com/hexu1985/Git.Tutorial)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Git.Tutorial)
+
 ---
 
 ## 随书示例代码
