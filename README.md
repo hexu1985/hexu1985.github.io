@@ -3,9 +3,6 @@
 ---
 
 ## 教程及示例总结
-[<kbd>github</kbd>](https://github.com/hexu1985/Tutorial.And.Demo.Summarize.Github)
-[<kbd>gitee</kbd>](https://gitee.com/hexu1985/Tutorial.And.Demo.Summarize.Gitee)
-
 
 ### C++
 - [Collection of C++ Grammer Comments](https://github.com/hexu1985/Collection.Of.Cpp.Grammer.Comments)
