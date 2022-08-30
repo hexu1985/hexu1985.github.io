@@ -372,6 +372,10 @@
 - [rufus](http://rufus.ie/zh/)
 - [unetbootin](http://unetbootin.github.io/)
 
+### beyond compare
+- [home](https://www.scootersoftware.com/index.php)
+- [linux install](https://www.scootersoftware.com/support.php?zz=kb_linux_install)
+
 ---
 
 ## git仓库链接
