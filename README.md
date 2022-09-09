@@ -85,14 +85,13 @@
 - [Boost Asio C++ Network Programming](https://github.com/hexu1985/network-programming-examples/tree/master/Asio.Cpp.Network.Programming)
 
 ### 数据结构与算法
-- [算法: C语言实现](https://github.com/hexu1985/Algorithms.In.C)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Algorithms.In.C)
-- [算法: C++实现](https://github.com/hexu1985/Algorithms.In.Cpp)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Algorithms.In.Cpp)
-- [数据结构C++语言描述: 应用标准模板库(STL)](https://github.com/hexu1985/Data.Structures.With.Cpp.Using.STL)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Data.Structures.With.Cpp.Using.STL)
-- [数据结构(Python语言描述)](https://github.com/hexu1985/Fundamentals.Of.Python.Data.Structures)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Fundamentals.Of.Python.Data.Structures)
+- [算法: C语言实现](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Algorithms.In.C)
+- [算法: C++实现](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Algorithms.In.Cpp)
+- [数据结构C++语言描述: 应用标准模板库(STL)](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Data.Structures.With.Cpp.Using.STL)
+- [数据结构(Python语言描述)](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Fundamentals.Of.Python.Data.Structures)
+- [Python算法教程](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Python.Algorithms)
+- [Python数据结构和算法实战](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Hands.On.Data.Structures.And.Algorithms.With.Python)
+- [算法图解](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Grokking.Algorithms)
 
 ### C
 - [C程序设计语言](https://github.com/hexu1985/The.C.Programming.Language)
