@@ -83,6 +83,7 @@
 - [Python网络编程攻略](https://github.com/hexu1985/network-programming-examples/tree/master/Python.Network.Programming.Cookbook)
 - [Boost Asio C++ Network Programming Cookbook](https://github.com/hexu1985/network-programming-examples/tree/master/Asio.Cpp.Network.Programming.Cookbook)
 - [Boost Asio C++ Network Programming](https://github.com/hexu1985/network-programming-examples/tree/master/Asio.Cpp.Network.Programming)
+- [asyncio实例集锦](https://github.com/hexu1985/network-programming-examples/tree/master/Asyncio.Recipes)
 
 ### 数据结构与算法
 - [算法: C语言实现](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Algorithms.In.C)
