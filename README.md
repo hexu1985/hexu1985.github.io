@@ -74,6 +74,7 @@
 - [深入理解计算机系统](https://github.com/hexu1985/system-programming-examples/tree/master/Computer.Systems)
 - [Linux是怎样工作的](https://github.com/hexu1985/system-programming-examples/tree/master/Linux.In.Practice)
 - [Python并行编程实战](https://github.com/hexu1985/system-programming-examples/tree/master/Python.Parallel.Programming.Cookbook)
+- [C++并发编程实战](https://github.com/hexu1985/system-programming-examples/tree/master/Cpp.Concurrency.In.Action)
 
 ### [网络编程](https://github.com/hexu1985/network-programming-examples) 
 - [UNIX网络编程 卷1 卷2](https://github.com/hexu1985/network-programming-examples/tree/master/UNIX.Network.Programming)
@@ -134,8 +135,6 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Standard.Cpp.IOStreams.And.Locales)
 - [C++标准库](https://github.com/hexu1985/The.Cpp.Standard.Library)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.Cpp.Standard.Library)
-- [C++并发编程实战](https://github.com/hexu1985/Cpp.Concurrency.In.Action)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.Concurrency.In.Action)
 - [C++17 STL Cookbook](https://github.com/hexu1985/Cpp17.STL.Cookbook)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp17.STL.Cookbook)
 - [C++ Cookbook](https://github.com/hexu1985/Cpp.Cookbook)
