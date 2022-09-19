@@ -73,6 +73,7 @@
 - [POSIX多线程程序设计](https://github.com/hexu1985/system-programming-examples/tree/master/Programming.With.POSIX.Threads)
 - [深入理解计算机系统](https://github.com/hexu1985/system-programming-examples/tree/master/Computer.Systems)
 - [Linux是怎样工作的](https://github.com/hexu1985/system-programming-examples/tree/master/Linux.In.Practice)
+- [Python并行编程实战](https://github.com/hexu1985/system-programming-examples/tree/master/Python.Parallel.Programming.Cookbook)
 
 ### [网络编程](https://github.com/hexu1985/network-programming-examples) 
 - [UNIX网络编程 卷1 卷2](https://github.com/hexu1985/network-programming-examples/tree/master/UNIX.Network.Programming)
