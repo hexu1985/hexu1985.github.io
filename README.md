@@ -86,7 +86,7 @@
 - [Boost Asio C++ Network Programming](https://github.com/hexu1985/network-programming-examples/tree/master/Asio.Cpp.Network.Programming)
 - [asyncio实例集锦](https://github.com/hexu1985/network-programming-examples/tree/master/Asyncio.Recipes)
 
-### 数据结构与算法
+### [数据结构与算法](https://github.com/hexu1985/data-structures-and-algorithms-examples)
 - [算法: C语言实现](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Algorithms.In.C)
 - [算法: C++实现](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Algorithms.In.Cpp)
 - [数据结构C++语言描述: 应用标准模板库(STL)](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Data.Structures.With.Cpp.Using.STL)
