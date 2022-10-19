@@ -96,17 +96,12 @@
 - [Python数据结构和算法实战](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Hands.On.Data.Structures.And.Algorithms.With.Python)
 - [算法图解](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Grokking.Algorithms)
 
-### C
-- [C程序设计语言](https://github.com/hexu1985/The.C.Programming.Language)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.C.Programming.Language)
-- [C标准库](https://github.com/hexu1985/The.Standard.C.Library)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.Standard.C.Library)
-- [C和指针](https://github.com/hexu1985/Pointers.On.C)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Pointers.On.C)
-- [C语言核心技术](https://github.com/hexu1985/C.In.A.Nutshell)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/C.In.A.Nutshell)
-- [C语言程序设计:现代方法](https://github.com/hexu1985/C.Programming.Modern.Approach)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/C.Programming.Modern.Approach)
+### [C编程](https://github.com/hexu1985/c-programming-examples)
+- [C程序设计语言](https://github.com/hexu1985/c-programming-examples/tree/master/The.C.Programming.Language)
+- [C标准库](https://github.com/hexu1985/c-programming-examples/tree/master/The.Standard.C.Library)
+- [C和指针](https://github.com/hexu1985/c-programming-examples/tree/master/Pointers.On.C)
+- [C语言核心技术](https://github.com/hexu1985/c-programming-examples/tree/master/C.In.A.Nutshell)
+- [C语言程序设计:现代方法](https://github.com/hexu1985/c-programming-examples/tree/master/C.Programming.Modern.Approach)
 
 ### C++
 - [C++程序设计原理与实践](https://github.com/hexu1985/Programming.Principles.And.Practice.Using.Cpp)
