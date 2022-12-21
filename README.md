@@ -63,6 +63,7 @@
 - [Head First设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Head.First.Design.Pattern)
 - [敏捷软件开发：原则、模式与实践](https://github.com/design-patterns-examples/tree/master/hexu1985/Agile.Software.Development)
 - [精通Python设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Mastering.Python.Design.Patterns)
+- [图解设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Diagrammatize.Design.Pattern)
 
 ### [系统编程](https://github.com/hexu1985/system-programming-examples)
 - [UNIX环境高级编程](https://github.com/hexu1985/system-programming-examples/tree/master/Advanced.Programming.In.UNIX.Environment)
