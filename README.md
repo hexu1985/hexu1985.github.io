@@ -246,8 +246,6 @@
 ### 科学计算
 - [数值方法(C++描述)](https://github.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)
-- [面向计算科学与工程的MATLAB编程](https://github.com/hexu1985/Matlab.Introduction)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Matlab.Introduction)
 - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/Matplotlib.Practice)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Matplotlib.Practice)
 - [Python数据可视化编程实战](https://github.com/hexu1985/Python.Data.Visualization.Cookbook)
@@ -256,8 +254,6 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Doing.Math.With.Python)
 - [用Python学数学](https://github.com/hexu1985/Math.Adventures.With.Python) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Math.Adventures.With.Python)
-- [Python图形编程](https://github.com/hexu1985/Python.Graphics) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Graphics)
 - [用Python编程和实践!数学教科书](https://github.com/hexu1985/Python.Math.Textbook)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Math.Textbook)
 - [Python图形编程: 2D和3D图像的创建](https://github.com/hexu1985/Python.Graphics)
