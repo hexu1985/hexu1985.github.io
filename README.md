@@ -316,6 +316,7 @@
 - [cppreference.com zh](https://zh.cppreference.com/w/)
 - [boost](https://www.boost.org/)
 - [qt5 source online](https://code.woboq.org/qt5/)
+- [qt document online](https://doc.qt.io/all-topics.html)
 - [Data Structures and Algorithms Problems in C++ using STL](https://medium.com/techie-delight/data-structures-and-algorithms-problems-in-c-using-stl-7900a6ddb1d4)
 - [asio library](https://think-async.com/Asio/)
 
