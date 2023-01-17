@@ -21,6 +21,8 @@
 ### Python
 - [Collection of Python Utility Tools](https://github.com/hexu1985/Collection.Of.Python.Utility.Tools) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Python.Utility.Tools)
+- [Matplotlib Tutorial](https://github.com/hexu1985/Matplotlib.Tutorial) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Matplotlib.Tutorial)
 
 ### Linux System Programming
 - [Linux Network Programming Tutorial](https://github.com/hexu1985/Linux.Network.Programming.Tutorial) <kbd>new!</kbd>
