@@ -324,6 +324,7 @@
 - [matplotlib Docs](https://matplotlib.org/contents.html)
 - [numpy Docs](https://numpy.org/doc/)
 - [flask Docs](https://flask.net.cn/)
+- [pip search](https://pypi.org/search/)
 
 ### Linux
 - [The Linux Kernel Archives](https://kernel.org/)
