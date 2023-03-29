@@ -169,11 +169,10 @@
 - [Effective Python](https://github.com/hexu1985/Effective.Python)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Effective.Python)
 
-### Tkinter
-- [Python GUI设计: tkinter菜鸟编程](https://github.com/hexu1985/Python.GUI.Tkinter)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.GUI.Tkinter)
-- [Python GUI设计: tkinter从入门到实践](https://github.com/hexu1985/Python.GUI.Tkinter.From.Novice.To.Practice)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.GUI.Tkinter.From.Novice.To.Practice)
+### [Tkinter](https://github.com/hexu1985/tkinter-gui-programming-examples)
+- [Python GUI设计: tkinter菜鸟编程](https://github.com/hexu1985/tkinter-gui-programming-examples/tree/master/Python.GUI.Tkinter)
+- [Python GUI设计: tkinter从入门到实践](https://github.com/hexu1985/tkinter-gui-programming-examples/tree/master/Python.GUI.Tkinter.From.Novice.To.Practice)
+- [Python GUI Programming Cookbook](https://github.com/hexu1985/tkinter-gui-programming-examples/tree/master/Python.GUI.Programming.Cookbook)
 
 ### [Matplotlib](https://github.com/hexu1985/matplotlib-examples)
 - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/matplotlib-examples/tree/master/Matplotlib.Practice)
