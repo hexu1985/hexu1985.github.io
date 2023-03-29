@@ -146,7 +146,7 @@
 - [深入实践Boost Boost程序库开发的94个秘笈](https://github.com/hexu1985/Boost.Cpp.Application.Development.Cookbook)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Boost.Cpp.Application.Development.Cookbook)
 
-### [C++ Qt](https://github.com/hexu1985/qt-gui-programming-examples) 
+### [Qt](https://github.com/hexu1985/qt-gui-programming-examples) 
 - [C++ GUI Qt4编程(第二版)](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Cpp.GUI.Programming.with.Qt)
 - [C++ Qt设计模式(第二版)](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Design.Patterns.in.Cpp.with.Qt)
 - [Linux窗口程序设计 Qt4精彩实例分析](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Linux.Windows.Programming.With.Qt)
@@ -174,6 +174,12 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.GUI.Tkinter)
 - [Python GUI设计: tkinter从入门到实践](https://github.com/hexu1985/Python.GUI.Tkinter.From.Novice.To.Practice)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.GUI.Tkinter.From.Novice.To.Practice)
+
+### [Matplotlib](https://github.com/hexu1985/matplotlib-examples)
+- [Python数据可视化之matplotlib实践](https://github.com/hexu1985/matplotlib-examples/tree/master/Matplotlib.Practice)
+- [Python数据可视化之matplotlib精进](https://github.com/hexu1985/matplotlib-examples/tree/master/Matplotlib.Enchance)
+- [Python数据可视化编程实战](https://github.com/hexu1985/matplotlib-examples/tree/master/Python.Data.Visualization.Cookbook)
+- [Python图形编程: 2D和3D图像的创建](https://github.com/hexu1985/matplotlib-examples/tree/master/Python.Graphics)
 
 ### [Shell](https://github.com/hexu1985/shell-scripting-examples)  
 - [Shell脚本学习指南](https://github.com/hexu1985/shell-scripting-examples/tree/master/Classic.Shell.Scripting)
@@ -248,18 +254,12 @@
 ### 科学计算
 - [数值方法(C++描述)](https://github.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)
-- [Python数据可视化之matplotlib实践](https://github.com/hexu1985/Matplotlib.Practice)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Matplotlib.Practice)
-- [Python数据可视化编程实战](https://github.com/hexu1985/Python.Data.Visualization.Cookbook)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Data.Visualization.Cookbook)
 - [Python数学编程](https://github.com/hexu1985/Doing.Math.With.Python)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Doing.Math.With.Python)
 - [用Python学数学](https://github.com/hexu1985/Math.Adventures.With.Python) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Math.Adventures.With.Python)
 - [用Python编程和实践!数学教科书](https://github.com/hexu1985/Python.Math.Textbook)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Math.Textbook)
-- [Python图形编程: 2D和3D图像的创建](https://github.com/hexu1985/Python.Graphics)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Graphics)
 
 
 ### 计算机图形学及多媒体
