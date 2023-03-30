@@ -4,19 +4,21 @@
 
 ## 教程及示例总结
 
-### C++
+### C/C++
+- [GDB Tutorial](https://github.com/hexu1985/GDB.Tutorial)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/GDB.Tutorial)
+- [Gflags & Glog Tutorial](https://github.com/hexu1985/Gflags.And.Glog.Tutorial)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Gflags.And.Glog.Tutorial)
+- [GoogleTest Tutorial](https://github.com/hexu1985/GoogleTest.Tutorial)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/GoogleTest.Tutorial)
+- [Qt Programming Tutorial](https://github.com/hexu1985/Qt.Programming.Tutorial) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Qt.Programming.Tutorial)
 - [Collection of C++ Grammer Comments](https://github.com/hexu1985/Collection.Of.Cpp.Grammer.Comments)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Cpp.Grammer.Comments)
 - [Reimplement of C++ Standard Library](https://github.com/hexu1985/Reimplement.Of.Cpp.Standard.Library) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Reimplement.Of.Cpp.Standard.Library)
 - [Collection of C++ Utility Class](https://github.com/hexu1985/Collection.Of.Cpp.Utility.Class) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Cpp.Utility.Class)
-- [Qt Programming Tutorial](https://github.com/hexu1985/Qt.Programming.Tutorial) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Qt.Programming.Tutorial)
-- [Gflags & Glog Tutorial](https://github.com/hexu1985/Gflags.And.Glog.Tutorial)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Gflags.And.Glog.Tutorial)
-- [GoogleTest Tutorial](https://github.com/hexu1985/GoogleTest.Tutorial)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/GoogleTest.Tutorial)
 
 ### Python
 - [Collection of Python Utility Tools](https://github.com/hexu1985/Collection.Of.Python.Utility.Tools) <kbd>new!</kbd>
@@ -37,8 +39,6 @@
 ### 编译与调试
 - [C & C++ Compiling Tutorial](https://github.com/hexu1985/C.And.Cpp.Compiling.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/C.And.Cpp.Compiling.Tutorial)
-- [C & C++ Debugging Tutorial](https://github.com/hexu1985/C.And.Cpp.Debugging.Tutorial) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/C.And.Cpp.Debugging.Tutorial)
 
 ### 数据库相关
 - [SQLite Tutorial](https://github.com/hexu1985/SQLite.Tutorial) <kbd>new!</kbd>
