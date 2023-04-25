@@ -98,6 +98,8 @@
 - [Python算法教程](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Python.Algorithms)
 - [Python数据结构和算法实战](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Hands.On.Data.Structures.And.Algorithms.With.Python)
 - [算法图解](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Grokking.Algorithms)
+- [数据结构与算法分析 C语言描述](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Data.Structures.And.Algorithm.Analysis.In.C)
+- [数据结构与算法分析 C++语言描述](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Data.Structures.And.Algorithm.Analysis.In.Cpp)
 
 ### [软件调试](https://github.com/hexu1985/debugging-examples)
 - [软件调试实战](https://github.com/hexu1985/debugging-examples/tree/master/Developer.Guide.To.Debugging)
