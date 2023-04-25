@@ -207,6 +207,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Docker.With.Python)
 - [Docker实战](https://github.com/hexu1985/Docker.In.Action)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Docker.In.Action)
+- [C++高性能编程](https://github.com/hexu1985/The.Art.Of.Writing.Efficient.Programs)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.Art.Of.Writing.Efficient.Programs)
 
 ### 汇编语言
 - [汇编语言程序设计](https://github.com/hexu1985/Professional.Assembly.Language)
