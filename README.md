@@ -20,41 +20,39 @@
 - [Collection of C++ Utility Class](https://github.com/hexu1985/Collection.Of.Cpp.Utility.Class) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Cpp.Utility.Class)
 
+### Develop Tools
+- [Linux Toolchain Tutorial](https://github.com/hexu1985/Linux.Toolchain.Tutorial) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Linux.Toolchain.Tutorial)
+- [GDB Tutorial](https://github.com/hexu1985/GDB.Tutorial)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/GDB.Tutorial)
+- [Git Tutorial](https://github.com/hexu1985/Git.Tutorial)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Git.Tutorial)
+
 ### Python
 - [Collection of Python Utility Tools](https://github.com/hexu1985/Collection.Of.Python.Utility.Tools) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Python.Utility.Tools)
 - [Matplotlib Tutorial](https://github.com/hexu1985/Matplotlib.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Matplotlib.Tutorial)
 
-### Linux System Programming
+### Linux
 - [Linux Network Programming Tutorial](https://github.com/hexu1985/Linux.Network.Programming.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Linux.Network.Programming.Tutorial)
-- [Linux Toolchain Tutorial](https://github.com/hexu1985/Linux.Toolchain.Tutorial) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Linux.Toolchain.Tutorial)
-- [GDB Tutorial](https://github.com/hexu1985/GDB.Tutorial)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/GDB.Tutorial)
+- [Collection of Linux tools](https://github.com/hexu1985/Collection.Of.Linux.Tools) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Linux.Tools)
 
-### 数据结构与算法
+### Math & Algorithms 
 - [Collection of Math Theorems](https://github.com/hexu1985/Collection.Of.Math.Theorems)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Math.Theorems)
 - [Data Structures & Algorithms Tutorial](https://github.com/hexu1985/Data.Structures.And.Algorithms.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Data.Structures.And.Algorithms.Tutorial)
 
-### 数据库相关
+### Database
 - [SQLite Tutorial](https://github.com/hexu1985/SQLite.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/SQLite.Tutorial)
 
 ### Markdown
 - [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Markdown.Tutorial)
-
-### Linux Command Line
-- [Collection of Linux tools](https://github.com/hexu1985/Collection.Of.Linux.Tools) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Linux.Tools)
-
-### Git
-- [Git Tutorial](https://github.com/hexu1985/Git.Tutorial)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Git.Tutorial)
 
 ---
 
