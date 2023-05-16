@@ -219,6 +219,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Assembly.Programming.And.Computer.Architecture)
 - [深入理解程序设计--使用Linux汇编语言](https://github.com/hexu1985/Programming.From.The.Ground.Up)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Programming.From.The.Ground.Up)
+- [x64汇编语言](https://github.com/hexu1985/Beginning.x64.Assembly.Programming)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Beginning.x64.Assembly.Programming)
 
 ### 编译器相关
 - [高级C/C++编译技术](https://github.com/hexu1985/Advanced.C.And.Cpp.Compiling)
