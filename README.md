@@ -212,15 +212,11 @@
 - [C++高性能编程](https://github.com/hexu1985/The.Art.Of.Writing.Efficient.Programs)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.Art.Of.Writing.Efficient.Programs)
 
-### 汇编语言
-- [汇编语言程序设计](https://github.com/hexu1985/Professional.Assembly.Language)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Professional.Assembly.Language)
-- [汇编程序设计与计算机体系结构--软件工程师教程](https://github.com/hexu1985/Assembly.Programming.And.Computer.Architecture)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Assembly.Programming.And.Computer.Architecture)
-- [深入理解程序设计--使用Linux汇编语言](https://github.com/hexu1985/Programming.From.The.Ground.Up)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Programming.From.The.Ground.Up)
-- [x64汇编语言](https://github.com/hexu1985/Beginning.x64.Assembly.Programming)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Beginning.x64.Assembly.Programming)
+### [Assembly](https://github.com/hexu1985/assembly-programming-examples)
+- [汇编语言程序设计](https://github.com/hexu1985/assembly-programming-examples/tree/master/Professional.Assembly.Language)
+- [汇编程序设计与计算机体系结构--软件工程师教程](https://github.com/hexu1985/assembly-programming-examples/tree/master/Assembly.Programming.And.Computer.Architecture)
+- [深入理解程序设计--使用Linux汇编语言](https://github.com/hexu1985/assembly-programming-examples/tree/master/Programming.From.The.Ground.Up)
+- [x64汇编语言: 从新手到AVX专家](https://github.com/hexu1985/assembly-programming-examples/tree/master/Beginning.x64.Assembly.Programming)
 
 ### 编译器相关
 - [高级C/C++编译技术](https://github.com/hexu1985/Advanced.C.And.Cpp.Compiling)
