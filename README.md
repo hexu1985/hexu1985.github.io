@@ -37,7 +37,7 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Matplotlib.Tutorial)
 
 ### Linux
-- [Bash Tutorial]()(https://github.com/hexu1985/Bash.Tutorial) <kbd>new!</kbd>
+- [Bash Tutorial](https://github.com/hexu1985/Bash.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Bash.Tutorial)
 - [Linux Network Programming Tutorial](https://github.com/hexu1985/Linux.Network.Programming.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Linux.Network.Programming.Tutorial)
