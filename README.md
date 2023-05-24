@@ -21,8 +21,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Cpp.Utility.Class)
 
 ### Develop Tools
-- [Linux Toolchain Tutorial](https://github.com/hexu1985/Linux.Toolchain.Tutorial) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Linux.Toolchain.Tutorial)
+- [GCC Tutorial](https://github.com/hexu1985/GCC.Tutorial) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/GCC.Tutorial)
 - [GDB Tutorial](https://github.com/hexu1985/GDB.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/GDB.Tutorial)
 - [Git Tutorial](https://github.com/hexu1985/Git.Tutorial)
