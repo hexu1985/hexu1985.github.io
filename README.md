@@ -70,52 +70,58 @@
 - [图解设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Diagrammatize.Design.Pattern)
 
 ### [系统编程](https://github.com/hexu1985/system-programming-examples)
-- [UNIX环境高级编程](https://github.com/hexu1985/system-programming-examples/tree/master/Advanced.Programming.In.UNIX.Environment)
-- [UNIX系统编程](https://github.com/hexu1985/system-programming-examples/tree/master/UNIX.Systems.Programming)
-- [Unix/Linux编程实践教程](https://github.com/hexu1985/system-programming-examples/tree/master/Understanding.UNIX.Linux.Programming)
-- [Linux程序设计](https://github.com/hexu1985/system-programming-examples/tree/master/Beginning.Linux.Programming)
-- [Linux/UNIX系统编程手册](https://github.com/hexu1985/system-programming-examples/tree/master/Linux.Programming.Interface)
-- [POSIX多线程程序设计](https://github.com/hexu1985/system-programming-examples/tree/master/Programming.With.POSIX.Threads)
-- [深入理解计算机系统](https://github.com/hexu1985/system-programming-examples/tree/master/Computer.Systems)
-- [Linux是怎样工作的](https://github.com/hexu1985/system-programming-examples/tree/master/Linux.In.Practice)
-- [Python并行编程实战](https://github.com/hexu1985/system-programming-examples/tree/master/Python.Parallel.Programming.Cookbook)
-- [C++并发编程实战](https://github.com/hexu1985/system-programming-examples/tree/master/Cpp.Concurrency.In.Action)
++ C
+    - [UNIX环境高级编程](https://github.com/hexu1985/system-programming-examples/tree/master/Advanced.Programming.In.UNIX.Environment)
+    - [UNIX系统编程](https://github.com/hexu1985/system-programming-examples/tree/master/UNIX.Systems.Programming)
+    - [Unix/Linux编程实践教程](https://github.com/hexu1985/system-programming-examples/tree/master/Understanding.UNIX.Linux.Programming)
+    - [Linux程序设计](https://github.com/hexu1985/system-programming-examples/tree/master/Beginning.Linux.Programming)
+    - [Linux/UNIX系统编程手册](https://github.com/hexu1985/system-programming-examples/tree/master/Linux.Programming.Interface)
+    - [POSIX多线程程序设计](https://github.com/hexu1985/system-programming-examples/tree/master/Programming.With.POSIX.Threads)
+    - [深入理解计算机系统](https://github.com/hexu1985/system-programming-examples/tree/master/Computer.Systems)
+    - [Linux是怎样工作的](https://github.com/hexu1985/system-programming-examples/tree/master/Linux.In.Practice)
++ C++
+    - [C++并发编程实战](https://github.com/hexu1985/system-programming-examples/tree/master/Cpp.Concurrency.In.Action)
++ Python
+    - [Python并行编程实战](https://github.com/hexu1985/system-programming-examples/tree/master/Python.Parallel.Programming.Cookbook)
 
 ### [网络编程](https://github.com/hexu1985/network-programming-examples) 
-- [UNIX网络编程 卷1 卷2](https://github.com/hexu1985/network-programming-examples/tree/master/UNIX.Network.Programming)
-- [TCP/IP网络互联技术 第三卷](https://github.com/hexu1985/network-programming-examples/tree/master/Internetworking.With.TCP.IP)
-- [TCP/IP网络编程](https://github.com/hexu1985/network-programming-examples/tree/master/Passionate.TCP.IP.Socket.Programming)
-- [TCP/IP高效编程](https://github.com/hexu1985/network-programming-examples/tree/master/Effective.TCP.IP.Programming)
-- [TCP/IP Sockets编程](https://github.com/hexu1985/network-programming-examples/tree/master/TCP.IP.Sockets.In.C)
-- [Boost Asio C++ Network Programming Cookbook](https://github.com/hexu1985/network-programming-examples/tree/master/Asio.Cpp.Network.Programming.Cookbook)
-- [Boost Asio C++ Network Programming](https://github.com/hexu1985/network-programming-examples/tree/master/Asio.Cpp.Network.Programming)
-- [Python网络编程](https://github.com/hexu1985/network-programming-examples/tree/master/Foundations.Of.Python.Network.Programming)
-- [Python网络编程攻略](https://github.com/hexu1985/network-programming-examples/tree/master/Python.Network.Programming.Cookbook)
-- [Python asyncio并发编程](https://github.com/hexu1985/network-programming-examples/tree/master/Concurrency.In.Python.With.Asyncio)
-- [asyncio实例集锦](https://github.com/hexu1985/network-programming-examples/tree/master/Asyncio.Recipes)
++ C
+    - [UNIX网络编程 卷1 卷2](https://github.com/hexu1985/network-programming-examples/tree/master/UNIX.Network.Programming)
+    - [TCP/IP网络互联技术 第三卷](https://github.com/hexu1985/network-programming-examples/tree/master/Internetworking.With.TCP.IP)
+    - [TCP/IP网络编程](https://github.com/hexu1985/network-programming-examples/tree/master/Passionate.TCP.IP.Socket.Programming)
+    - [TCP/IP高效编程](https://github.com/hexu1985/network-programming-examples/tree/master/Effective.TCP.IP.Programming)
+    - [TCP/IP Sockets编程](https://github.com/hexu1985/network-programming-examples/tree/master/TCP.IP.Sockets.In.C)
++ C++
+    - [Boost Asio C++ Network Programming Cookbook](https://github.com/hexu1985/network-programming-examples/tree/master/Asio.Cpp.Network.Programming.Cookbook)
+    - [Boost Asio C++ Network Programming](https://github.com/hexu1985/network-programming-examples/tree/master/Asio.Cpp.Network.Programming)
++ Python
+    - [Python网络编程](https://github.com/hexu1985/network-programming-examples/tree/master/Foundations.Of.Python.Network.Programming)
+    - [Python网络编程攻略](https://github.com/hexu1985/network-programming-examples/tree/master/Python.Network.Programming.Cookbook)
+    - [Python asyncio并发编程](https://github.com/hexu1985/network-programming-examples/tree/master/Concurrency.In.Python.With.Asyncio)
+    - [asyncio实例集锦](https://github.com/hexu1985/network-programming-examples/tree/master/Asyncio.Recipes)
 
 ### [数据结构与算法](https://github.com/hexu1985/data-structures-and-algorithms-examples)
-- [算法: C语言实现](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Algorithms.In.C)
-- [算法: C++实现](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Algorithms.In.Cpp)
-- [数据结构C++语言描述: 应用标准模板库(STL)](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Data.Structures.With.Cpp.Using.STL)
-- [数据结构(Python语言描述)](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Fundamentals.Of.Python.Data.Structures)
-- [Python算法教程](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Python.Algorithms)
-- [Python数据结构和算法实战](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Hands.On.Data.Structures.And.Algorithms.With.Python)
-- [算法图解](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Grokking.Algorithms)
-- [数据结构与算法分析 C语言描述](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Data.Structures.And.Algorithm.Analysis.In.C)
-- [数据结构与算法分析 C++语言描述](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Data.Structures.And.Algorithm.Analysis.In.Cpp)
-
-### [软件调试](https://github.com/hexu1985/debugging-examples)
-- [软件调试实战](https://github.com/hexu1985/debugging-examples/tree/master/Developer.Guide.To.Debugging)
-- [软件调试的艺术](https://github.com/hexu1985/debugging-examples/tree/master/Art.Of.Debugging.With.GDB)
-- [C/C++代码调试的艺术](https://github.com/hexu1985/debugging-examples/tree/master/Art.Of.Debugging.In.C.Cpp)
++ C
+    - [算法: C语言实现](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Algorithms.In.C)
+    - [数据结构与算法分析 C语言描述](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Data.Structures.And.Algorithm.Analysis.In.C)
++ C++
+    - [算法: C++实现](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Algorithms.In.Cpp)
+    - [数据结构C++语言描述: 应用标准模板库(STL)](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Data.Structures.With.Cpp.Using.STL)
+    - [数据结构与算法分析 C++语言描述](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Data.Structures.And.Algorithm.Analysis.In.Cpp)
++ Python
+    - [数据结构(Python语言描述)](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Fundamentals.Of.Python.Data.Structures)
+    - [Python算法教程](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Python.Algorithms)
+    - [Python数据结构和算法实战](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Hands.On.Data.Structures.And.Algorithms.With.Python)
+    - [算法图解](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Grokking.Algorithms)
 
 ### [C编程](https://github.com/hexu1985/c-programming-examples)
-- [C程序设计语言](https://github.com/hexu1985/c-programming-examples/tree/master/The.C.Programming.Language)
-- [C标准库](https://github.com/hexu1985/c-programming-examples/tree/master/The.Standard.C.Library)
-- [C和指针](https://github.com/hexu1985/c-programming-examples/tree/master/Pointers.On.C)
-- [C语言核心技术](https://github.com/hexu1985/c-programming-examples/tree/master/C.In.A.Nutshell)
-- [C语言程序设计:现代方法](https://github.com/hexu1985/c-programming-examples/tree/master/C.Programming.Modern.Approach)
++ 语法
+    - [C程序设计语言](https://github.com/hexu1985/c-programming-examples/tree/master/The.C.Programming.Language)
+    - [C和指针](https://github.com/hexu1985/c-programming-examples/tree/master/Pointers.On.C)
+    - [C语言核心技术](https://github.com/hexu1985/c-programming-examples/tree/master/C.In.A.Nutshell)
+    - [C语言程序设计:现代方法](https://github.com/hexu1985/c-programming-examples/tree/master/C.Programming.Modern.Approach)
++ 标准库
+    - [C标准库](https://github.com/hexu1985/c-programming-examples/tree/master/The.Standard.C.Library)
 
 ### [C++编程](https://github.com/hexu1985/cpp-programming-examples)
 + 语法
@@ -139,47 +145,53 @@
     - [超越C++标准 Boost库导论](https://github.com/hexu1985/cpp-programming-examples/tree/master/Beyond.The.Cpp.Standard.Library)
     - [深入实践Boost Boost程序库开发的94个秘笈](https://github.com/hexu1985/cpp-programming-examples/tree/master/Boost.Cpp.Application.Development.Cookbook)
 
-### [Qt](https://github.com/hexu1985/qt-gui-programming-examples) 
-- [C++ GUI Qt4编程(第二版)](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Cpp.GUI.Programming.with.Qt4)
-- [C++ Qt设计模式(第二版)](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Design.Patterns.in.Cpp.with.Qt)
-- [Linux窗口程序设计 Qt4精彩实例分析](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Linux.Windows.Programming.With.Qt4)
-- [Qt5开发及实例](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Qt5.Development.And.Example)
-- [Qt5开发实战](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Qt5.Programming.Guide)
-- [Qt5.9 C++开发指南](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Qt5_9.Cpp.Developer.Guide)
-- [Qt6 C++开发指南](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Qt6.Cpp.Developer.Guide)
-- [Qt高级编程](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Advanced.Qt.Programming)
+### [C++ Qt](https://github.com/hexu1985/qt-gui-programming-examples) 
++ Qt4
+    - [C++ GUI Qt4编程(第二版)](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Cpp.GUI.Programming.with.Qt4)
+    - [C++ Qt设计模式(第二版)](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Design.Patterns.in.Cpp.with.Qt)
+    - [Linux窗口程序设计 Qt4精彩实例分析](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Linux.Windows.Programming.With.Qt4)
+    - [Qt高级编程](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Advanced.Qt.Programming)
++ Qt5
+    - [Qt5开发及实例](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Qt5.Development.And.Example)
+    - [Qt5开发实战](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Qt5.Programming.Guide)
+    - [Qt5.9 C++开发指南](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Qt5_9.Cpp.Developer.Guide)
++ Qt6
+    - [Qt6 C++开发指南](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Qt6.Cpp.Developer.Guide)
 
-### Python
-- [Python基础教程](https://github.com/hexu1985/Beginning.Python)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Beginning.Python)
-- [Python核心编程](https://github.com/hexu1985/Core.Python.Programming)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Core.Python.Programming)
-- [Python3程序开发指南](https://github.com/hexu1985/Programming.In.Python.3)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Programming.In.Python.3)
-- [Python编程](https://github.com/hexu1985/Programming.Python)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Programming.Python)
-- [Python标准库](https://github.com/hexu1985/Python.Standard.Library.By.Example)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Standard.Library.By.Example)
-- [Effective Python](https://github.com/hexu1985/Effective.Python)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Effective.Python)
+### [Python编程](https://github.com/hexu1985/python-programming-examples)
++ 语法
+    - [Python基础教程](https://github.com/hexu1985/python-programming-examples/tree/master/Beginning.Python)
+    - [Python核心编程](https://github.com/hexu1985/python-programming-examples/tree/master/Core.Python.Programming)
+    - [Python3程序开发指南](https://github.com/hexu1985/python-programming-examples/tree/master/Programming.In.Python.3)
+    - [Python编程](https://github.com/hexu1985/python-programming-examples/tree/master/Programming.Python)
+    - [Effective Python](https://github.com/hexu1985/python-programming-examples/tree/master/Effective.Python)
++ 标准库
+    - [Python标准库](https://github.com/hexu1985/python-programming-examples/tree/master/Python.Standard.Library.By.Example)
 
-### [Tkinter](https://github.com/hexu1985/tkinter-gui-programming-examples)
+### [Python Tkinter](https://github.com/hexu1985/tkinter-gui-programming-examples)
 - [Python GUI设计: tkinter菜鸟编程](https://github.com/hexu1985/tkinter-gui-programming-examples/tree/master/Python.GUI.Tkinter)
 - [Python GUI设计: tkinter从入门到实践](https://github.com/hexu1985/tkinter-gui-programming-examples/tree/master/Python.GUI.Tkinter.From.Novice.To.Practice)
 - [Python GUI Programming Cookbook](https://github.com/hexu1985/tkinter-gui-programming-examples/tree/master/Python.GUI.Programming.Cookbook)
 
-### [Matplotlib](https://github.com/hexu1985/matplotlib-examples)
+### [Python Matplotlib](https://github.com/hexu1985/matplotlib-examples)
 - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/matplotlib-examples/tree/master/Matplotlib.Practice)
 - [Python数据可视化之matplotlib精进](https://github.com/hexu1985/matplotlib-examples/tree/master/Matplotlib.Enchance)
 - [Python数据可视化编程实战](https://github.com/hexu1985/matplotlib-examples/tree/master/Python.Data.Visualization.Cookbook)
 - [Python图形编程: 2D和3D图像的创建](https://github.com/hexu1985/matplotlib-examples/tree/master/Python.Graphics)
 
-### [Shell](https://github.com/hexu1985/shell-scripting-examples)  
+### [Shell编程](https://github.com/hexu1985/shell-scripting-examples)  
 - [Shell脚本学习指南](https://github.com/hexu1985/shell-scripting-examples/tree/master/Classic.Shell.Scripting)
 - [Linux Shell脚本攻略](https://github.com/hexu1985/shell-scripting-examples/tree/master/Linux.Shell.Scripting.Cookbook)
 - [UNIX shell范例精解](https://github.com/hexu1985/shell-scripting-examples/tree/master/UNIX.Shells.By.Example)
 - [Shell脚本专家指南](https://github.com/hexu1985/shell-scripting-examples/tree/master/Expert.Shell.Scripting)
 - [Shell脚本编程诀窍 适用于Linux、Bash等](https://github.com/hexu1985/shell-scripting-examples/tree/master/Shell.Scripting.Expert.Recipes)
+- [Efficient Linux命令行](https://github.com/hexu1985/shell-scripting-examples/tree/master/Efficient.Linux.At.The.Command.Line)
+
+### [Assembly编程](https://github.com/hexu1985/assembly-programming-examples)
+- [汇编语言程序设计](https://github.com/hexu1985/assembly-programming-examples/tree/master/Professional.Assembly.Language)
+- [汇编程序设计与计算机体系结构--软件工程师教程](https://github.com/hexu1985/assembly-programming-examples/tree/master/Assembly.Programming.And.Computer.Architecture)
+- [深入理解程序设计--使用Linux汇编语言](https://github.com/hexu1985/assembly-programming-examples/tree/master/Programming.From.The.Ground.Up)
+- [x64汇编语言: 从新手到AVX专家](https://github.com/hexu1985/assembly-programming-examples/tree/master/Beginning.x64.Assembly.Programming)
 
 ### Utility
 - [Vim实用技巧](https://github.com/hexu1985/Practical.Vim)
@@ -197,11 +209,10 @@
 - [C++高性能编程](https://github.com/hexu1985/The.Art.Of.Writing.Efficient.Programs)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.Art.Of.Writing.Efficient.Programs)
 
-### [Assembly](https://github.com/hexu1985/assembly-programming-examples)
-- [汇编语言程序设计](https://github.com/hexu1985/assembly-programming-examples/tree/master/Professional.Assembly.Language)
-- [汇编程序设计与计算机体系结构--软件工程师教程](https://github.com/hexu1985/assembly-programming-examples/tree/master/Assembly.Programming.And.Computer.Architecture)
-- [深入理解程序设计--使用Linux汇编语言](https://github.com/hexu1985/assembly-programming-examples/tree/master/Programming.From.The.Ground.Up)
-- [x64汇编语言: 从新手到AVX专家](https://github.com/hexu1985/assembly-programming-examples/tree/master/Beginning.x64.Assembly.Programming)
+### [软件调试](https://github.com/hexu1985/debugging-examples)
+- [软件调试实战](https://github.com/hexu1985/debugging-examples/tree/master/Developer.Guide.To.Debugging)
+- [软件调试的艺术](https://github.com/hexu1985/debugging-examples/tree/master/Art.Of.Debugging.With.GDB)
+- [C/C++代码调试的艺术](https://github.com/hexu1985/debugging-examples/tree/master/Art.Of.Debugging.In.C.Cpp)
 
 ### 编译器相关
 - [高级C/C++编译技术](https://github.com/hexu1985/Advanced.C.And.Cpp.Compiling)
