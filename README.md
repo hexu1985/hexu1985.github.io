@@ -70,17 +70,14 @@
 - [图解设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Diagrammatize.Design.Pattern)
 
 ### [系统编程](https://github.com/hexu1985/system-programming-examples)
-+ C
-    - [UNIX环境高级编程](https://github.com/hexu1985/system-programming-examples/tree/master/Advanced.Programming.In.UNIX.Environment)
-    - [UNIX系统编程](https://github.com/hexu1985/system-programming-examples/tree/master/UNIX.Systems.Programming)
-    - [Unix/Linux编程实践教程](https://github.com/hexu1985/system-programming-examples/tree/master/Understanding.UNIX.Linux.Programming)
-    - [Linux程序设计](https://github.com/hexu1985/system-programming-examples/tree/master/Beginning.Linux.Programming)
-    - [Linux/UNIX系统编程手册](https://github.com/hexu1985/system-programming-examples/tree/master/Linux.Programming.Interface)
-    - [POSIX多线程程序设计](https://github.com/hexu1985/system-programming-examples/tree/master/Programming.With.POSIX.Threads)
-    - [深入理解计算机系统](https://github.com/hexu1985/system-programming-examples/tree/master/Computer.Systems)
-    - [Linux是怎样工作的](https://github.com/hexu1985/system-programming-examples/tree/master/Linux.In.Practice)
-+ Python
-    - [Python并行编程实战](https://github.com/hexu1985/system-programming-examples/tree/master/Python.Parallel.Programming.Cookbook)
+- [UNIX环境高级编程](https://github.com/hexu1985/system-programming-examples/tree/master/Advanced.Programming.In.UNIX.Environment)
+- [UNIX系统编程](https://github.com/hexu1985/system-programming-examples/tree/master/UNIX.Systems.Programming)
+- [Unix/Linux编程实践教程](https://github.com/hexu1985/system-programming-examples/tree/master/Understanding.UNIX.Linux.Programming)
+- [Linux程序设计](https://github.com/hexu1985/system-programming-examples/tree/master/Beginning.Linux.Programming)
+- [Linux/UNIX系统编程手册](https://github.com/hexu1985/system-programming-examples/tree/master/Linux.Programming.Interface)
+- [POSIX多线程程序设计](https://github.com/hexu1985/system-programming-examples/tree/master/Programming.With.POSIX.Threads)
+- [深入理解计算机系统](https://github.com/hexu1985/system-programming-examples/tree/master/Computer.Systems)
+- [Linux是怎样工作的](https://github.com/hexu1985/system-programming-examples/tree/master/Linux.In.Practice)
 
 ### [网络编程](https://github.com/hexu1985/network-programming-examples) 
 + C
