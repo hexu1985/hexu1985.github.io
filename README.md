@@ -79,8 +79,6 @@
     - [POSIX多线程程序设计](https://github.com/hexu1985/system-programming-examples/tree/master/Programming.With.POSIX.Threads)
     - [深入理解计算机系统](https://github.com/hexu1985/system-programming-examples/tree/master/Computer.Systems)
     - [Linux是怎样工作的](https://github.com/hexu1985/system-programming-examples/tree/master/Linux.In.Practice)
-+ C++
-    - [C++并发编程实战](https://github.com/hexu1985/system-programming-examples/tree/master/Cpp.Concurrency.In.Action)
 + Python
     - [Python并行编程实战](https://github.com/hexu1985/system-programming-examples/tree/master/Python.Parallel.Programming.Cookbook)
 
@@ -141,6 +139,7 @@
     - [C++17 STL Cookbook](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp17.STL.Cookbook)
     - [C++ Cookbook](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.Cookbook)
     - [C++标准库扩展权威指南](https://github.com/hexu1985/cpp-programming-examples/tree/master/The.Cpp.Standard.Library.Extentions)
+    - [C++并发编程实战](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.Concurrency.In.Action)
 + Boost
     - [超越C++标准 Boost库导论](https://github.com/hexu1985/cpp-programming-examples/tree/master/Beyond.The.Cpp.Standard.Library)
     - [深入实践Boost Boost程序库开发的94个秘笈](https://github.com/hexu1985/cpp-programming-examples/tree/master/Boost.Cpp.Application.Development.Cookbook)
