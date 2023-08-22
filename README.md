@@ -254,6 +254,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Math.Adventures.With.Python)
 - [用Python编程和实践!数学教科书](https://github.com/hexu1985/Python.Math.Textbook)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Math.Textbook)
+- [Numpy数据处理详解](https://github.com/hexu1985/Numpy.Data.Processing.Detailed.Explanation)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Numpy.Data.Processing.Detailed.Explanation)
 
 
 ### 计算机图形学及多媒体
