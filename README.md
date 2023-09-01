@@ -316,6 +316,7 @@
 - [Data Structures and Algorithms Problems in C++ using STL](https://medium.com/techie-delight/data-structures-and-algorithms-problems-in-c-using-stl-7900a6ddb1d4)
 - [asio library](https://think-async.com/Asio/)
 - [protobuf docs](https://protobuf.dev/)
+- [nlohmann/json docs](https://json.nlohmann.me/api/basic_json/)
 
 ### Python
 - [Python 3.x Docs](https://docs.python.org/3/)
