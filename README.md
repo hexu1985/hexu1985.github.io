@@ -169,6 +169,13 @@
 - [Python GUI设计: tkinter从入门到实践](https://github.com/hexu1985/tkinter-gui-programming-examples/tree/master/Python.GUI.Tkinter.From.Novice.To.Practice)
 - [Python GUI Programming Cookbook](https://github.com/hexu1985/tkinter-gui-programming-examples/tree/master/Python.GUI.Programming.Cookbook)
 
+### [Python 数学编程](https://github.com/hexu1985/python-math-programming-examples)
+- [Python数学编程](Doing.Math.With.Python)
+- [用Python学数学](Math.Adventures.With.Python)
+- [用Python编程和实践!数学教科书](Python.Math.Textbook)
+- [Numpy数据处理详解](Numpy.Data.Processing.Detailed.Explanation)
+- [程序员的数学基础 python实战](Math.Fundamentals.For.Programmers.Using.Python)
+
 ### [Python Matplotlib](https://github.com/hexu1985/matplotlib-examples)
 - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/matplotlib-examples/tree/master/Matplotlib.Practice)
 - [Python数据可视化之matplotlib精进](https://github.com/hexu1985/matplotlib-examples/tree/master/Matplotlib.Enchance)
@@ -248,16 +255,6 @@
 ### 科学计算
 - [数值方法(C++描述)](https://github.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)
-- [Python数学编程](https://github.com/hexu1985/Doing.Math.With.Python)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Doing.Math.With.Python)
-- [用Python学数学](https://github.com/hexu1985/Math.Adventures.With.Python) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Math.Adventures.With.Python)
-- [用Python编程和实践!数学教科书](https://github.com/hexu1985/Python.Math.Textbook)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.Math.Textbook)
-- [Numpy数据处理详解](https://github.com/hexu1985/Numpy.Data.Processing.Detailed.Explanation)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Numpy.Data.Processing.Detailed.Explanation)
-- [程序员的数学基础 python实战](https://github.com/hexu1985/Math.Fundamentals.For.Programmers.Using.Python)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Math.Fundamentals.For.Programmers.Using.Python)
 
 
 ### 计算机图形学及多媒体
