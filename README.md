@@ -13,6 +13,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Protobuf.Tutorial)
 - [Qt Programming Tutorial](https://github.com/hexu1985/Qt.Programming.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Qt.Programming.Tutorial)
+- [pybind11 Tutorial](https://github.com/hexu1985/Pybind11.Tutorial) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Pybind11.Tutorial)
 - [Collection of C++ Grammer Comments](https://github.com/hexu1985/Collection.Of.Cpp.Grammer.Comments)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Cpp.Grammer.Comments)
 - [Reimplement of C++ Standard Library](https://github.com/hexu1985/Reimplement.Of.Cpp.Standard.Library) <kbd>new!</kbd>
