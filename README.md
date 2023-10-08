@@ -172,11 +172,11 @@
 - [Python GUI Programming Cookbook](https://github.com/hexu1985/tkinter-gui-programming-examples/tree/master/Python.GUI.Programming.Cookbook)
 
 ### [Python 数学编程](https://github.com/hexu1985/python-math-programming-examples)
-- [Python数学编程](Doing.Math.With.Python)
-- [用Python学数学](Math.Adventures.With.Python)
-- [用Python编程和实践!数学教科书](Python.Math.Textbook)
-- [Numpy数据处理详解](Numpy.Data.Processing.Detailed.Explanation)
-- [程序员的数学基础 python实战](Math.Fundamentals.For.Programmers.Using.Python)
+- [Python数学编程](https://github.com/hexu1985/python-math-programming-examples/Doing.Math.With.Python)
+- [用Python学数学](https://github.com/hexu1985/python-math-programming-examples/Math.Adventures.With.Python)
+- [用Python编程和实践!数学教科书](https://github.com/hexu1985/python-math-programming-examples/Python.Math.Textbook)
+- [Numpy数据处理详解](https://github.com/hexu1985/python-math-programming-examples/Numpy.Data.Processing.Detailed.Explanation)
+- [程序员的数学基础 python实战](https://github.com/hexu1985/python-math-programming-examples/Math.Fundamentals.For.Programmers.Using.Python)
 
 ### [Python Matplotlib](https://github.com/hexu1985/matplotlib-examples)
 - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/matplotlib-examples/tree/master/Matplotlib.Practice)
