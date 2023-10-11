@@ -35,6 +35,8 @@
 ### Python
 - [Collection of Python Utility Tools](https://github.com/hexu1985/Collection.Of.Python.Utility.Tools) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Python.Utility.Tools)
+- [Tkinter Programming Tutorial](https://github.com/hexu1985/Tkinter.Programming.Tutorial) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Tkinter.Programming.Tutorial)
 - [Matplotlib Tutorial](https://github.com/hexu1985/Matplotlib.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Matplotlib.Tutorial)
 
