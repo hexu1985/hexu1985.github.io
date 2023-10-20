@@ -163,6 +163,7 @@
     - [Python基础教程](https://github.com/hexu1985/python-programming-examples/tree/master/Beginning.Python)
     - [Python核心编程](https://github.com/hexu1985/python-programming-examples/tree/master/Core.Python.Programming)
     - [Python3程序开发指南](https://github.com/hexu1985/python-programming-examples/tree/master/Programming.In.Python.3)
+    - [Python3面向对象编程](https://github.com/hexu1985/python-programming-examples/tree/master/Python3.Object.Oriented.Programming)
     - [Python编程](https://github.com/hexu1985/python-programming-examples/tree/master/Programming.Python)
     - [Effective Python](https://github.com/hexu1985/python-programming-examples/tree/master/Effective.Python)
 + 标准库
