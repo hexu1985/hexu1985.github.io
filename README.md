@@ -172,6 +172,7 @@
 ### [Python Tkinter](https://github.com/hexu1985/tkinter-gui-programming-examples)
 - [Python GUI设计: tkinter菜鸟编程](https://github.com/hexu1985/tkinter-gui-programming-examples/tree/master/Python.GUI.Tkinter)
 - [Python GUI设计: tkinter从入门到实践](https://github.com/hexu1985/tkinter-gui-programming-examples/tree/master/Python.GUI.Tkinter.From.Novice.To.Practice)
+- [Python与Tkinter编程](https://github.com/hexu1985/tkinter-gui-programming-examples/tree/master/Python.And.Tkinter.Programming)
 - [Python GUI Programming Cookbook](https://github.com/hexu1985/tkinter-gui-programming-examples/tree/master/Python.GUI.Programming.Cookbook)
 
 ### [Python 数学编程](https://github.com/hexu1985/python-math-programming-examples)
