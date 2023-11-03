@@ -168,6 +168,9 @@
     - [Effective Python](https://github.com/hexu1985/python-programming-examples/tree/master/Effective.Python)
 + 标准库
     - [Python标准库](https://github.com/hexu1985/python-programming-examples/tree/master/Python.Standard.Library.By.Example)
+    - [Python并行编程实战](https://github.com/hexu1985/python-programming-examples/tree/master/Python.Parallel.Programming.Cookbook)
++ 第三方库
+    - [Python自动化运维实战](https://github.com/hexu1985/python-programming-examples/tree/master/Hands.On.Enterprise.Automation.With.Python)
 
 ### [Python Tkinter](https://github.com/hexu1985/tkinter-gui-programming-examples)
 - [Python GUI设计: tkinter菜鸟编程](https://github.com/hexu1985/tkinter-gui-programming-examples/tree/master/Python.GUI.Tkinter.Rookie.Programming)
@@ -368,7 +371,6 @@
 - [github](https://github.com/plantuml-stdlib/Archimate-PlantUML)
 
 ### Git
-- [giggle](https://wiki.gnome.org/giggle)<kbd>recommend</kbd>
 - [gitk](https://git-scm.com/docs/gitk)
 - [Sourcetree](https://www.sourcetreeapp.com/)
 
