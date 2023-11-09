@@ -15,12 +15,10 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Qt.Programming.Tutorial)
 - [pybind11 Tutorial](https://github.com/hexu1985/Pybind11.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Pybind11.Tutorial)
-- [Collection of C++ Grammer Comments](https://github.com/hexu1985/Collection.Of.Cpp.Grammer.Comments)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Cpp.Grammer.Comments)
 - [Reimplement of C++ Standard Library](https://github.com/hexu1985/Reimplement.Of.Cpp.Standard.Library) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Reimplement.Of.Cpp.Standard.Library)
-- [Collection of C++ Utility Class](https://github.com/hexu1985/Collection.Of.Cpp.Utility.Class) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Cpp.Utility.Class)
+- [Collection of C++ Utility Tools](https://github.com/hexu1985/Collection.Of.Cpp.Utility.Tools) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Cpp.Utility.Tools)
 
 ### Develop Tools
 - [GCC Tutorial](https://github.com/hexu1985/GCC.Tutorial) <kbd>new!</kbd>
