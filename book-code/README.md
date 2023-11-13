@@ -132,6 +132,7 @@
 - [Shell脚本专家指南](https://github.com/hexu1985/shell-scripting-examples/tree/master/Expert.Shell.Scripting)
 - [Shell脚本编程诀窍 适用于Linux、Bash等](https://github.com/hexu1985/shell-scripting-examples/tree/master/Shell.Scripting.Expert.Recipes)
 - [Efficient Linux命令行](https://github.com/hexu1985/shell-scripting-examples/tree/master/Efficient.Linux.At.The.Command.Line)
+- [Linux命令行与shell脚本编程大全](https://github.com/hexu1985/shell-scripting-examples/tree/master/Linux.Command.Line.And.Shell.Scripting.Bible)
 
 ### [Assembly编程](https://github.com/hexu1985/assembly-programming-examples)
 - [汇编语言程序设计](https://github.com/hexu1985/assembly-programming-examples/tree/master/Professional.Assembly.Language)
