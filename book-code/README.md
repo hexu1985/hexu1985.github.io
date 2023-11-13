@@ -140,9 +140,17 @@
 - [深入理解程序设计--使用Linux汇编语言](https://github.com/hexu1985/assembly-programming-examples/tree/master/Programming.From.The.Ground.Up)
 - [x64汇编语言: 从新手到AVX专家](https://github.com/hexu1985/assembly-programming-examples/tree/master/Beginning.x64.Assembly.Programming)
 
+### [软件调试](https://github.com/hexu1985/debugging-examples)
+- [软件调试实战](https://github.com/hexu1985/debugging-examples/tree/master/Developer.Guide.To.Debugging)
+- [软件调试的艺术](https://github.com/hexu1985/debugging-examples/tree/master/Art.Of.Debugging.With.GDB)
+- [C/C++代码调试的艺术](https://github.com/hexu1985/debugging-examples/tree/master/Art.Of.Debugging.In.C.Cpp)
+
+### [Vim编辑器](https://github.com/hexu1985/vim-editor-examples)
+- [学习Vim](https://github.com/hexu1985/vim-editor-examples/tree/master/Learn.Vim)
+- [Vim实用技巧](https://github.com/hexu1985/vim-editor-examples/tree/master/Practical.Vim)
+- [Vim 8文本处理实战](https://github.com/hexu1985/vim-editor-examples/tree/master/Mastering.Vim)
+
 ### Utility
-- [Vim实用技巧](https://github.com/hexu1985/Practical.Vim)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Vim)
 - [GNU Make项目管理](https://github.com/hexu1985/Managing.Projects.With.GUN.Make)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Managing.Projects.With.GUN.Make)
 - [CMake Cookbook](https://github.com/hexu1985/CMake.Cookbook)
@@ -155,11 +163,6 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Docker.In.Action)
 - [C++高性能编程](https://github.com/hexu1985/The.Art.Of.Writing.Efficient.Programs)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.Art.Of.Writing.Efficient.Programs)
-
-### [软件调试](https://github.com/hexu1985/debugging-examples)
-- [软件调试实战](https://github.com/hexu1985/debugging-examples/tree/master/Developer.Guide.To.Debugging)
-- [软件调试的艺术](https://github.com/hexu1985/debugging-examples/tree/master/Art.Of.Debugging.With.GDB)
-- [C/C++代码调试的艺术](https://github.com/hexu1985/debugging-examples/tree/master/Art.Of.Debugging.In.C.Cpp)
 
 ### 编译器相关
 - [高级C/C++编译技术](https://github.com/hexu1985/Advanced.C.And.Cpp.Compiling)
