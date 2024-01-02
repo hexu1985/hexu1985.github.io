@@ -27,6 +27,9 @@
 - [pip search](https://pypi.org/search/)
 - [PythonAnywhere](https://www.pythonanywhere.com/)
 
+### tool chain
+- [bazel](https://bazel.google.cn/?hl=zh-cn)
+
 ### Linux
 - [The Linux Kernel Archives](https://kernel.org/)
 

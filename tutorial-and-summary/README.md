@@ -1,9 +1,9 @@
 ## 教程及示例总结
 
 ### C/C++
-- [Gflags & Glog Tutorial](https://github.com/hexu1985/Gflags.And.Glog.Tutorial)
+- [x] [Gflags & Glog Tutorial](https://github.com/hexu1985/Gflags.And.Glog.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Gflags.And.Glog.Tutorial)
-- [GoogleTest Tutorial](https://github.com/hexu1985/GoogleTest.Tutorial)
+- [x] [GoogleTest Tutorial](https://github.com/hexu1985/GoogleTest.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/GoogleTest.Tutorial)
 - [Protocol Buffers Tutorial](https://github.com/hexu1985/Protobuf.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Protobuf.Tutorial)
@@ -19,7 +19,7 @@
 ### Develop Tools
 - [GCC Tutorial](https://github.com/hexu1985/GCC.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/GCC.Tutorial)
-- [GDB Tutorial](https://github.com/hexu1985/GDB.Tutorial)
+- [x] [GDB Tutorial](https://github.com/hexu1985/GDB.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/GDB.Tutorial)
 - [Git Tutorial](https://github.com/hexu1985/Git.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Git.Tutorial)
@@ -53,6 +53,6 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/SQLite.Tutorial)
 
 ### Markdown
-- [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial) <kbd>new!</kbd>
+- [x] [Markdown Tutorial](https://github.com/hexu1985/Markdown.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Markdown.Tutorial)
 
