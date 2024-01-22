@@ -27,6 +27,9 @@
 - [pip search](https://pypi.org/search/)
 - [PythonAnywhere](https://www.pythonanywhere.com/)
 
+### Math
+- [Project Euler(CN)](https://pe-cn.github.io/)
+
 ### tool chain
 - [bazel](https://bazel.google.cn/?hl=zh-cn)
 
