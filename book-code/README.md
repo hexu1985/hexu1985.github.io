@@ -128,6 +128,11 @@
 - [Python数据可视化编程实战](https://github.com/hexu1985/matplotlib-examples/tree/master/Python.Data.Visualization.Cookbook)
 - [Python图形编程: 2D和3D图像的创建](https://github.com/hexu1985/matplotlib-examples/tree/master/Python.Graphics)
 
+### [Python游戏编程](https://github.com/hexu1985/python-game-programming-examples)
+- [Python游戏编程快速上手](https://github.com/hexu1985/python-game-programming-examples/tree/master/Invent.Your.Own.Computer.Games.With.Python)
+- [Python游戏编程入门](https://github.com/hexu1985/python-game-programming-examples/tree/master/More.Python.Programming.For.The.Absolute.Beginner)
+- [Python和Pygame游戏开发指南](https://github.com/hexu1985/python-game-programming-examples/tree/master/Making.Games.With.Python.And.Pygame)
+
 ### [Shell编程](https://github.com/hexu1985/shell-scripting-examples)  
 - [Shell脚本学习指南](https://github.com/hexu1985/shell-scripting-examples/tree/master/Classic.Shell.Scripting)
 - [Linux Shell脚本攻略](https://github.com/hexu1985/shell-scripting-examples/tree/master/Linux.Shell.Scripting.Cookbook)
