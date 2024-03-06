@@ -68,6 +68,7 @@
     - [C++编程你也行](https://github.com/hexu1985/cpp-programming-examples/tree/master/You.Can.Program.In.Cpp)
     - [C++ Templates](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.Templates)
     - [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/cpp-programming-examples/tree/master/Modern.Cpp.Design)
+    - [学习C++20](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp20.For.Programmers)
 + 标准库
     - [标准C++输入输出流与本地化](https://github.com/hexu1985/cpp-programming-examples/tree/master/Standard.Cpp.IOStreams.And.Locales)
     - [C++标准库](https://github.com/hexu1985/cpp-programming-examples/tree/master/The.Cpp.Standard.Library)
@@ -100,6 +101,7 @@
     - [Python3面向对象编程](https://github.com/hexu1985/python-programming-examples/tree/master/Python3.Object.Oriented.Programming)
     - [Python编程](https://github.com/hexu1985/python-programming-examples/tree/master/Programming.Python)
     - [Effective Python](https://github.com/hexu1985/python-programming-examples/tree/master/Effective.Python)
+    - [Python快速入门](https://github.com/hexu1985/python-programming-examples/tree/master/The.Quick.Python.Book)
 + 标准库
     - [Python标准库](https://github.com/hexu1985/python-programming-examples/tree/master/Python.Standard.Library.By.Example)
     - [Python并行编程实战](https://github.com/hexu1985/python-programming-examples/tree/master/Python.Parallel.Programming.Cookbook)
@@ -125,6 +127,11 @@
 - [Python数据可视化之matplotlib精进](https://github.com/hexu1985/matplotlib-examples/tree/master/Matplotlib.Enchance)
 - [Python数据可视化编程实战](https://github.com/hexu1985/matplotlib-examples/tree/master/Python.Data.Visualization.Cookbook)
 - [Python图形编程: 2D和3D图像的创建](https://github.com/hexu1985/matplotlib-examples/tree/master/Python.Graphics)
+
+### [Python游戏编程](https://github.com/hexu1985/python-game-programming-examples)
+- [Python游戏编程快速上手](https://github.com/hexu1985/python-game-programming-examples/tree/master/Invent.Your.Own.Computer.Games.With.Python)
+- [Python游戏编程入门](https://github.com/hexu1985/python-game-programming-examples/tree/master/More.Python.Programming.For.The.Absolute.Beginner)
+- [Python和Pygame游戏开发指南](https://github.com/hexu1985/python-game-programming-examples/tree/master/Making.Games.With.Python.And.Pygame)
 
 ### [Shell编程](https://github.com/hexu1985/shell-scripting-examples)  
 - [Shell脚本学习指南](https://github.com/hexu1985/shell-scripting-examples/tree/master/Classic.Shell.Scripting)
