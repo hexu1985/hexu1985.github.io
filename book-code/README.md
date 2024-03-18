@@ -189,6 +189,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Flex.And.Bison)
 - [二进制分析 实战](https://github.com/hexu1985/Practical.Binary.Analysis)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Binary.Analysis)
+- [两周自制脚本语言](https://github.com/hexu1985/Two.Weeks.Of.Homemade.Scripting.Language)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Two.Weeks.Of.Homemade.Scripting.Language)
 
 ### Web相关
 - [Head First HTML与CSS](https://github.com/hexu1985/Head.First.HTML.And.CSS)
