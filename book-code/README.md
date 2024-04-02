@@ -176,8 +176,10 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Packet.Analysis)
 - [C++高性能编程](https://github.com/hexu1985/The.Art.Of.Writing.Efficient.Programs)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.Art.Of.Writing.Efficient.Programs)
-- [GPU编程实战](https://github.com/hexu1985/Hands.On.GPU.Programming.With.Python.And.CUDA.git)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Hands.On.GPU.Programming.With.Python.And.CUDA.git)
+- [GPU编程实战](https://github.com/hexu1985/Hands.On.GPU.Programming.With.Python.And.CUDA)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Hands.On.GPU.Programming.With.Python.And.CUDA)
+- [C++嵌入式开发实例精解](https://github.com/hexu1985/Embedded.Programming.With.Modern.Cpp.Cookbook)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Embedded.Programming.With.Modern.Cpp.Cookbook)
 
 ### 编译器相关
 - [高级C/C++编译技术](https://github.com/hexu1985/Advanced.C.And.Cpp.Compiling)
