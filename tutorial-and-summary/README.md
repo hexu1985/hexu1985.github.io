@@ -47,6 +47,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Math.Theorems)
 - [Data Structures & Algorithms Tutorial](https://github.com/hexu1985/Data.Structures.And.Algorithms.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Data.Structures.And.Algorithms.Tutorial)
+- [Project Euler Solution](https://github.com/hexu1985/Project.Euler.Solution) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Project.Euler.Solution)
 
 ### Database
 - [SQLite Tutorial](https://github.com/hexu1985/SQLite.Tutorial) <kbd>new!</kbd>
