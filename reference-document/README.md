@@ -26,6 +26,7 @@
 - [flask Docs](https://flask.net.cn/)
 - [pip search](https://pypi.org/search/)
 - [PythonAnywhere](https://www.pythonanywhere.com/)
+- [turtle Docs](https://docs.python.org/zh-cn/3/library/turtle.html)
 
 ### Math
 - [Project Euler(CN)](https://pe-cn.github.io/)
