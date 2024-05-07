@@ -226,6 +226,8 @@
 ### 计算机图形学及多媒体
 - [计算机图形学(OpenGL版)](https://github.com/hexu1985/Computer.Graphics.Using.OpenGL)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Computer.Graphics.Using.OpenGL)
+- [3D计算机图形学(OpenGL版)](https://github.com/hexu1985/Computer.Graphics.3D.With.OpenGL)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Computer.Graphics.3D.With.OpenGL)
 - [OpenGL编程基础](https://github.com/hexu1985/OpenGL.Primer)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenGL.Primer)
 - [Processing编程学习指南](https://github.com/hexu1985/Learning.Processing) <kbd>new!</kbd>
