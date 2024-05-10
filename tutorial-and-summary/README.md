@@ -23,8 +23,6 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/GDB.Tutorial)
 - [Git Tutorial](https://github.com/hexu1985/Git.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Git.Tutorial)
-- [Make & CMake Tutorial](https://github.com/hexu1985/Make.And.CMake.Tutorial)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Make.And.CMake.Tutorial)
 - [CMake Tutorial](https://github.com/hexu1985/CMake.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/CMake.Tutorial)
 
