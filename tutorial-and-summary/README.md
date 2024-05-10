@@ -25,6 +25,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Git.Tutorial)
 - [Make & CMake Tutorial](https://github.com/hexu1985/Make.And.CMake.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Make.And.CMake.Tutorial)
+- [CMake Tutorial](https://github.com/hexu1985/CMake.Tutorial)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/CMake.Tutorial)
 
 ### Python
 - [Collection of Python Utility Tools](https://github.com/hexu1985/Collection.Of.Python.Utility.Tools) <kbd>new!</kbd>
