@@ -247,3 +247,6 @@
 - [Python计算机视觉编程](https://github.com/hexu1985/Programming.Computer.Vision.With.Python)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Programming.Computer.Vision.With.Python)
 
+### 机器人编程
+- [ROS机器人编程 原理与应用](https://github.com/hexu1985/Learning.Robot.Programming.With.Ros)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Learning.Robot.Programming.With.Ros)
