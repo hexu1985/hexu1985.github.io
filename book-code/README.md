@@ -256,5 +256,7 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Deep.Learning.From.Scratch)
 - [机器学习数学基础一本通](https://github.com/hexu1985/Machine.Learning.Mathematical.Foundations)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Machine.Learning.Mathematical.Foundations)
+- [机器学习微积分一本通](https://github.com/hexu1985/Machine.Learning.Calculus)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Machine.Learning.Calculus)
 
 
