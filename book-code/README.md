@@ -254,5 +254,7 @@
 ### 人工智能
 - [深度学习入门：基于Python的理论与实现](https://github.com/hexu1985/Deep.Learning.From.Scratch)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Deep.Learning.From.Scratch)
+- [机器学习数学基础一本通](https://github.com/hexu1985/Machine.Learning.Mathematical.Foundations)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Machine.Learning.Mathematical.Foundations)
 
 
