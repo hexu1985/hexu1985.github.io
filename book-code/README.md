@@ -62,24 +62,27 @@
     - [C++ Primer](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.Primer)
     - [Effective C++](https://github.com/hexu1985/cpp-programming-examples/tree/master/Effective.Cpp)
     - [Effective Modern C++](https://github.com/hexu1985/cpp-programming-examples/tree/master/Effective.Modern.Cpp)
-    - [C++性能优化指南](https://github.com/hexu1985/cpp-programming-examples/tree/master/Optimized.Cpp)
-    - [深入应用C++11代码优化与工程级应用](https://github.com/hexu1985/cpp-programming-examples/tree/master/In.Depth.Cpp.11)
     - [Accelerated C++](https://github.com/hexu1985/cpp-programming-examples/tree/master/Accelerated.Cpp)
     - [C++编程你也行](https://github.com/hexu1985/cpp-programming-examples/tree/master/You.Can.Program.In.Cpp)
     - [C++ Templates](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.Templates)
-    - [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/cpp-programming-examples/tree/master/Modern.Cpp.Design)
-    - [学习C++20](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp20.For.Programmers)
+    - [学习C++20](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.20.For.Programmers)
     - [C++20编程技巧](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.20.Recipes)
 + 标准库
     - [标准C++输入输出流与本地化](https://github.com/hexu1985/cpp-programming-examples/tree/master/Standard.Cpp.IOStreams.And.Locales)
     - [C++标准库](https://github.com/hexu1985/cpp-programming-examples/tree/master/The.Cpp.Standard.Library)
-    - [C++17 STL Cookbook](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp17.STL.Cookbook)
+    - [C++17 STL Cookbook](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.17.STL.Cookbook)
     - [C++ Cookbook](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.Cookbook)
     - [C++标准库扩展权威指南](https://github.com/hexu1985/cpp-programming-examples/tree/master/The.Cpp.Standard.Library.Extentions)
-    - [C++并发编程实战](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.Concurrency.In.Action)
 + Boost
-    - [超越C++标准 Boost库导论](https://github.com/hexu1985/cpp-programming-examples/tree/master/Beyond.The.Cpp.Standard.Library)
+    - [超越C++标准库](https://github.com/hexu1985/cpp-programming-examples/tree/master/Beyond.The.Cpp.Standard.Library)
     - [深入实践Boost Boost程序库开发的94个秘笈](https://github.com/hexu1985/cpp-programming-examples/tree/master/Boost.Cpp.Application.Development.Cookbook)
++ 其他
+    - [C++并发编程实战](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.Concurrency.In.Action)
+    - [C++性能优化指南](https://github.com/hexu1985/cpp-programming-examples/tree/master/Optimized.Cpp)
+    - [深入应用C++11代码优化与工程级应用](https://github.com/hexu1985/cpp-programming-examples/tree/master/In.Depth.Cpp.11)
+    - [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/cpp-programming-examples/tree/master/Modern.Cpp.Design)
+    - [C++高性能编程](https://github.com/hexu1985/cpp-programming-examples/tree/master/The.Art.Of.Writing.Efficient.Programs)
+    - [C++嵌入式开发实例精解](https://github.com/hexu1985/cpp-programming-examples/tree/master/Embedded.Programming.With.Modern.Cpp.Cookbook)
 
 ### [C++ Qt](https://github.com/hexu1985/qt-gui-programming-examples) 
 + Qt4
@@ -111,9 +114,9 @@
     - [Python GUI设计: tkinter从入门到实践](https://github.com/hexu1985/python-programming-examples/tree/master/Python.GUI.Tkinter.From.Novice.To.Practice)
     - [Python与Tkinter编程](https://github.com/hexu1985/python-programming-examples/tree/master/Python.And.Tkinter.Programming)
     - [Python GUI Programming Cookbook](https://github.com/hexu1985/python-programming-examples/tree/master/Python.GUI.Programming.Cookbook)
-+ 第三方库
++ 其他
     - [Python自动化运维实战](https://github.com/hexu1985/python-programming-examples/tree/master/Hands.On.Enterprise.Automation.With.Python)
-    - [pytest测试实战](Python.Testing.With.Pytest)
+    - [pytest测试实战](https://github.com/hexu1985/python-programming-examples/tree/master/Python.Testing.With.Pytest)
 
 ### [Python 数学编程](https://github.com/hexu1985/python-math-programming-examples)
 - [Python数学编程](https://github.com/hexu1985/python-math-programming-examples/Doing.Math.With.Python)
