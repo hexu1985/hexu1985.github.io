@@ -227,6 +227,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Computer.Graphics.Using.OpenGL)
 - [3D计算机图形学(OpenGL版)](https://github.com/hexu1985/Computer.Graphics.3D.With.OpenGL)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Computer.Graphics.3D.With.OpenGL)
+- [计算机图形学编程(使用OpenGL和C++)](https://github.com/hexu1985/Computer.Graphics.Programming.In.OpenGL.With.Cpp)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Computer.Graphics.Programming.In.OpenGL.With.Cpp)
 - [OpenGL编程基础](https://github.com/hexu1985/OpenGL.Primer)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenGL.Primer)
 - [Processing编程学习指南](https://github.com/hexu1985/Learning.Processing) <kbd>new!</kbd>
