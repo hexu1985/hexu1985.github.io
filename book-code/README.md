@@ -251,6 +251,8 @@
 ### 机器人编程
 - [ROS机器人编程 原理与应用](https://github.com/hexu1985/Learning.Robot.Programming.With.Ros)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Learning.Robot.Programming.With.Ros)
+- [Python树莓派编程 从零开始](https://github.com/hexu1985/Programming.The.Raspberry.Pi)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Programming.The.Raspberry.Pi)
 
 ### 机器学习
 - [深度学习入门：基于Python的理论与实现](https://github.com/hexu1985/Deep.Learning.From.Scratch)
