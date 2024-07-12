@@ -179,18 +179,18 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Packet.Analysis)
 - [GPU编程实战](https://github.com/hexu1985/Hands.On.GPU.Programming.With.Python.And.CUDA)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Hands.On.GPU.Programming.With.Python.And.CUDA)
-
-### 编译器相关
 - [高级C/C++编译技术](https://github.com/hexu1985/Advanced.C.And.Cpp.Compiling)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Advanced.C.And.Cpp.Compiling)
+- [二进制分析 实战](https://github.com/hexu1985/Practical.Binary.Analysis)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Binary.Analysis)
+
+### 编译器相关
 - [编译原理及实践](https://github.com/hexu1985/Compiler.Construction.Principles.And.Practice)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Compiler.Construction.Principles.And.Practice)
 - [lex与yacc](https://github.com/hexu1985/Lex.And.Yacc)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Lex.And.Yacc)
 - [flex与bison](https://github.com/hexu1985/Flex.And.Bison)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Flex.And.Bison)
-- [二进制分析 实战](https://github.com/hexu1985/Practical.Binary.Analysis)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Binary.Analysis)
 - [两周自制脚本语言](https://github.com/hexu1985/Two.Weeks.Of.Homemade.Scripting.Language)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Two.Weeks.Of.Homemade.Scripting.Language)
 
