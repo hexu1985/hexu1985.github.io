@@ -152,6 +152,14 @@
 - [深入理解程序设计--使用Linux汇编语言](https://github.com/hexu1985/assembly-programming-examples/tree/master/Programming.From.The.Ground.Up)
 - [x64汇编语言: 从新手到AVX专家](https://github.com/hexu1985/assembly-programming-examples/tree/master/Beginning.x64.Assembly.Programming)
 
+### [编译原理](https://github.com/hexu1985/compilers-principles-examples)
+- [编译原理及实践](https://github.com/hexu1985/compilers-principles-examples/tree/master/Compiler.Construction.Principles.And.Practice)
+- [自制编译器](https://github.com/hexu1985/compilers-principles-examples/tree/master/How.To.Develop.A.Compiler)
+- [自制编程语言](https://github.com/hexu1985/compilers-principles-examples/tree/master/Homemake.Programming.Languages)
+- [两周自制脚本语言](https://github.com/hexu1985/compilers-principles-examples/tree/master/Homemake.Scripting.Languages.In.Two.Weeks)
+- [lex与yacc](https://github.com/hexu1985/compilers-principles-examples/tree/master/Lex.And.Yacc)
+- [flex与bison](https://github.com/hexu1985/compilers-principles-examples/tree/master/Flex.And.Bison)
+
 ### [软件调试](https://github.com/hexu1985/debugging-examples)
 - [软件调试实战](https://github.com/hexu1985/debugging-examples/tree/master/Developer.Guide.To.Debugging)
 - [软件调试的艺术](https://github.com/hexu1985/debugging-examples/tree/master/Art.Of.Debugging.With.GDB)
@@ -183,16 +191,6 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Advanced.C.And.Cpp.Compiling)
 - [二进制分析 实战](https://github.com/hexu1985/Practical.Binary.Analysis)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Binary.Analysis)
-
-### 编译器相关
-- [编译原理及实践](https://github.com/hexu1985/Compiler.Construction.Principles.And.Practice)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Compiler.Construction.Principles.And.Practice)
-- [lex与yacc](https://github.com/hexu1985/Lex.And.Yacc)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Lex.And.Yacc)
-- [flex与bison](https://github.com/hexu1985/Flex.And.Bison)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Flex.And.Bison)
-- [两周自制脚本语言](https://github.com/hexu1985/Two.Weeks.Of.Homemade.Scripting.Language)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Two.Weeks.Of.Homemade.Scripting.Language)
 
 ### Web相关
 - [Head First HTML与CSS](https://github.com/hexu1985/Head.First.HTML.And.CSS)
