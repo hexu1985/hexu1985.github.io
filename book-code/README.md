@@ -125,6 +125,7 @@
 - [用Python编程和实践!数学教科书](https://github.com/hexu1985/python-math-programming-examples/Python.Math.Textbook)
 - [Numpy数据处理详解](https://github.com/hexu1985/python-math-programming-examples/Numpy.Data.Processing.Detailed.Explanation)
 - [程序员的数学基础 python实战](https://github.com/hexu1985/python-math-programming-examples/Math.Fundamentals.For.Programmers.Using.Python)
+- [Python数据分析基础教程：NumPy学习指南 第2版](https://github.com/hexu1985/python-math-programming-examples/Numpy.Beginners.Guide)
 
 ### [Python Matplotlib](https://github.com/hexu1985/matplotlib-examples)
 - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/matplotlib-examples/tree/master/Matplotlib.Practice)
