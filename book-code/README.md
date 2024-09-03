@@ -190,6 +190,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Hands.On.GPU.Programming.With.Python.And.CUDA)
 - [CUDA C编程权威指南](https://github.com/hexu1985/Professional.CUDA.C.Programming)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Professional.CUDA.C.Programming)
+- [CUDA专家手册：GPU编程权威指南](https://github.com/hexu1985/The.CUDA.Handbook)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.CUDA.Handbook)
 - [高级C/C++编译技术](https://github.com/hexu1985/Advanced.C.And.Cpp.Compiling)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Advanced.C.And.Cpp.Compiling)
 - [二进制分析 实战](https://github.com/hexu1985/Practical.Binary.Analysis)
