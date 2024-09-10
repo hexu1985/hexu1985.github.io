@@ -179,6 +179,13 @@
 - [深入浅出Docker](https://github.com/hexu1985/docker-examples/tree/master/Docker.Deep.Dive)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/docker-examples/tree/master/Docker.Deep.Dive)
 
+### [计算机视觉OpenCV](https://github.com/hexu1985/opencv-examples)
+- [学习OpenCV3](https://github.com/hexu1985/opencv-examples/tree/master/Learning.OpenCV)
+- [OpenCV算法精解](https://github.com/hexu1985/opencv-examples/tree/master/OpenCV.Algorithmic.Solution)
+- [OpenCV实例精解](https://github.com/hexu1985/opencv-examples/tree/master/OpenCV.By.Example)
+- [Python计算机视觉编程](https://github.com/hexu1985/opencv-examples/tree/master/Programming.Computer.Vision.With.Python)
+- [Python OpenCV从入门到实践](https://github.com/hexu1985/opencv-examples/tree/master/Python.OpenCV.From.Novice.To.Practice)
+
 ### Utility
 - [GNU Make项目管理](https://github.com/hexu1985/Managing.Projects.With.GUN.Make)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Managing.Projects.With.GUN.Make)
@@ -240,16 +247,6 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenGL.Shading.Language.Cookbook)
 - [FFmpeg音视频开发基础与实战](https://github.com/hexu1985/Fundamental.And.Practical.FFmpeg)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Fundamental.And.Practical.FFmpeg)
-
-### 计算机视觉
-- [OpenCV算法精解](https://github.com/hexu1985/OpenCV.Algorithmic.Solution)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenCV.Algorithmic.Solution)
-- [学习OpenCV](https://github.com/hexu1985/Learning.OpenCV)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Learning.OpenCV)
-- [Python OpenCV从入门到实践](https://github.com/hexu1985/Python.OpenCV.From.Novice.To.Practice)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Python.OpenCV.From.Novice.To.Practice)
-- [Python计算机视觉编程](https://github.com/hexu1985/Programming.Computer.Vision.With.Python)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Programming.Computer.Vision.With.Python)
 
 ### 机器人编程
 - [ROS机器人编程 原理与应用](https://github.com/hexu1985/Learning.Robot.Programming.With.Ros)
