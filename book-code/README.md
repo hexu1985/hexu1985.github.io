@@ -41,6 +41,7 @@
     - [算法: C++实现](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Algorithms.In.Cpp)
     - [数据结构C++语言描述: 应用标准模板库(STL)](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Data.Structures.With.Cpp.Using.STL)
     - [数据结构与算法分析 C++语言描述](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Data.Structures.And.Algorithm.Analysis.In.Cpp)
+    - [数据结构、算法与应用 C++语言描述](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Data.Structures.Algorithms.And.Applications.In.Cpp)
 + Python
     - [数据结构(Python语言描述)](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Fundamentals.Of.Python.Data.Structures)
     - [Python算法教程](https://github.com/hexu1985/data-structures-and-algorithms-examples/tree/master/Python.Algorithms)
