@@ -16,6 +16,7 @@
 - [POSIX多线程程序设计](https://github.com/hexu1985/system-programming-examples/tree/master/Programming.With.POSIX.Threads)
 - [深入理解计算机系统](https://github.com/hexu1985/system-programming-examples/tree/master/Computer.Systems)
 - [Linux是怎样工作的](https://github.com/hexu1985/system-programming-examples/tree/master/Linux.In.Practice)
+- [操作系统导论](https://github.com/hexu1985/system-programming-examples/tree/master/Operating.Systems.Three.Easy.Pieces)
 
 ### [网络编程](https://github.com/hexu1985/network-programming-examples) 
 + C
