@@ -17,6 +17,7 @@
 - [深入理解计算机系统](https://github.com/hexu1985/system-programming-examples/tree/master/Computer.Systems)
 - [Linux是怎样工作的](https://github.com/hexu1985/system-programming-examples/tree/master/Linux.In.Practice)
 - [操作系统导论](https://github.com/hexu1985/system-programming-examples/tree/master/Operating.Systems.Three.Easy.Pieces)
+- [计算机是如何工作的](https://github.com/hexu1985/system-programming-examples/tree/master/How.Computers.Really.Work)
 
 ### [网络编程](https://github.com/hexu1985/network-programming-examples) 
 + C
