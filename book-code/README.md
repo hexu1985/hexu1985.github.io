@@ -169,6 +169,11 @@
 - [软件调试的艺术](https://github.com/hexu1985/debugging-examples/tree/master/Art.Of.Debugging.With.GDB)
 - [C/C++代码调试的艺术](https://github.com/hexu1985/debugging-examples/tree/master/Art.Of.Debugging.In.C.Cpp)
 
+### [项目构建工具](https://github.com/hexu1985/project-builder-examples)
+- [GNU Make项目管理](https://github.com/hexu1985/project-builder-examples/tree/master/Managing.Projects.With.GUN.Make)
+- [CMake Cookbook](https://github.com/hexu1985/project-builder-examples/tree/master/CMake.Cookbook)
+- [CMake构建实战](https://github.com/hexu1985/project-builder-examples/tree/master/Building.Projects.With.CMake)
+
 ### [Vim编辑器](https://github.com/hexu1985/vim-editor-examples)
 - [学习Vim](https://github.com/hexu1985/vim-editor-examples/tree/master/Learn.Vim)
 - [Vim实用技巧](https://github.com/hexu1985/vim-editor-examples/tree/master/Practical.Vim)
