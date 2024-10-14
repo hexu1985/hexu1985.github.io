@@ -192,10 +192,6 @@
 - [Python OpenCV从入门到实践](https://github.com/hexu1985/opencv-examples/tree/master/Python.OpenCV.From.Novice.To.Practice)
 
 ### Utility
-- [GNU Make项目管理](https://github.com/hexu1985/Managing.Projects.With.GUN.Make)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Managing.Projects.With.GUN.Make)
-- [CMake Cookbook](https://github.com/hexu1985/CMake.Cookbook)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/CMake.Cookbook)
 - [Wireshark数据包分析实战](https://github.com/hexu1985/Practical.Packet.Analysis)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Packet.Analysis)
 - [GPU编程实战](https://github.com/hexu1985/Hands.On.GPU.Programming.With.Python.And.CUDA)
