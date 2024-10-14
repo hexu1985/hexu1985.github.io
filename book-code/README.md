@@ -181,11 +181,8 @@
 
 ### [Docker](https://github.com/hexu1985/docker-examples)
 - [Python Docker实战](https://github.com/hexu1985/docker-examples/tree/master/Practical.Docker.With.Python)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/docker-examples/tree/master/Practical.Docker.With.Python)
 - [Docker实战](https://github.com/hexu1985/docker-examples/tree/master/Docker.In.Action)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/docker-examples/tree/master/Docker.In.Action)
 - [深入浅出Docker](https://github.com/hexu1985/docker-examples/tree/master/Docker.Deep.Dive)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/docker-examples/tree/master/Docker.Deep.Dive)
 
 ### [计算机视觉OpenCV](https://github.com/hexu1985/opencv-examples)
 - [学习OpenCV3](https://github.com/hexu1985/opencv-examples/tree/master/Learning.OpenCV)
