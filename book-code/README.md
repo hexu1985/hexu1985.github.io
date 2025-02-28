@@ -59,6 +59,7 @@
     - [C和指针](https://github.com/hexu1985/c-programming-examples/tree/master/Pointers.On.C)
     - [C语言核心技术](https://github.com/hexu1985/c-programming-examples/tree/master/C.In.A.Nutshell)
     - [C语言程序设计:现代方法](https://github.com/hexu1985/c-programming-examples/tree/master/C.Programming.Modern.Approach)
+    - [流利的C语言](https://github.com/hexu1985/c-programming-examples/tree/master/Fluent.C)
 + 标准库
     - [C标准库](https://github.com/hexu1985/c-programming-examples/tree/master/The.Standard.C.Library)
 
@@ -176,6 +177,7 @@
 - [GNU Make项目管理](https://github.com/hexu1985/project-builder-examples/tree/master/Managing.Projects.With.GUN.Make)
 - [CMake Cookbook](https://github.com/hexu1985/project-builder-examples/tree/master/CMake.Cookbook)
 - [CMake构建实战](https://github.com/hexu1985/project-builder-examples/tree/master/Building.Projects.With.CMake)
+- [Modern CMake for C++](https://github.com/hexu1985/project-builder-examples/tree/master/Modern.CMake.For.Cpp)
 
 ### [Vim编辑器](https://github.com/hexu1985/vim-editor-examples)
 - [学习Vim](https://github.com/hexu1985/vim-editor-examples/tree/master/Learn.Vim)
