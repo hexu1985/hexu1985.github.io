@@ -6,7 +6,7 @@
 
 ### 我的资料
 
-- [教程及示例总结](https://hexu1985.github.io/tutorial-and-summary/)
+- [教程及示例总结](https://hexu1985.github.io/tutorial-and-recipes/)
 - [随书示例代码](https://hexu1985.github.io/book-code/)
 - [我的项目](https://hexu1985.github.io/my-project/)
 - [参考文档](https://hexu1985.github.io/reference-document/)
