@@ -91,6 +91,7 @@
     - [C++高性能编程](https://github.com/hexu1985/cpp-programming-examples/tree/master/The.Art.Of.Writing.Efficient.Programs)
     - [C++嵌入式开发实例精解](https://github.com/hexu1985/cpp-programming-examples/tree/master/Embedded.Programming.With.Modern.Cpp.Cookbook)
     - [CPU眼里的C/C++](https://github.com/hexu1985/cpp-programming-examples/tree/master/C.And.Cpp.In.The.Eyes.Of.CPU)
+    - [高级C/C++编译技术](https://github.com/hexu1985/cpp-programming-examples/tree/master/Advanced.C.And.Cpp.Compiling)
 
 ### [C++ Qt](https://github.com/hexu1985/qt-gui-programming-examples) 
 + Qt4
@@ -206,8 +207,6 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Professional.CUDA.C.Programming)
 - [CUDA专家手册：GPU编程权威指南](https://github.com/hexu1985/The.CUDA.Handbook)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.CUDA.Handbook)
-- [高级C/C++编译技术](https://github.com/hexu1985/Advanced.C.And.Cpp.Compiling)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Advanced.C.And.Cpp.Compiling)
 - [二进制分析 实战](https://github.com/hexu1985/Practical.Binary.Analysis)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Binary.Analysis)
 
