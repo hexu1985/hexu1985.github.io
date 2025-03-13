@@ -27,7 +27,7 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/CMake.Tutorial)
 - [C++ Compiling Technology Tutorial](https://github.com/hexu1985/Cpp.Compiling.Technology.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.Compiling.Technology.Tutorial)
-- [C++ Project Manage Tutorial](https://github.com/hexu1985/Cpp.Project.Manage.Recipes)
+- [C++ Project Manage Recipes](https://github.com/hexu1985/Cpp.Project.Manage.Recipes)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.Project.Manage.Recipes)
 
 ### Python

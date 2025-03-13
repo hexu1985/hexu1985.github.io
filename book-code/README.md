@@ -90,6 +90,7 @@
     - [C++设计新思维 泛型编程与设计模式之应用](https://github.com/hexu1985/cpp-programming-examples/tree/master/Modern.Cpp.Design)
     - [C++高性能编程](https://github.com/hexu1985/cpp-programming-examples/tree/master/The.Art.Of.Writing.Efficient.Programs)
     - [C++嵌入式开发实例精解](https://github.com/hexu1985/cpp-programming-examples/tree/master/Embedded.Programming.With.Modern.Cpp.Cookbook)
+    - [CPU眼里的C/C++](https://github.com/hexu1985/cpp-programming-examples/tree/master/C.And.Cpp.In.The.Eyes.Of.CPU)
 
 ### [C++ Qt](https://github.com/hexu1985/qt-gui-programming-examples) 
 + Qt4
