@@ -127,20 +127,24 @@
     - [Python自动化运维实战](https://github.com/hexu1985/python-programming-examples/tree/master/Hands.On.Enterprise.Automation.With.Python)
     - [pytest测试实战](https://github.com/hexu1985/python-programming-examples/tree/master/Python.Testing.With.Pytest)
 
-### [Python 数学编程](https://github.com/hexu1985/python-math-programming-examples)
-- [Python数学编程](https://github.com/hexu1985/python-math-programming-examples/Doing.Math.With.Python)
-- [用Python学数学](https://github.com/hexu1985/python-math-programming-examples/Math.Adventures.With.Python)
-- [程序员数学：用Python学透线性代数和微积分](https://github.com/hexu1985/python-math-programming-examples/Math.For.Programmers)
-- [用Python编程和实践!数学教科书](https://github.com/hexu1985/python-math-programming-examples/Python.Math.Textbook)
-- [Numpy数据处理详解](https://github.com/hexu1985/python-math-programming-examples/Numpy.Data.Processing.Detailed.Explanation)
-- [程序员的数学基础 python实战](https://github.com/hexu1985/python-math-programming-examples/Math.Fundamentals.For.Programmers.Using.Python)
-- [Python数据分析基础教程：NumPy学习指南 第2版](https://github.com/hexu1985/python-math-programming-examples/Numpy.Beginners.Guide)
-
-### [Python Matplotlib](https://github.com/hexu1985/matplotlib-examples)
-- [Python数据可视化之matplotlib实践](https://github.com/hexu1985/matplotlib-examples/tree/master/Matplotlib.Practice)
-- [Python数据可视化之matplotlib精进](https://github.com/hexu1985/matplotlib-examples/tree/master/Matplotlib.Enchance)
-- [Python数据可视化编程实战](https://github.com/hexu1985/matplotlib-examples/tree/master/Python.Data.Visualization.Cookbook)
-- [Python图形编程: 2D和3D图像的创建](https://github.com/hexu1985/matplotlib-examples/tree/master/Python.Graphics)
+### [Python数据科学](https://github.com/hexu1985/python-data-science-examples)
++ 数学基础
+    - [Python数学编程](https://github.com/hexu1985/python-data-science-examples/tree/master/Doing.Math.With.Python)
+    - [用Python学数学](https://github.com/hexu1985/python-data-science-examples/tree/master/Math.Adventures.With.Python)
+    - [用Python编程和实践!数学教科书](https://github.com/hexu1985/python-data-science-examples/tree/master/Python.Math.Textbook)
+    - [程序员的数学基础 python实战](https://github.com/hexu1985/python-data-science-examples/tree/master/Math.Fundamentals.For.Programmers.Using.Python)
++ numpy
+    - [Numpy数据处理详解](https://github.com/hexu1985/python-data-science-examples/tree/master/Numpy.Data.Processing.Detailed.Explanation)
++ matplotlib
+    - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/python-data-science-examples/tree/master/Matplotlib.Practice)
+    - [Python数据可视化之matplotlib精进](https://github.com/hexu1985/python-data-science-examples/tree/master/Matplotlib.Enchance)
+    - [Python数据可视化编程实战](https://github.com/hexu1985/python-data-science-examples/tree/master/Python.Data.Visualization.Cookbook)
++ 机器学习
+    - [机器学习图解](https://github.com/hexu1985/python-data-science-examples/tree/master/Grokking.Machine.Learning)
++ 深度学习
+    - [深度学习入门：基于Python的理论与实现](https://github.com/hexu1985/python-data-science-examples/tree/master/Deep.Learning.From.Scratch)
+    - [Pytorch深度学习指南](https://github.com/hexu1985/python-data-science-examples/tree/master/Pytorch.Step.By.Step)
+    - [深度学习图解](https://github.com/hexu1985/python-data-science-examples/tree/master/Grokking.Deep.Learning)
 
 ### [Python游戏编程](https://github.com/hexu1985/python-game-programming-examples)
 - [Python游戏编程快速上手](https://github.com/hexu1985/python-game-programming-examples/tree/master/Invent.Your.Own.Computer.Games.With.Python)
@@ -259,17 +263,4 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Learning.Robot.Programming.With.Ros)
 - [Python树莓派编程 从零开始](https://github.com/hexu1985/Programming.The.Raspberry.Pi)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Programming.The.Raspberry.Pi)
-
-### 机器学习
-- [深度学习入门：基于Python的理论与实现](https://github.com/hexu1985/Deep.Learning.From.Scratch)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Deep.Learning.From.Scratch)
-- [Pytorch深度学习指南：编程基础 卷I](https://github.com/hexu1985/Pytorch.Step.By.Step)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Pytorch.Step.By.Step)
-- [机器学习数学基础一本通](https://github.com/hexu1985/Machine.Learning.Mathematical.Foundations)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Machine.Learning.Mathematical.Foundations)
-- [机器学习微积分一本通](https://github.com/hexu1985/Machine.Learning.Calculus)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Machine.Learning.Calculus)
-- [机器学习图解](https://github.com/hexu1985/Grokking.Machine.Learning)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Grokking.Machine.Learning)
-
 
