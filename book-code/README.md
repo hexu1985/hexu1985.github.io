@@ -139,6 +139,8 @@
     - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/python-data-science-examples/tree/master/Matplotlib.Practice)
     - [Python数据可视化之matplotlib精进](https://github.com/hexu1985/python-data-science-examples/tree/master/Matplotlib.Enchance)
     - [Python数据可视化编程实战](https://github.com/hexu1985/python-data-science-examples/tree/master/Python.Data.Visualization.Cookbook)
++ pandas
+    - [Pandas数据预处理详解](https://github.com/hexu1985/python-data-science-examples/tree/master/Pandas.Data.Preprocessing.Explanation)
 + 机器学习
     - [机器学习图解](https://github.com/hexu1985/python-data-science-examples/tree/master/Grokking.Machine.Learning)
 + 深度学习
