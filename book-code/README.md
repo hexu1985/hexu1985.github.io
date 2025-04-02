@@ -69,8 +69,6 @@
     - [C++ Primer](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.Primer)
     - [Effective C++](https://github.com/hexu1985/cpp-programming-examples/tree/master/Effective.Cpp)
     - [Effective Modern C++](https://github.com/hexu1985/cpp-programming-examples/tree/master/Effective.Modern.Cpp)
-    - [Accelerated C++](https://github.com/hexu1985/cpp-programming-examples/tree/master/Accelerated.Cpp)
-    - [C++编程你也行](https://github.com/hexu1985/cpp-programming-examples/tree/master/You.Can.Program.In.Cpp)
     - [C++ Templates](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.Templates)
     - [学习C++20](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.20.For.Programmers)
     - [C++20编程技巧](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.20.Recipes)
