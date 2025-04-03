@@ -168,8 +168,6 @@
 
 ### [编译原理](https://github.com/hexu1985/compilers-principles-examples)
 - [编译原理及实践](https://github.com/hexu1985/compilers-principles-examples/tree/master/Compiler.Construction.Principles.And.Practice)
-- [自制编译器](https://github.com/hexu1985/compilers-principles-examples/tree/master/How.To.Develop.A.Compiler)
-- [自制编程语言](https://github.com/hexu1985/compilers-principles-examples/tree/master/Homemake.Programming.Languages)
 - [两周自制脚本语言](https://github.com/hexu1985/compilers-principles-examples/tree/master/Homemake.Scripting.Languages.In.Two.Weeks)
 - [lex与yacc](https://github.com/hexu1985/compilers-principles-examples/tree/master/Lex.And.Yacc)
 - [flex与bison](https://github.com/hexu1985/compilers-principles-examples/tree/master/Flex.And.Bison)
