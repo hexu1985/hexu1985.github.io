@@ -9,6 +9,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Protobuf.Tutorial)
 - [Qt Programming Tutorial](https://github.com/hexu1985/Qt.Programming.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Qt.Programming.Tutorial)
+- [Qt Programming Recipes](https://github.com/hexu1985/Qt.Programming.Recipes) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Qt.Programming.Recipes)
 - [pybind11 Tutorial](https://github.com/hexu1985/Pybind11.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Pybind11.Tutorial)
 - [Reimplement of C++ Standard Library](https://github.com/hexu1985/Reimplement.Of.Cpp.Standard.Library) <kbd>new!</kbd>
