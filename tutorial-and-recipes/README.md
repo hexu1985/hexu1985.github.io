@@ -17,6 +17,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Reimplement.Of.Cpp.Standard.Library)
 - [Collection of C++ Utility Tools](https://github.com/hexu1985/Collection.Of.Cpp.Utility.Tools) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Cpp.Utility.Tools)
+- [Boost C++ Library Recipes](https://github.com/hexu1985/Boost.Cpp.Library.Recipes) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Boost.Cpp.Library.Recipes)
 
 ### Develop Tools
 - [x] [ASan Tutorial](https://github.com/hexu1985/ASan.Tutorial) <kbd>new!</kbd>
