@@ -166,6 +166,13 @@
 - [深入理解程序设计--使用Linux汇编语言](https://github.com/hexu1985/assembly-programming-examples/tree/master/Programming.From.The.Ground.Up)
 - [x64汇编语言: 从新手到AVX专家](https://github.com/hexu1985/assembly-programming-examples/tree/master/Beginning.x64.Assembly.Programming)
 
+### [SQL语言](https://github.com/hexu1985/sql-scripts-examples)
+- [Head First SQL](https://github.com/hexu1985/sql-scripts-examples/tree/master/Head.First.SQL)
+- [SQL基础教程](https://github.com/hexu1985/sql-scripts-examples/tree/master/SQL.Basic.Course)
+- [MySQL必知必会](https://github.com/hexu1985/sql-scripts-examples/tree/master/MySQL.Crash.Course)
+- [MySQL基础教程](https://github.com/hexu1985/sql-scripts-examples/tree/master/MySQL.Basic.Course)
+- [SQLite权威指南](https://github.com/hexu1985/sql-scripts-examples/tree/master/The.Definitive.Guide.To.SQLite)
+
 ### [编译原理](https://github.com/hexu1985/compilers-principles-examples)
 - [编译原理及实践](https://github.com/hexu1985/compilers-principles-examples/tree/master/Compiler.Construction.Principles.And.Practice)
 - [两周自制脚本语言](https://github.com/hexu1985/compilers-principles-examples/tree/master/Homemake.Scripting.Languages.In.Two.Weeks)
@@ -211,33 +218,10 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.CUDA.Handbook)
 - [二进制分析 实战](https://github.com/hexu1985/Practical.Binary.Analysis)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Binary.Analysis)
-
-### Web相关
-- [Head First HTML与CSS](https://github.com/hexu1985/Head.First.HTML.And.CSS)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Head.First.HTML.And.CSS)
 - [JSON必知必会](https://github.com/hexu1985/introduction-to-javascript-object-notation)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/introduction-to-javascript-object-notation)
-- [斯坦福程序设计入门课 JavaScript实现](https://github.com/hexu1985/Introduction.To.Javascript.Programming)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Introduction.To.Javascript.Programming)
-- [libuv中文教程](https://github.com/hexu1985/Introduction.To.Libuv)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Introduction.To.Libuv)
 - [Redis实战](https://github.com/hexu1985/Redis.In.Action)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Redis.In.Action)
-
-### 数据库
-- [Head First SQL](https://github.com/hexu1985/Head.First.SQL)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Head.First.SQL)
-- [SQL基础教程](https://github.com/hexu1985/SQL.Basic.Course)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/SQL.Basic.Course)
-- [SQLite权威指南](https://github.com/hexu1985/The.Definitive.Guide.To.SQLite)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.Definitive.Guide.To.SQLite)
-- [MySQL必知必会](https://github.com/hexu1985/MySQL.Crash.Course)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/MySQL.Crash.Course)
-
-
-### 科学计算
-- [数值方法(C++描述)](https://github.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)
 
 
 ### 计算机图形学及多媒体
