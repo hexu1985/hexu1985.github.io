@@ -216,8 +216,6 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Professional.CUDA.C.Programming)
 - [CUDA专家手册：GPU编程权威指南](https://github.com/hexu1985/The.CUDA.Handbook)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.CUDA.Handbook)
-- [二进制分析 实战](https://github.com/hexu1985/Practical.Binary.Analysis)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Binary.Analysis)
 - [JSON必知必会](https://github.com/hexu1985/introduction-to-javascript-object-notation)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/introduction-to-javascript-object-notation)
 - [Redis实战](https://github.com/hexu1985/Redis.In.Action)
