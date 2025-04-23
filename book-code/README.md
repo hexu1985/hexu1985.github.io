@@ -95,7 +95,6 @@
 + Qt4
     - [C++ GUI Qt4编程(第二版)](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Cpp.GUI.Programming.with.Qt4)
     - [C++ Qt设计模式(第二版)](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Design.Patterns.in.Cpp.with.Qt)
-    - [Linux窗口程序设计 Qt4精彩实例分析](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Linux.GUI.Programming.With.Qt4)
     - [Qt高级编程](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Advanced.Qt.Programming)
 + Qt5
     - [Qt5开发及实例](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Qt5.Development.And.Example)
