@@ -201,6 +201,7 @@
 
 ### [计算机图形学OpenGL](https://github.com/hexu1985/opengl-programming-examples)
 - [The Cherno OpenGL(video lesson)](https://github.com/hexu1985/opengl-programming-examples/tree/master/The.Cherno.OpenGL.Tutorial)
+- [计算机图形学编程(使用OpenGL和C++)](https://github.com/hexu1985/opengl-programming-examples/tree/master/Computer.Graphics.Programming.In.OpenGL.With.Cpp)
 
 ### [计算机视觉OpenCV](https://github.com/hexu1985/opencv-examples)
 - [学习OpenCV3](https://github.com/hexu1985/opencv-examples/tree/master/Learning.OpenCV)
@@ -229,8 +230,6 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Computer.Graphics.Using.OpenGL)
 - [3D计算机图形学(OpenGL版)](https://github.com/hexu1985/Computer.Graphics.3D.With.OpenGL)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Computer.Graphics.3D.With.OpenGL)
-- [计算机图形学编程(使用OpenGL和C++)](https://github.com/hexu1985/Computer.Graphics.Programming.In.OpenGL.With.Cpp)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Computer.Graphics.Programming.In.OpenGL.With.Cpp)
 - [OpenGL编程基础](https://github.com/hexu1985/OpenGL.Primer)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenGL.Primer)
 - [Processing编程学习指南](https://github.com/hexu1985/Learning.Processing) <kbd>new!</kbd>
