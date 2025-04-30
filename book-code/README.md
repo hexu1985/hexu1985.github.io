@@ -184,7 +184,7 @@
 - [Modern CMake for C++](https://github.com/hexu1985/project-builder-examples/tree/master/Modern.CMake.For.Cpp)
 
 ### [Vim编辑器](https://github.com/hexu1985/vim-editor-examples)
-- [学习Vim](https://github.com/hexu1985/vim-editor-examples/tree/master/Learn.Vim)
+- [学习vi和Vim编辑器](https://github.com/hexu1985/vim-editor-examples/tree/master/Learning.The.Vi.And.Vim.Editors)
 - [Vim实用技巧](https://github.com/hexu1985/vim-editor-examples/tree/master/Practical.Vim)
 - [Vim 8文本处理实战](https://github.com/hexu1985/vim-editor-examples/tree/master/Mastering.Vim)
 
