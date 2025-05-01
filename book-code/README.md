@@ -116,8 +116,6 @@
     - [Python标准库](https://github.com/hexu1985/python-programming-examples/tree/master/Python.Standard.Library.By.Example)
     - [Python并行编程实战](https://github.com/hexu1985/python-programming-examples/tree/master/Python.Parallel.Programming.Cookbook)
 + tkinter
-    - [Python GUI设计: tkinter菜鸟编程](https://github.com/hexu1985/python-programming-examples/tree/master/Python.GUI.Tkinter.Rookie.Programming)
-    - [Python GUI设计: tkinter从入门到实践](https://github.com/hexu1985/python-programming-examples/tree/master/Python.GUI.Tkinter.From.Novice.To.Practice)
     - [Python与Tkinter编程](https://github.com/hexu1985/python-programming-examples/tree/master/Python.And.Tkinter.Programming)
     - [Python GUI Programming Cookbook](https://github.com/hexu1985/python-programming-examples/tree/master/Python.GUI.Programming.Cookbook)
 + 其他
