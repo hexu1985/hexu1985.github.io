@@ -128,14 +128,13 @@
     - [用Python学数学](https://github.com/hexu1985/python-data-science-examples/tree/master/Math.Adventures.With.Python)
     - [用Python编程和实践!数学教科书](https://github.com/hexu1985/python-data-science-examples/tree/master/Python.Math.Textbook)
     - [程序员的数学基础 python实战](https://github.com/hexu1985/python-data-science-examples/tree/master/Math.Fundamentals.For.Programmers.Using.Python)
-+ matplotlib
-    - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/python-data-science-examples/tree/master/Matplotlib.Practice)
-    - [Python数据可视化之matplotlib精进](https://github.com/hexu1985/python-data-science-examples/tree/master/Matplotlib.Enchance)
-    - [Python数据可视化编程实战](https://github.com/hexu1985/python-data-science-examples/tree/master/Python.Data.Visualization.Cookbook)
 + 数值计算
+    - [Python应用数值方法](https://github.com/hexu1985/python-data-science-examples/tree/master/Applied.Numerical.Methods.With.Python)
++ 数据科学
     - [Numpy数据处理详解](https://github.com/hexu1985/python-data-science-examples/tree/master/Numpy.Data.Processing.Detailed.Explanation)
     - [Pandas数据预处理详解](https://github.com/hexu1985/python-data-science-examples/tree/master/Pandas.Data.Preprocessing.Explanation)
-    - [Python应用数值方法](https://github.com/hexu1985/python-data-science-examples/tree/master/Applied.Numerical.Methods.With.Python)
+    - [Python数据可视化编程实战](https://github.com/hexu1985/python-data-science-examples/tree/master/Python.Data.Visualization.Cookbook)
+    - [Python数据科学手册](https://github.com/hexu1985/python-data-science-examples/tree/master/Python.Data.Science.Handbook)
 
 ### [Python游戏编程](https://github.com/hexu1985/python-game-programming-examples)
 - [Python游戏编程快速上手](https://github.com/hexu1985/python-game-programming-examples/tree/master/Invent.Your.Own.Computer.Games.With.Python)
