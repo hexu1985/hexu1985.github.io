@@ -1,11 +1,13 @@
 ## 随书示例代码
 
 ### [设计模式](https://github.com/hexu1985/design-patterns-examples) 
+- [敏捷软件开发：原则、模式与实践 示例代码](https://github.com/hexu1985/design-patterns-examples/tree/master/Agile.Software.Development)
 - [软件架构与模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Architectural.And.Design.Patterns.Of.Software.Engineering)
-- [Head First设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Head.First.Design.Pattern)
-- [敏捷软件开发：原则、模式与实践](https://github.com/design-patterns-examples/tree/master/hexu1985/Agile.Software.Development)
-- [精通Python设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Mastering.Python.Design.Patterns)
 - [图解设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Diagrammatize.Design.Pattern)
+- [Head First设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Head.First.Design.Pattern)
+- [精通Python设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Mastering.Python.Design.Patterns)
+- [C++20设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Design.Patterns.Modern.Cpp20)
+- [Python设计模式实战](https://github.com/hexu1985/design-patterns-examples/tree/master/Python.Programming.With.Design.Patterns)
 
 ### [系统编程](https://github.com/hexu1985/system-programming-examples)
 - [UNIX环境高级编程](https://github.com/hexu1985/system-programming-examples/tree/master/Advanced.Programming.In.UNIX.Environment)
