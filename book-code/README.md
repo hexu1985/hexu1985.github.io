@@ -166,6 +166,7 @@
 - [SQLite权威指南](https://github.com/hexu1985/sql-scripts-examples/tree/master/The.Definitive.Guide.To.SQLite)
 
 ### [编译原理](https://github.com/hexu1985/compilers-principles-examples)
+- [编程语言实现模式](https://github.com/hexu1985/compilers-principles-examples/tree/master/Language.Implementation.Patterns)
 - [编译原理及实践](https://github.com/hexu1985/compilers-principles-examples/tree/master/Compiler.Construction.Principles.And.Practice)
 - [两周自制脚本语言](https://github.com/hexu1985/compilers-principles-examples/tree/master/Homemake.Scripting.Languages.In.Two.Weeks)
 - [lex与yacc](https://github.com/hexu1985/compilers-principles-examples/tree/master/Lex.And.Yacc)
