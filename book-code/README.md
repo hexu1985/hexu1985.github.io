@@ -72,6 +72,7 @@
     - [C++ Templates](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.Templates)
     - [学习C++20](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.20.For.Programmers)
     - [C++20编程技巧](https://github.com/hexu1985/cpp-programming-examples/tree/master/Cpp.20.Recipes)
+    - [现代C++编程实战](https://github.com/hexu1985/cpp-programming-examples/tree/master/Modern.Cpp.Programming.Cookbook)
 + 标准库
     - [标准C++输入输出流与本地化](https://github.com/hexu1985/cpp-programming-examples/tree/master/Standard.Cpp.IOStreams.And.Locales)
     - [C++标准库](https://github.com/hexu1985/cpp-programming-examples/tree/master/The.Cpp.Standard.Library)
