@@ -47,4 +47,4 @@
 - [OpenCV Docs](https://docs.opencv.org/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Markdown 官方教程](https://markdown.com.cn/)
-
+- [Learn OpenGL](https://learnopengl-cn.github.io/)

@@ -9,12 +9,16 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Protobuf.Tutorial)
 - [Qt Programming Tutorial](https://github.com/hexu1985/Qt.Programming.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Qt.Programming.Tutorial)
+- [Qt Programming Recipes](https://github.com/hexu1985/Qt.Programming.Recipes) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Qt.Programming.Recipes)
 - [pybind11 Tutorial](https://github.com/hexu1985/Pybind11.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Pybind11.Tutorial)
 - [Reimplement of C++ Standard Library](https://github.com/hexu1985/Reimplement.Of.Cpp.Standard.Library) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Reimplement.Of.Cpp.Standard.Library)
 - [Collection of C++ Utility Tools](https://github.com/hexu1985/Collection.Of.Cpp.Utility.Tools) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Cpp.Utility.Tools)
+- [Boost C++ Library Recipes](https://github.com/hexu1985/Boost.Cpp.Library.Recipes) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Boost.Cpp.Library.Recipes)
 
 ### Develop Tools
 - [x] [ASan Tutorial](https://github.com/hexu1985/ASan.Tutorial) <kbd>new!</kbd>
@@ -45,6 +49,8 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Linux.Network.Programming.Tutorial)
 - [Collection of Linux tools](https://github.com/hexu1985/Collection.Of.Linux.Tools) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Collection.Of.Linux.Tools)
+- [Linux System Tools Tutorial](https://github.com/hexu1985/Linux.System.Tools.Tutorial) <kbd>new!</kbd>
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Linux.System.Tools.Tutorial)
 
 ### Math & Algorithms 
 - [Collection of Math Theorems](https://github.com/hexu1985/Collection.Of.Math.Theorems)

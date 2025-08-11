@@ -1,11 +1,13 @@
 ## 随书示例代码
 
 ### [设计模式](https://github.com/hexu1985/design-patterns-examples) 
+- [敏捷软件开发：原则、模式与实践 示例代码](https://github.com/hexu1985/design-patterns-examples/tree/master/Agile.Software.Development)
 - [软件架构与模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Architectural.And.Design.Patterns.Of.Software.Engineering)
-- [Head First设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Head.First.Design.Pattern)
-- [敏捷软件开发：原则、模式与实践](https://github.com/design-patterns-examples/tree/master/hexu1985/Agile.Software.Development)
-- [精通Python设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Mastering.Python.Design.Patterns)
 - [图解设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Diagrammatize.Design.Pattern)
+- [Head First设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Head.First.Design.Pattern)
+- [精通Python设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Mastering.Python.Design.Patterns)
+- [C++20设计模式](https://github.com/hexu1985/design-patterns-examples/tree/master/Design.Patterns.Modern.Cpp20)
+- [Python设计模式实战](https://github.com/hexu1985/design-patterns-examples/tree/master/Python.Programming.With.Design.Patterns)
 
 ### [系统编程](https://github.com/hexu1985/system-programming-examples)
 - [UNIX环境高级编程](https://github.com/hexu1985/system-programming-examples/tree/master/Advanced.Programming.In.UNIX.Environment)
@@ -96,7 +98,6 @@
 + Qt4
     - [C++ GUI Qt4编程(第二版)](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Cpp.GUI.Programming.with.Qt4)
     - [C++ Qt设计模式(第二版)](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Design.Patterns.in.Cpp.with.Qt)
-    - [Linux窗口程序设计 Qt4精彩实例分析](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Linux.Windows.Programming.With.Qt4)
     - [Qt高级编程](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Advanced.Qt.Programming)
 + Qt5
     - [Qt5开发及实例](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Qt5.Development.And.Example)
@@ -118,8 +119,6 @@
     - [Python标准库](https://github.com/hexu1985/python-programming-examples/tree/master/Python.Standard.Library.By.Example)
     - [Python并行编程实战](https://github.com/hexu1985/python-programming-examples/tree/master/Python.Parallel.Programming.Cookbook)
 + tkinter
-    - [Python GUI设计: tkinter菜鸟编程](https://github.com/hexu1985/python-programming-examples/tree/master/Python.GUI.Tkinter.Rookie.Programming)
-    - [Python GUI设计: tkinter从入门到实践](https://github.com/hexu1985/python-programming-examples/tree/master/Python.GUI.Tkinter.From.Novice.To.Practice)
     - [Python与Tkinter编程](https://github.com/hexu1985/python-programming-examples/tree/master/Python.And.Tkinter.Programming)
     - [Python GUI Programming Cookbook](https://github.com/hexu1985/python-programming-examples/tree/master/Python.GUI.Programming.Cookbook)
 + 其他
@@ -132,20 +131,13 @@
     - [用Python学数学](https://github.com/hexu1985/python-data-science-examples/tree/master/Math.Adventures.With.Python)
     - [用Python编程和实践!数学教科书](https://github.com/hexu1985/python-data-science-examples/tree/master/Python.Math.Textbook)
     - [程序员的数学基础 python实战](https://github.com/hexu1985/python-data-science-examples/tree/master/Math.Fundamentals.For.Programmers.Using.Python)
-+ numpy
++ 数值计算
+    - [Python应用数值方法](https://github.com/hexu1985/python-data-science-examples/tree/master/Applied.Numerical.Methods.With.Python)
++ 数据科学
     - [Numpy数据处理详解](https://github.com/hexu1985/python-data-science-examples/tree/master/Numpy.Data.Processing.Detailed.Explanation)
-+ matplotlib
-    - [Python数据可视化之matplotlib实践](https://github.com/hexu1985/python-data-science-examples/tree/master/Matplotlib.Practice)
-    - [Python数据可视化之matplotlib精进](https://github.com/hexu1985/python-data-science-examples/tree/master/Matplotlib.Enchance)
-    - [Python数据可视化编程实战](https://github.com/hexu1985/python-data-science-examples/tree/master/Python.Data.Visualization.Cookbook)
-+ pandas
     - [Pandas数据预处理详解](https://github.com/hexu1985/python-data-science-examples/tree/master/Pandas.Data.Preprocessing.Explanation)
-+ 机器学习
-    - [机器学习图解](https://github.com/hexu1985/python-data-science-examples/tree/master/Grokking.Machine.Learning)
-+ 深度学习
-    - [深度学习入门：基于Python的理论与实现](https://github.com/hexu1985/python-data-science-examples/tree/master/Deep.Learning.From.Scratch)
-    - [Pytorch深度学习指南](https://github.com/hexu1985/python-data-science-examples/tree/master/Pytorch.Step.By.Step)
-    - [深度学习图解](https://github.com/hexu1985/python-data-science-examples/tree/master/Grokking.Deep.Learning)
+    - [Python数据可视化编程实战](https://github.com/hexu1985/python-data-science-examples/tree/master/Python.Data.Visualization.Cookbook)
+    - [Python数据科学手册](https://github.com/hexu1985/python-data-science-examples/tree/master/Python.Data.Science.Handbook)
 
 ### [Python游戏编程](https://github.com/hexu1985/python-game-programming-examples)
 - [Python游戏编程快速上手](https://github.com/hexu1985/python-game-programming-examples/tree/master/Invent.Your.Own.Computer.Games.With.Python)
@@ -167,7 +159,15 @@
 - [深入理解程序设计--使用Linux汇编语言](https://github.com/hexu1985/assembly-programming-examples/tree/master/Programming.From.The.Ground.Up)
 - [x64汇编语言: 从新手到AVX专家](https://github.com/hexu1985/assembly-programming-examples/tree/master/Beginning.x64.Assembly.Programming)
 
+### [SQL语言](https://github.com/hexu1985/sql-scripts-examples)
+- [Head First SQL](https://github.com/hexu1985/sql-scripts-examples/tree/master/Head.First.SQL)
+- [SQL基础教程](https://github.com/hexu1985/sql-scripts-examples/tree/master/SQL.Basic.Course)
+- [MySQL必知必会](https://github.com/hexu1985/sql-scripts-examples/tree/master/MySQL.Crash.Course)
+- [MySQL基础教程](https://github.com/hexu1985/sql-scripts-examples/tree/master/MySQL.Basic.Course)
+- [SQLite权威指南](https://github.com/hexu1985/sql-scripts-examples/tree/master/The.Definitive.Guide.To.SQLite)
+
 ### [编译原理](https://github.com/hexu1985/compilers-principles-examples)
+- [编程语言实现模式](https://github.com/hexu1985/compilers-principles-examples/tree/master/Language.Implementation.Patterns)
 - [编译原理及实践](https://github.com/hexu1985/compilers-principles-examples/tree/master/Compiler.Construction.Principles.And.Practice)
 - [两周自制脚本语言](https://github.com/hexu1985/compilers-principles-examples/tree/master/Homemake.Scripting.Languages.In.Two.Weeks)
 - [lex与yacc](https://github.com/hexu1985/compilers-principles-examples/tree/master/Lex.And.Yacc)
@@ -185,7 +185,7 @@
 - [Modern CMake for C++](https://github.com/hexu1985/project-builder-examples/tree/master/Modern.CMake.For.Cpp)
 
 ### [Vim编辑器](https://github.com/hexu1985/vim-editor-examples)
-- [学习Vim](https://github.com/hexu1985/vim-editor-examples/tree/master/Learn.Vim)
+- [学习vi和Vim编辑器](https://github.com/hexu1985/vim-editor-examples/tree/master/Learning.The.Vi.And.Vim.Editors)
 - [Vim实用技巧](https://github.com/hexu1985/vim-editor-examples/tree/master/Practical.Vim)
 - [Vim 8文本处理实战](https://github.com/hexu1985/vim-editor-examples/tree/master/Mastering.Vim)
 
@@ -193,6 +193,10 @@
 - [Python Docker实战](https://github.com/hexu1985/docker-examples/tree/master/Practical.Docker.With.Python)
 - [Docker实战](https://github.com/hexu1985/docker-examples/tree/master/Docker.In.Action)
 - [深入浅出Docker](https://github.com/hexu1985/docker-examples/tree/master/Docker.Deep.Dive)
+
+### [计算机图形学OpenGL](https://github.com/hexu1985/opengl-programming-examples)
+- [The Cherno OpenGL(video lesson)](https://github.com/hexu1985/opengl-programming-examples/tree/master/The.Cherno.OpenGL.Tutorial)
+- [计算机图形学编程(使用OpenGL和C++)](https://github.com/hexu1985/opengl-programming-examples/tree/master/Computer.Graphics.Programming.In.OpenGL.With.Cpp)
 
 ### [计算机视觉OpenCV](https://github.com/hexu1985/opencv-examples)
 - [学习OpenCV3](https://github.com/hexu1985/opencv-examples/tree/master/Learning.OpenCV)
@@ -210,35 +214,10 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Professional.CUDA.C.Programming)
 - [CUDA专家手册：GPU编程权威指南](https://github.com/hexu1985/The.CUDA.Handbook)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.CUDA.Handbook)
-- [二进制分析 实战](https://github.com/hexu1985/Practical.Binary.Analysis)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Practical.Binary.Analysis)
-
-### Web相关
-- [Head First HTML与CSS](https://github.com/hexu1985/Head.First.HTML.And.CSS)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Head.First.HTML.And.CSS)
 - [JSON必知必会](https://github.com/hexu1985/introduction-to-javascript-object-notation)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/introduction-to-javascript-object-notation)
-- [斯坦福程序设计入门课 JavaScript实现](https://github.com/hexu1985/Introduction.To.Javascript.Programming)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Introduction.To.Javascript.Programming)
-- [libuv中文教程](https://github.com/hexu1985/Introduction.To.Libuv)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Introduction.To.Libuv)
 - [Redis实战](https://github.com/hexu1985/Redis.In.Action)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Redis.In.Action)
-
-### 数据库
-- [Head First SQL](https://github.com/hexu1985/Head.First.SQL)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Head.First.SQL)
-- [SQL基础教程](https://github.com/hexu1985/SQL.Basic.Course)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/SQL.Basic.Course)
-- [SQLite权威指南](https://github.com/hexu1985/The.Definitive.Guide.To.SQLite)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/The.Definitive.Guide.To.SQLite)
-- [MySQL必知必会](https://github.com/hexu1985/MySQL.Crash.Course)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/MySQL.Crash.Course)
-
-
-### 科学计算
-- [数值方法(C++描述)](https://github.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp) <kbd>new!</kbd>
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Numerical.Methods.With.Computer.Programs.In.Cpp)
 
 
 ### 计算机图形学及多媒体
@@ -246,8 +225,6 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Computer.Graphics.Using.OpenGL)
 - [3D计算机图形学(OpenGL版)](https://github.com/hexu1985/Computer.Graphics.3D.With.OpenGL)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Computer.Graphics.3D.With.OpenGL)
-- [计算机图形学编程(使用OpenGL和C++)](https://github.com/hexu1985/Computer.Graphics.Programming.In.OpenGL.With.Cpp)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Computer.Graphics.Programming.In.OpenGL.With.Cpp)
 - [OpenGL编程基础](https://github.com/hexu1985/OpenGL.Primer)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/OpenGL.Primer)
 - [Processing编程学习指南](https://github.com/hexu1985/Learning.Processing) <kbd>new!</kbd>
