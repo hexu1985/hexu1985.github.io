@@ -17,6 +17,8 @@
 - [asio library](https://think-async.com/Asio/)
 - [protobuf docs](https://protobuf.dev/)
 - [nlohmann/json docs](https://json.nlohmann.me/api/basic_json/)
+- [compiler explorer](https://godbolt.org/)
+- [c++ insights](https://cppinsights.io/)
 
 ### Python
 - [Python 3.x Docs](https://docs.python.org/3/)
