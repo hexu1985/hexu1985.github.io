@@ -18,6 +18,7 @@
 - [protobuf docs](https://protobuf.dev/)
 - [nlohmann/json docs](https://json.nlohmann.me/api/basic_json/)
 - [compiler explorer](https://godbolt.org/)
+      [<kbd>alias</kbd>](https://compiler-explorer.com/)
 - [c++ insights](https://cppinsights.io/)
 
 ### Python
