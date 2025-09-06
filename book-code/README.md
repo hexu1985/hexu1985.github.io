@@ -197,6 +197,8 @@
 ### [计算机图形学OpenGL](https://github.com/hexu1985/opengl-programming-examples)
 - [The Cherno OpenGL(video lesson)](https://github.com/hexu1985/opengl-programming-examples/tree/master/The.Cherno.OpenGL.Tutorial)
 - [计算机图形学编程(使用OpenGL和C++)](https://github.com/hexu1985/opengl-programming-examples/tree/master/Computer.Graphics.Programming.In.OpenGL.With.Cpp)
+- [Shader开发实战](https://github.com/hexu1985/opengl-programming-examples/tree/master/Practical.Shader.Development)
+- [OpenGL编程指南](https://github.com/hexu1985/opengl-programming-examples/tree/master/OpenGL.Programming.Guide)
 
 ### [计算机视觉OpenCV](https://github.com/hexu1985/opencv-examples)
 - [学习OpenCV3](https://github.com/hexu1985/opencv-examples/tree/master/Learning.OpenCV)
