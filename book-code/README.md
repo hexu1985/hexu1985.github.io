@@ -131,6 +131,7 @@
     - [用Python学数学](https://github.com/hexu1985/python-data-science-examples/tree/master/Math.Adventures.With.Python)
     - [用Python编程和实践!数学教科书](https://github.com/hexu1985/python-data-science-examples/tree/master/Python.Math.Textbook)
     - [程序员的数学基础 python实战](https://github.com/hexu1985/python-data-science-examples/tree/master/Math.Fundamentals.For.Programmers.Using.Python)
+    - [程序员数学 用Python学透线性代数和微积分](https://github.com/hexu1985/python-data-science-examples/tree/master/Math.For.Programmers)
 + 数值计算
     - [Python应用数值方法](https://github.com/hexu1985/python-data-science-examples/tree/master/Applied.Numerical.Methods.With.Python)
 + 数据科学
