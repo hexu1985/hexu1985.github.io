@@ -99,12 +99,14 @@
     - [C++ GUI Qt4编程(第二版)](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Cpp.GUI.Programming.with.Qt4)
     - [C++ Qt设计模式(第二版)](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Design.Patterns.in.Cpp.with.Qt)
     - [Qt高级编程](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Advanced.Qt.Programming)
+    - [Linux窗口程序设计 Qt4精彩实例分析](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Linux.GUI.Programming.With.Qt4)
 + Qt5
     - [Qt5开发及实例](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Qt5.Development.And.Example)
     - [Qt5开发实战](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Qt5.Programming.Guide)
     - [Qt5.9 C++开发指南](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Qt5_9.Cpp.Developer.Guide)
 + Qt6
     - [Qt6 C++开发指南](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Qt6.Cpp.Developer.Guide)
+    - [Qt6 C++编程实例解析](https://github.com/hexu1985/qt-gui-programming-examples/tree/master/Qt6.Cpp.GUI.Programming.Cookbook)
 
 ### [Python编程](https://github.com/hexu1985/python-programming-examples)
 + 语法
