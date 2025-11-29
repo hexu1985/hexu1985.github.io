@@ -61,7 +61,7 @@
     - [C和指针](https://github.com/hexu1985/c-programming-examples/tree/master/Pointers.On.C)
     - [C语言核心技术](https://github.com/hexu1985/c-programming-examples/tree/master/C.In.A.Nutshell)
     - [C语言程序设计:现代方法](https://github.com/hexu1985/c-programming-examples/tree/master/C.Programming.Modern.Approach)
-    - [流利的C语言](https://github.com/hexu1985/c-programming-examples/tree/master/Fluent.C)
+    - [流畅的C语言](https://github.com/hexu1985/c-programming-examples/tree/master/Fluent.C)
 + 标准库
     - [C标准库](https://github.com/hexu1985/c-programming-examples/tree/master/The.Standard.C.Library)
 
