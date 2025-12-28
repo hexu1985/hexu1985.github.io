@@ -29,8 +29,6 @@
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Git.Tutorial)
 - [CMake Tutorial](https://github.com/hexu1985/CMake.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/CMake.Tutorial)
-- [C++ Compiling Technology Tutorial](https://github.com/hexu1985/Cpp.Compiling.Technology.Tutorial)
-      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.Compiling.Technology.Tutorial)
 - [C++ Project Manage Recipes](https://github.com/hexu1985/Cpp.Project.Manage.Recipes)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Cpp.Project.Manage.Recipes)
 
@@ -45,6 +43,8 @@
 ### Linux
 - [x] [Bash Tutorial](https://github.com/hexu1985/Bash.Tutorial)
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Bash.Tutorial)
+- [x] [Linux C/C++ Compiling Technology Tutorial](https://github.com/hexu1985/Linux.Cpp.Compiling.Technology.Tutorial)
+      [<kbd>backups</kbd>](https://gitee.com/hexu1985/Linux.Cpp.Compiling.Technology.Tutorial)
 - [Linux Network Programming Tutorial](https://github.com/hexu1985/Linux.Network.Programming.Tutorial) <kbd>new!</kbd>
       [<kbd>backups</kbd>](https://gitee.com/hexu1985/Linux.Network.Programming.Tutorial)
 - [Collection of Linux tools](https://github.com/hexu1985/Collection.Of.Linux.Tools) <kbd>new!</kbd>
