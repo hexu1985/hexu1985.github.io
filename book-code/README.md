@@ -21,6 +21,7 @@
 - [操作系统导论](https://github.com/hexu1985/system-programming-examples/tree/master/Operating.Systems.Three.Easy.Pieces)
 - [计算机是如何工作的](https://github.com/hexu1985/system-programming-examples/tree/master/How.Computers.Really.Work)
 - [Linux系统编程](https://github.com/hexu1985/system-programming-examples/tree/master/Linux.System.Programming.Techniques)
+- [并行计算与高性能计算](https://github.com/hexu1985/system-programming-examples/tree/master/Essentials.Of.Parallel.Computing)
 
 ### [网络编程](https://github.com/hexu1985/network-programming-examples) 
 + C
@@ -174,6 +175,7 @@
 - [编程语言实现模式](https://github.com/hexu1985/compilers-principles-examples/tree/master/Language.Implementation.Patterns)
 - [编译原理及实践](https://github.com/hexu1985/compilers-principles-examples/tree/master/Compiler.Construction.Principles.And.Practice)
 - [两周自制脚本语言](https://github.com/hexu1985/compilers-principles-examples/tree/master/Homemake.Scripting.Languages.In.Two.Weeks)
+- [自制编程语言](https://github.com/hexu1985/compilers-principles-examples/tree/master/Homemade.Programming.Language)
 - [lex与yacc](https://github.com/hexu1985/compilers-principles-examples/tree/master/Lex.And.Yacc)
 - [flex与bison](https://github.com/hexu1985/compilers-principles-examples/tree/master/Flex.And.Bison)
 
